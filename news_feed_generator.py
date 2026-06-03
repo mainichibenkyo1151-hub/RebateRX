@@ -2,6 +2,7 @@ import os
 import json
 import feedparser
 from datetime import datetime
+from deep_translator import GoogleTranslator
 
 # =========================
 # RSS SOURCES
@@ -186,11 +187,25 @@ def transform(items):
         text = i["title"] + " " + i["summary"]
 
         results.append({
-            "headline": i["title"],
-            "summary": i["summary"][:300],
+            "id": i["link"],
+
+            "headline": translate_fields(i["title"]),
+
+            "summary": {
+                lang: translate_text(i["summary"][:300], code)
+                for lang, code in LANG_MAP.items()
+            },
+
             "category": categorize(text),
             "score": i["score"],
-            "patientImpact": "May affect drug access, coverage, or cost.",
+            "patientImpact": {
+                lang: translate_text(
+                    "May affect drug access, coverage, or cost.",
+                    code
+                )
+                for lang, code in LANG_MAP.items()
+            },
+
             "link": i["link"],
             "published": i["published"]
         })
@@ -228,7 +243,7 @@ def save(news):
     }
 
     with open("news.json", "w", encoding="utf-8") as f:
-        json.dump(output, f, indent=2)
+        json.dump(output, f, indent=2, ensure_ascii=False)
 
 
 # =========================
@@ -239,6 +254,38 @@ def push_to_git():
     os.system("git add news.json")
     os.system('git commit -m "update pharma news feed" || exit 0')
     os.system("git push")
+
+# =========================
+# TRANSLATION ENGINE
+# =========================
+
+LANG_MAP = {
+    "en": "en",
+    "es": "es",
+    "zh": "zh-CN",
+    "vi": "vi",
+    "ja": "ja"
+}
+
+
+def translate_text(text, lang):
+    if not text:
+        return ""
+
+    if lang == "en":
+        return text
+
+    try:
+        return GoogleTranslator(source="en", target=lang).translate(text)
+    except Exception:
+        return text  # fallback to English if translation fails
+
+
+def translate_fields(text):
+    return {
+        lang: translate_text(text, code)
+        for lang, code in LANG_MAP.items()
+    }
 
 
 # =========================
