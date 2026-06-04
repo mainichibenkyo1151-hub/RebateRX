@@ -2,7 +2,7 @@ import os
 import json
 import feedparser
 from datetime import datetime
-from deep_translator import GoogleTranslator
+import deepl  
 
 # =========================
 # RSS SOURCES
@@ -256,16 +256,21 @@ def push_to_git():
     os.system("git push")
 
 # =========================
-# TRANSLATION ENGINE
+# TRANSLATION ENGINE (DeepL Verified)
 # =========================
 
+# Updated language map to reflect valid DeepL ISO API targets
 LANG_MAP = {
     "en": "en",
-    "es": "es",
-    "zh": "zh-CN",
-    "vi": "vi",
-    "ja": "ja"
+    "es": "ES",
+    "zh": "ZH",  # DeepL accepts 'ZH' for general Chinese or 'ZH-HANS'/'ZH-HANT'
+    "vi": "VI",
+    "ja": "JA"
 }
+
+# Initialize DeepL Client securely
+api_key = os.getenv("DEEPL_API_KEY")
+translator = deepl.Translator(api_key) if api_key else None
 
 
 def translate_text(text, lang):
@@ -275,10 +280,18 @@ def translate_text(text, lang):
     if lang == "en":
         return text
 
+    # Fallback if environment variable wasn't injected correctly
+    if not translator:
+        print("Warning: DeepL translator not initialized. Skipping translation.")
+        return text
+
     try:
-        return GoogleTranslator(source="en", target=lang).translate(text)
-    except Exception:
-        return text  # fallback to English if translation fails
+        # DeepL automatically parses target language strings (e.g., 'JA', 'ES')
+        result = translator.translate_text(text, target_lang=lang)
+        return result.text
+    except Exception as e:
+        print(f"Translation failed for language code {lang}: {e}")
+        return text  # Fallback to original English on failure
 
 
 def translate_fields(text):
