@@ -278,7 +278,6 @@ def translate_text(text, target_language):
     if target_language == "English":
         return text
 
-    # Guard clause if the GitHub Actions environment secret is missing
     if not OPENROUTER_API_KEY:
         print("Warning: OPENROUTER_API_KEY not found. Falling back to English.")
         return text
@@ -299,30 +298,37 @@ def translate_text(text, target_language):
             url,
             headers={
                 "Authorization": f"Bearer {OPENROUTER_API_KEY}",
+                # CRITICAL FIX: Adding custom application identifier details to stop free tier bot-blocking
                 "HTTP-Referer": "https://github.com",
-                "X-Title": "Pharma RSS Translator"
+                "X-Title": "Automated Pharma RSS Translator App",
+                "User-Agent": "PharmaNewsFeedBot/1.0 (Linux; Automated Translation Pipeline)"
             },
             json={
                 "model": "meta-llama/llama-3-8b-instruct:free",
                 "messages": [{"role": "user", "content": prompt}],
-                "temperature": 0.1  # Low temperature makes the output deterministic and clean
+                "temperature": 0.1
             },
             timeout=15
         )
         
+        # Check if the HTTP request failed completely (like a 403 Forbidden or 429 Too Many Requests)
+        if response.status_code != 200:
+            print(f"OpenRouter Connection Error (Status {response.status_code}): {response.text}")
+            return text
+            
         result = response.json()
         
-        # Handle cases where OpenRouter returns an API error payload
         if 'choices' not in result:
-            print(f"OpenRouter Error for {target_language}: {result.get('error', 'Unknown Error')}")
+            print(f"OpenRouter API Payload Error for {target_language}: {result.get('error', 'Unknown Payload Error')}")
             return text
             
         translated_output = result['choices']['message']['content'].strip()
         return translated_output
 
     except Exception as e:
-        print(f"Llama-3 translation failed for language '{target_language}': {e}")
+        print(f"Llama-3 translation completely failed for language '{target_language}': {e}")
         return text  # Safe fallback to English text string if API drops
+
         
 
 def translate_fields(text):
