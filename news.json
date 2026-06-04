@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T19:01:10.410807Z",
+  "generatedAt": "2026-06-04T19:49:48.968600Z",
   "count": 25,
   "articles": [
     {
@@ -591,34 +591,6 @@
       "published": "Fri, 17 Apr 2026 11:00:00 +0000"
     },
     {
-      "id": "https://www.fiercepharma.com/premium/webinar/1381133",
-      "headline": {
-        "en": "Adoption of AI for Early Drug Discovery: Challenges and Opportunities for CROs",
-        "es": "Adoption of AI for Early Drug Discovery: Challenges and Opportunities for CROs",
-        "zh": "Adoption of AI for Early Drug Discovery: Challenges and Opportunities for CROs",
-        "vi": "Adoption of AI for Early Drug Discovery: Challenges and Opportunities for CROs",
-        "ja": "Adoption of AI for Early Drug Discovery: Challenges and Opportunities for CROs"
-      },
-      "summary": {
-        "en": "Adoption of AI for Early Drug Discovery: Challenges and Opportunities for CROs pesurya Thu, 05/21/2026 - 13:58 Thu, 06/25/2026 - 11:00 Resource Type Webinar Dr. Subhendu Kumar Mohanty Dr. Achintya Das Santoshkumar N. Patil Raj Patra Promotion Start Fri, 05/22/2026 - 13:30 Promotion End Sun, 11/22/20",
-        "es": "Adoption of AI for Early Drug Discovery: Challenges and Opportunities for CROs pesurya Thu, 05/21/2026 - 13:58 Thu, 06/25/2026 - 11:00 Resource Type Webinar Dr. Subhendu Kumar Mohanty Dr. Achintya Das Santoshkumar N. Patil Raj Patra Promotion Start Fri, 05/22/2026 - 13:30 Promotion End Sun, 11/22/20",
-        "zh": "Adoption of AI for Early Drug Discovery: Challenges and Opportunities for CROs pesurya Thu, 05/21/2026 - 13:58 Thu, 06/25/2026 - 11:00 Resource Type Webinar Dr. Subhendu Kumar Mohanty Dr. Achintya Das Santoshkumar N. Patil Raj Patra Promotion Start Fri, 05/22/2026 - 13:30 Promotion End Sun, 11/22/20",
-        "vi": "Adoption of AI for Early Drug Discovery: Challenges and Opportunities for CROs pesurya Thu, 05/21/2026 - 13:58 Thu, 06/25/2026 - 11:00 Resource Type Webinar Dr. Subhendu Kumar Mohanty Dr. Achintya Das Santoshkumar N. Patil Raj Patra Promotion Start Fri, 05/22/2026 - 13:30 Promotion End Sun, 11/22/20",
-        "ja": "Adoption of AI for Early Drug Discovery: Challenges and Opportunities for CROs pesurya Thu, 05/21/2026 - 13:58 Thu, 06/25/2026 - 11:00 Resource Type Webinar Dr. Subhendu Kumar Mohanty Dr. Achintya Das Santoshkumar N. Patil Raj Patra Promotion Start Fri, 05/22/2026 - 13:30 Promotion End Sun, 11/22/20"
-      },
-      "category": "Pharma",
-      "score": 0,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://www.fiercepharma.com/premium/webinar/1381133",
-      "published": "Thu, 21 May 2026 17:58:59 +0000"
-    },
-    {
       "id": "https://feeds.feedblitz.com/~/956031881/0/drugchannels~Protecting-GrosstoNet-Performance-Through-SingleChannel-Ecosystems.html",
       "headline": {
         "en": "Protecting Gross-to-Net Performance Through Single-Channel Ecosystems",
@@ -701,6 +673,34 @@
       },
       "link": "https://feeds.feedblitz.com/~/954091460/0/drugchannels~The-Omnichannel-Gap-Building-the-CRM-of-the-Future-for-Patient-Services.html",
       "published": "Mon, 20 Apr 2026 11:00:00 +0000"
+    },
+    {
+      "id": "https://www.fiercepharma.com/resource/how-timely-precise-lab-data-drive-decisions-discovery-post-marketing-surveillance",
+      "headline": {
+        "en": "How Timely, Precise Lab Data Drive Decisions from Discovery to Post-Marketing Surveillance",
+        "es": "How Timely, Precise Lab Data Drive Decisions from Discovery to Post-Marketing Surveillance",
+        "zh": "How Timely, Precise Lab Data Drive Decisions from Discovery to Post-Marketing Surveillance",
+        "vi": "How Timely, Precise Lab Data Drive Decisions from Discovery to Post-Marketing Surveillance",
+        "ja": "How Timely, Precise Lab Data Drive Decisions from Discovery to Post-Marketing Surveillance"
+      },
+      "summary": {
+        "en": "How Timely, Precise Lab Data Drive Decisions from Discovery to Post-Marketing Surveillance How can timely, precise lab data improve decision-making across the medicine lifecycle? Download this whitepaper to explore how de-identified laboratory data supports clinical development, commercial strategy,",
+        "es": "How Timely, Precise Lab Data Drive Decisions from Discovery to Post-Marketing Surveillance How can timely, precise lab data improve decision-making across the medicine lifecycle? Download this whitepaper to explore how de-identified laboratory data supports clinical development, commercial strategy,",
+        "zh": "How Timely, Precise Lab Data Drive Decisions from Discovery to Post-Marketing Surveillance How can timely, precise lab data improve decision-making across the medicine lifecycle? Download this whitepaper to explore how de-identified laboratory data supports clinical development, commercial strategy,",
+        "vi": "How Timely, Precise Lab Data Drive Decisions from Discovery to Post-Marketing Surveillance How can timely, precise lab data improve decision-making across the medicine lifecycle? Download this whitepaper to explore how de-identified laboratory data supports clinical development, commercial strategy,",
+        "ja": "How Timely, Precise Lab Data Drive Decisions from Discovery to Post-Marketing Surveillance How can timely, precise lab data improve decision-making across the medicine lifecycle? Download this whitepaper to explore how de-identified laboratory data supports clinical development, commercial strategy,"
+      },
+      "category": "Pharma",
+      "score": -50,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://www.fiercepharma.com/resource/how-timely-precise-lab-data-drive-decisions-discovery-post-marketing-surveillance",
+      "published": "Fri, 22 May 2026 15:09:14 +0000"
     }
   ]
 }
