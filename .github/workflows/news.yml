@@ -20,7 +20,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install feedparser deep-translator deepl
+          pip install feedparser deep-translator deepl requests
 
       - name: Run generator
         run: |
