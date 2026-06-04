@@ -17,7 +17,7 @@ RSS_FEEDS = [
 ]
 
 # =========================
-# KEYWORD FILTER (pre-filter noise)
+# KEYWORDS (pre-filter noise)
 # =========================
 
 KEYWORDS = [
@@ -28,6 +28,81 @@ KEYWORDS = [
     "prior authorization", "coverage", "reimbursement",
     "drug shortage", "generic", "specialty pharmacy"
 ]
+
+# =========================
+# LANGUAGE CONFIG
+# =========================
+
+LANG_MAP = {
+    "en": "English",
+    "es": "Spanish",
+    "zh": "Simplified Chinese",
+    "vi": "Vietnamese",
+    "ja": "Japanese"
+}
+
+# =========================
+# TRANSLATION ENGINE (GeneralTranslation.com)
+# =========================
+
+GT_API_KEY = os.getenv("GENERALTRANSLATION_API_KEY")
+GT_ENDPOINT = "https://api.generaltranslation.com/v1/translate"
+
+
+def translate_text(text, target_language):
+    """
+    Translate text using GeneralTranslation.com.
+    Falls back to English if API fails.
+    """
+
+    if not text:
+        return ""
+
+    if target_language == "English":
+        return text
+
+    if not GT_API_KEY:
+        print("WARNING: Missing GENERALTRANSLATION_API_KEY. Falling back to English.")
+        return text
+
+    payload = {
+        "text": text,
+        "target_language": target_language,
+        "source_language": "English",
+        "domain": "medical_pharma"
+    }
+
+    headers = {
+        "Authorization": f"Bearer {GT_API_KEY}",
+        "Content-Type": "application/json"
+    }
+
+    try:
+        response = requests.post(
+            GT_ENDPOINT,
+            json=payload,
+            headers=headers,
+            timeout=15
+        )
+
+        if response.status_code != 200:
+            print(f"Translation error {response.status_code}: {response.text}")
+            return text
+
+        data = response.json()
+        return data.get("translated_text", text).strip()
+
+    except Exception as e:
+        print(f"Translation failed: {e}")
+        return text
+
+
+def translate_fields(text):
+    return {
+        lang: translate_text(text, lang_name)
+        for lang, lang_name in LANG_MAP.items()
+    }
+
 
 # =========================
 # FETCH RSS
@@ -87,10 +162,8 @@ def deduplicate(items):
 
     for i in items:
         key = i["title"].strip().lower()
-
         if key in seen:
             continue
-
         seen.add(key)
         unique.append(i)
 
@@ -98,21 +171,19 @@ def deduplicate(items):
 
 
 # =========================
-# RELEVANCE SCORING ENGINE
+# SCORING ENGINE
 # =========================
 
 def score_article(text):
     t = text.lower()
     score = 0
 
-    # High-impact regulatory signals
     if "fda" in t: score += 25
     if "approval" in t: score += 20
     if "recall" in t: score += 30
     if "shortage" in t: score += 25
     if "drug shortage" in t: score += 35
 
-    # Core RebateRX signals (highest weight)
     if "pbm" in t: score += 40
     if "rebate" in t: score += 30
     if "medicare" in t: score += 30
@@ -121,17 +192,14 @@ def score_article(text):
     if "prior authorization" in t: score += 35
     if "copay" in t: score += 20
 
-    # Drug categories
     if "insulin" in t: score += 25
     if "glp-1" in t or "ozempic" in t or "wegovy" in t:
         score += 30
 
-    # Policy signals
     if "policy" in t: score += 15
     if "law" in t or "bill" in t: score += 10
     if "announc" in t: score += 10
 
-    # Penalties for noise
     if "press release" in t: score -= 10
     if "sponsored" in t: score -= 50
 
@@ -146,7 +214,7 @@ def enrich_with_scores(items):
 
 
 # =========================
-# CATEGORIZATION
+# CATEGORY ENGINE
 # =========================
 
 def categorize(text):
@@ -169,7 +237,7 @@ def categorize(text):
 
 
 # =========================
-# RANKING (Bloomberg-style ordering)
+# RANKING
 # =========================
 
 def rank_items(items):
@@ -177,7 +245,7 @@ def rank_items(items):
 
 
 # =========================
-# TRANSFORM TO FINAL JSON
+# TRANSFORM FINAL OUTPUT
 # =========================
 
 def transform(items):
@@ -198,6 +266,7 @@ def transform(items):
 
             "category": categorize(text),
             "score": i["score"],
+
             "patientImpact": {
                 lang: translate_text(
                     "May affect drug access, coverage, or cost.",
@@ -214,7 +283,7 @@ def transform(items):
 
 
 # =========================
-# BUILD PIPELINE
+# PIPELINE
 # =========================
 
 def build_news():
@@ -251,79 +320,11 @@ def save(news):
 # =========================
 
 def push_to_git():
+    os.system("git config user.name 'github-actions'")
+    os.system("git config user.email 'github-actions@github.com'")
     os.system("git add news.json")
     os.system('git commit -m "update pharma news feed" || exit 0')
     os.system("git push")
-
-
-# =========================
-# TRANSLATION ENGINE (Official Free Google Gemini API)
-# =========================
-
-# Dictionary maps target codes to full language names for prompt context
-LANG_MAP = {
-    "en": "English",
-    "es": "Spanish",
-    "zh": "Simplified Chinese",
-    "vi": "Vietnamese",
-    "ja": "Japanese"
-}
-
-# Pull your Gemini token securely from your GitHub environment setup
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
-
-def translate_text(text, target_language):
-    if not text:
-        return ""
-
-    if target_language == "English":
-        return text
-
-    if not GEMINI_API_KEY:
-        print("Warning: GEMINI_API_KEY not found in environment variables. Falling back to English.")
-        return text
-
-    # Official Google Developer API Gateway endpoint
-    url = f"https://googleapis.com{GEMINI_API_KEY}"
-    
-    prompt = (
-        f"You are a professional healthcare and pharmaceutical translator.\n"
-        f"Translate the following text into fluent, natural {target_language}.\n"
-        f"Ensure specialized US healthcare terms like PBM, formulary, copay, 340B, "
-        f"and rebates are translated into their correct professional industry equivalents.\n"
-        f"Return ONLY the final translated text. Do not include intros, notes, explanations, or quotes.\n\n"
-        f"Text to translate: {text}"
-    )
-
-    payload = {
-        "contents": [{
-            "parts": [{"text": prompt}]
-        }]
-    }
-
-    try:
-        response = requests.post(url, json=payload, timeout=15)
-        
-        if response.status_code != 200:
-            print(f"Google Gemini Error (Status {response.status_code}): {response.text}")
-            return text
-            
-        result = response.json()
-        
-        # Parse Google's nested response block securely
-        translated_output = result['candidates'][0]['content']['parts'][0]['text'].strip()
-        return translated_output
-
-    except Exception as e:
-        print(f"Gemini translation failed for language '{target_language}': {e}")
-        return text  # Safe fallback to original English text string if API drops
-
-
-def translate_fields(text):
-    return {
-        lang: translate_text(text, lang_name)
-        for lang, lang_name in LANG_MAP.items()
-    }
 
 
 # =========================
