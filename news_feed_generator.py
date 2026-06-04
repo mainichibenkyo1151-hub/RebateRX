@@ -2,7 +2,7 @@ import os
 import json
 import feedparser
 from datetime import datetime
-import deepl  
+import requests  
 
 # =========================
 # RSS SOURCES
@@ -192,8 +192,8 @@ def transform(items):
             "headline": translate_fields(i["title"]),
 
             "summary": {
-                lang: translate_text(i["summary"][:300], code)
-                for lang, code in LANG_MAP.items()
+                lang: translate_text(i["summary"][:300], lang_name)
+                for lang, lang_name in LANG_MAP.items()
             },
 
             "category": categorize(text),
@@ -201,9 +201,9 @@ def transform(items):
             "patientImpact": {
                 lang: translate_text(
                     "May affect drug access, coverage, or cost.",
-                    code
+                    lang_name
                 )
-                for lang, code in LANG_MAP.items()
+                for lang, lang_name in LANG_MAP.items()
             },
 
             "link": i["link"],
@@ -256,48 +256,66 @@ def push_to_git():
     os.system("git push")
 
 # =========================
-# TRANSLATION ENGINE (DeepL Verified)
+# TRANSLATION ENGINE (Meta Llama-3 Free Endpoint)
 # =========================
 
-# Updated language map to reflect valid DeepL ISO API targets
+# Dictionary maps target codes to full language names for the AI's prompt context
 LANG_MAP = {
-    "en": "en",
-    "es": "ES",
-    "zh": "ZH",  # DeepL accepts 'ZH' for general Chinese or 'ZH-HANS'/'ZH-HANT'
-    "vi": "VI",
-    "ja": "JA"
+    "en": "English",
+    "es": "Spanish",
+    "zh": "Simplified Chinese",
+    "vi": "Vietnamese",
+    "ja": "Japanese"
 }
 
-# Initialize DeepL Client securely
-api_key = os.getenv("DEEPL_API_KEY")
-translator = deepl.Translator(api_key) if api_key else None
 
-
-def translate_text(text, lang):
+def translate_text(text, target_language):
     if not text:
         return ""
 
-    if lang == "en":
+    if target_language == "English":
         return text
 
-    # Fallback if environment variable wasn't injected correctly
-    if not translator:
-        print("Warning: DeepL translator not initialized. Skipping translation.")
-        return text
+    # Free endpoint tracking parameters
+    url = "https://openrouter.ai"
+    
+    # Advanced context engineering instructing Llama-3 how to translate PBM industry metrics
+    prompt = (
+        f"You are an expert pharmaceutical and healthcare translator.\n"
+        f"Translate the following text into fluent, natural {target_language}.\n"
+        f"Ensure specialized US healthcare terms like PBM, formulary, copay, 340B, "
+        f"and rebates are translated into their correct professional industry equivalents.\n"
+        f"Return ONLY the final translated text. Do not include intros, notes, or quotes.\n\n"
+        f"Text to translate: {text}"
+    )
 
     try:
-        # DeepL automatically parses target language strings (e.g., 'JA', 'ES')
-        result = translator.translate_text(text, target_lang=lang)
-        return result.text
+        response = requests.post(
+            url,
+            headers={
+                "HTTP-Referer": "https://github.com",
+                "X-Title": "Pharma RSS Translator"
+            },
+            json={
+                "model": "meta-llama/llama-3-8b-instruct:free",
+                "messages": [{"role": "user", "content": prompt}]
+            },
+            timeout=15  # Avoid infinite hanging during busy automated runs
+        )
+        
+        result = response.json()
+        translated_output = result['choices']['message']['content'].strip()
+        return translated_output
+
     except Exception as e:
-        print(f"Translation failed for language code {lang}: {e}")
-        return text  # Fallback to original English on failure
+        print(f"Llama-3 translation failed for language '{target_language}': {e}")
+        return text  # Fallback gracefully to original English text string if API drops
 
 
 def translate_fields(text):
     return {
-        lang: translate_text(text, code)
-        for lang, code in LANG_MAP.items()
+        lang: translate_text(text, lang_name)
+        for lang, lang_name in LANG_MAP.items()
     }
 
 
