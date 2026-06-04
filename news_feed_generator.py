@@ -3,6 +3,7 @@ import json
 import feedparser
 from datetime import datetime
 import requests
+import re
 
 # =========================
 # RSS SOURCES
@@ -46,6 +47,7 @@ LANG_MAP = {
 # =========================
 
 GT_API_KEY = os.getenv("GENERALTRANSLATION_API_KEY")
+print("API Key Found:", GT_API_KEY is not None)
 GT_ENDPOINT = "https://api.generaltranslation.com/v1/translate"
 
 
@@ -85,11 +87,17 @@ def translate_text(text, target_language):
             timeout=15
         )
 
+        print(f"Translation status: {response.status_code}")
+
         if response.status_code != 200:
-            print(f"Translation error {response.status_code}: {response.text}")
+            print(response.text)
             return text
 
         data = response.json()
+
+        print("Translation response:")
+        print(json.dumps(data, indent=2))
+
         return data.get("translated_text", text).strip()
 
     except Exception as e:
@@ -203,6 +211,22 @@ def deduplicate(items):
 
     return unique
 
+# =========================
+# CLEAN HTML
+# =========================
+
+def clean_html(text):
+    if not text:
+        return ""
+
+    # remove HTML tags
+    text = re.sub(r"<[^>]*>", " ", text)
+
+    # collapse whitespace
+    text = re.sub(r"\s+", " ", text)
+
+    return text.strip()
+
 
 # =========================
 # SCORING ENGINE
@@ -277,6 +301,17 @@ def categorize(text):
 def rank_items(items):
     return sorted(items, key=lambda x: x["score"], reverse=True)
 
+# =========================
+# TRANSLATE BUNDLE
+# =========================
+
+def translate_bundle(text):
+    return {
+        lang: translate_text(text, lang_name)
+        for lang, lang_name in LANG_MAP.items()
+    }
+
+
 
 # =========================
 # TRANSFORM FINAL OUTPUT
@@ -286,28 +321,23 @@ def transform(items):
     results = []
 
     for i in items:
-        text = i["title"] + " " + i["summary"]
+        clean_summary = clean_html(i["summary"])[:300]
+
+        title = i["title"]
+        impact = "May affect drug access, coverage, or cost."
 
         results.append({
             "id": i["link"],
 
-            "headline": translate_fields(i["title"]),
+            "headline": translate_bundle(title),
 
-            "summary": {
-                lang: translate_text(i["summary"][:300], lang_name)
-                for lang, lang_name in LANG_MAP.items()
-            },
+            "summary": translate_bundle(clean_summary),
 
-            "category": categorize(text),
+            "category": categorize(title + " " + clean_summary),
+
             "score": i["score"],
 
-            "patientImpact": {
-                lang: translate_text(
-                    "May affect drug access, coverage, or cost.",
-                    lang_name
-                )
-                for lang, lang_name in LANG_MAP.items()
-            },
+            "patientImpact": translate_bundle(impact),
 
             "link": i["link"],
             "published": i["published"]
