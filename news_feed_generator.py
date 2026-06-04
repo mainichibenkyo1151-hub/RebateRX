@@ -9,11 +9,11 @@ import requests
 # =========================
 
 RSS_FEEDS = [
-    "https://fiercepharma.com",
-    "https://drugchannels.net",
-    "https://fda.gov",
-    "https://cms.gov",
-    "https://ftc.gov"
+    "https://www.fiercepharma.com/rss.xml",
+    "https://www.drugchannels.net/feeds/posts/default?alt=rss",
+    "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/rss-feed-recent-press-announcements",
+    "https://www.cms.gov/newsroom/rss-feeds/press-releases.xml",
+    "https://www.ftc.gov/feeds/press-releases.xml"
 ]
 
 # =========================
@@ -112,6 +112,10 @@ def fetch_feed(url):
     try:
         feed = feedparser.parse(url)
 
+        if not hasattr(feed, "entries") or len(feed.entries) == 0:
+            print(f"[WARN] No entries found for: {url}")
+            return []
+
         items = []
         for entry in feed.entries:
             items.append({
@@ -131,8 +135,38 @@ def fetch_feed(url):
 
 def load_all():
     all_items = []
+    failed_feeds = []
+
+    print("Starting RSS ingestion...")
+
     for url in RSS_FEEDS:
-        all_items.extend(fetch_feed(url))
+        print(f"Fetching: {url}")
+
+        items = fetch_feed(url)
+
+        # Hard validation: detect broken feeds early
+        if items is None:
+            print(f"[ERROR] None returned from: {url}")
+            failed_feeds.append(url)
+            continue
+
+        if len(items) == 0:
+            print(f"[WARN] No items found in feed: {url}")
+            failed_feeds.append(url)
+            continue
+
+        print(f"[OK] Retrieved {len(items)} items from {url}")
+        all_items.extend(items)
+
+    print("\n===== RSS SUMMARY =====")
+    print(f"Total items loaded: {len(all_items)}")
+    print(f"Failed feeds: {len(failed_feeds)}")
+
+    if failed_feeds:
+        print("Problem feeds:")
+        for f in failed_feeds:
+            print(f" - {f}")
+
     return all_items
 
 
