@@ -20,11 +20,11 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install feedparser deep-translator deepl requests
+          pip install feedparser requests
 
       - name: Run generator
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GENERALTRANSLATION_API_KEY: ${{ secrets.GENERALTRANSLATION_API_KEY }}
         run: |
           python news_feed_generator.py
 
