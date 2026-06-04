@@ -48,15 +48,10 @@ LANG_MAP = {
 
 GT_API_KEY = os.getenv("GENERALTRANSLATION_API_KEY")
 print("API Key Found:", GT_API_KEY is not None)
-GT_ENDPOINT = "https://api.generaltranslation.com/v1/translate"
+GT_ENDPOINT = "https://generaltranslation.com"
 
 
 def translate_text(text, target_language):
-    """
-    Translate text using GeneralTranslation.com.
-    Falls back to English if API fails.
-    """
-
     if not text:
         return ""
 
@@ -64,14 +59,21 @@ def translate_text(text, target_language):
         return text
 
     if not GT_API_KEY:
-        print("WARNING: Missing GENERALTRANSLATION_API_KEY. Falling back to English.")
+        print("WARNING: Missing GENERALTRANSLATION_API_KEY")
         return text
+
+    lang_codes = {
+        "English": "en",
+        "Spanish": "es",
+        "Simplified Chinese": "zh",
+        "Vietnamese": "vi",
+        "Japanese": "ja"
+    }
 
     payload = {
         "text": text,
-        "target_language": target_language,
-        "source_language": "English",
-        "domain": "medical_pharma"
+        "source_lang": "en",
+        "target_lang": lang_codes[target_language]
     }
 
     headers = {
@@ -84,7 +86,7 @@ def translate_text(text, target_language):
             GT_ENDPOINT,
             json=payload,
             headers=headers,
-            timeout=15
+            timeout=30
         )
 
         print(f"Translation status: {response.status_code}")
@@ -95,15 +97,19 @@ def translate_text(text, target_language):
 
         data = response.json()
 
-        print("Translation response:")
-        print(json.dumps(data, indent=2))
+        print(data)
 
-        return data.get("translated_text", text).strip()
+        # Adjust this once we see actual response structure
+        return (
+            data.get("translated_text")
+            or data.get("translation")
+            or data.get("text")
+            or text
+        )
 
     except Exception as e:
         print(f"Translation failed: {e}")
         return text
-
 
 def translate_fields(text):
     return {
