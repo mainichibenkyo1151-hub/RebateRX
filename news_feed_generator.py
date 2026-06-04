@@ -2,18 +2,18 @@ import os
 import json
 import feedparser
 from datetime import datetime
-import requests  # Replaced deepl with requests for the AI API
+import requests
 
 # =========================
 # RSS SOURCES
 # =========================
 
 RSS_FEEDS = [
-    "https://www.fiercepharma.com/rss/xml",
-    "https://www.drugchannels.net/feeds/posts/default",
-    "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds",
-    "https://www.cms.gov/newsroom/rss-feeds",
-    "https://www.ftc.gov/feeds/press-releases/rss"
+    "https://fiercepharma.com",
+    "https://drugchannels.net",
+    "https://fda.gov",
+    "https://cms.gov",
+    "https://ftc.gov"
 ]
 
 # =========================
@@ -255,11 +255,12 @@ def push_to_git():
     os.system('git commit -m "update pharma news feed" || exit 0')
     os.system("git push")
 
+
 # =========================
-# TRANSLATION ENGINE (Meta Llama-3 via OpenRouter API Key)
+# TRANSLATION ENGINE (Official Free Google Gemini API)
 # =========================
 
-# Maps language keys to full names for the AI's prompt context
+# Dictionary maps target codes to full language names for prompt context
 LANG_MAP = {
     "en": "English",
     "es": "Spanish",
@@ -268,8 +269,8 @@ LANG_MAP = {
     "ja": "Japanese"
 }
 
-# Pull your OpenRouter token securely from environment variables
-OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
+# Pull your Gemini token securely from your GitHub environment setup
+GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 
 def translate_text(text, target_language):
     if not text:
@@ -278,14 +279,15 @@ def translate_text(text, target_language):
     if target_language == "English":
         return text
 
-    if not OPENROUTER_API_KEY:
-        print("Warning: OPENROUTER_API_KEY not found. Falling back to English.")
+    if not GEMINI_API_KEY:
+        print("Warning: GEMINI_API_KEY not found in environment variables. Falling back to English.")
         return text
 
-    url = "https://openrouter.ai"
+    # Official Google Developer API Gateway endpoint
+    url = f"https://googleapis.com{GEMINI_API_KEY}"
     
     prompt = (
-        f"You are an expert pharmaceutical and healthcare translator.\n"
+        f"You are a professional healthcare and pharmaceutical translator.\n"
         f"Translate the following text into fluent, natural {target_language}.\n"
         f"Ensure specialized US healthcare terms like PBM, formulary, copay, 340B, "
         f"and rebates are translated into their correct professional industry equivalents.\n"
@@ -293,49 +295,36 @@ def translate_text(text, target_language):
         f"Text to translate: {text}"
     )
 
+    payload = {
+        "contents": [{
+            "parts": [{"text": prompt}]
+        }]
+    }
+
     try:
-        response = requests.post(
-            url,
-            headers={
-                "Authorization": f"Bearer {OPENROUTER_API_KEY}",
-                # CRITICAL FIX: Adding custom application identifier details to stop free tier bot-blocking
-                "HTTP-Referer": "https://github.com",
-                "X-Title": "Automated Pharma RSS Translator App",
-                "User-Agent": "PharmaNewsFeedBot/1.0 (Linux; Automated Translation Pipeline)"
-            },
-            json={
-                "model": "meta-llama/llama-3-8b-instruct:free",
-                "messages": [{"role": "user", "content": prompt}],
-                "temperature": 0.1
-            },
-            timeout=15
-        )
+        response = requests.post(url, json=payload, timeout=15)
         
-        # Check if the HTTP request failed completely (like a 403 Forbidden or 429 Too Many Requests)
         if response.status_code != 200:
-            print(f"OpenRouter Connection Error (Status {response.status_code}): {response.text}")
+            print(f"Google Gemini Error (Status {response.status_code}): {response.text}")
             return text
             
         result = response.json()
         
-        if 'choices' not in result:
-            print(f"OpenRouter API Payload Error for {target_language}: {result.get('error', 'Unknown Payload Error')}")
-            return text
-            
-        translated_output = result['choices']['message']['content'].strip()
+        # Parse Google's nested response block securely
+        translated_output = result['candidates'][0]['content']['parts'][0]['text'].strip()
         return translated_output
 
     except Exception as e:
-        print(f"Llama-3 translation completely failed for language '{target_language}': {e}")
-        return text  # Safe fallback to English text string if API drops
+        print(f"Gemini translation failed for language '{target_language}': {e}")
+        return text  # Safe fallback to original English text string if API drops
 
-        
 
 def translate_fields(text):
     return {
         lang: translate_text(text, lang_name)
         for lang, lang_name in LANG_MAP.items()
     }
+
 
 # =========================
 # MAIN
