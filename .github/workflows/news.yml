@@ -23,6 +23,8 @@ jobs:
           pip install feedparser deep-translator deepl requests
 
       - name: Run generator
+        env:
+          OPENROUTER_API_KEY =: ${{ secrets.OPENROUTER_API_KEY }}
         run: |
           python news_feed_generator.py
 
