@@ -2,7 +2,7 @@ import os
 import json
 import feedparser
 from datetime import datetime
-import requests  
+import requests  # Replaced deepl with requests for the AI API
 
 # =========================
 # RSS SOURCES
@@ -256,10 +256,10 @@ def push_to_git():
     os.system("git push")
 
 # =========================
-# TRANSLATION ENGINE (Meta Llama-3 Free Endpoint)
+# TRANSLATION ENGINE (Meta Llama-3 via OpenRouter API Key)
 # =========================
 
-# Dictionary maps target codes to full language names for the AI's prompt context
+# Maps language keys to full names for the AI's prompt context
 LANG_MAP = {
     "en": "English",
     "es": "Spanish",
@@ -268,6 +268,8 @@ LANG_MAP = {
     "ja": "Japanese"
 }
 
+# Pull your OpenRouter token securely from environment variables
+OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
 
 def translate_text(text, target_language):
     if not text:
@@ -276,16 +278,19 @@ def translate_text(text, target_language):
     if target_language == "English":
         return text
 
-    # Free endpoint tracking parameters
+    # Guard clause if the GitHub Actions environment secret is missing
+    if not OPENROUTER_API_KEY:
+        print("Warning: OPENROUTER_API_KEY not found. Falling back to English.")
+        return text
+
     url = "https://openrouter.ai"
     
-    # Advanced context engineering instructing Llama-3 how to translate PBM industry metrics
     prompt = (
         f"You are an expert pharmaceutical and healthcare translator.\n"
         f"Translate the following text into fluent, natural {target_language}.\n"
         f"Ensure specialized US healthcare terms like PBM, formulary, copay, 340B, "
         f"and rebates are translated into their correct professional industry equivalents.\n"
-        f"Return ONLY the final translated text. Do not include intros, notes, or quotes.\n\n"
+        f"Return ONLY the final translated text. Do not include intros, notes, explanations, or quotes.\n\n"
         f"Text to translate: {text}"
     )
 
@@ -293,31 +298,38 @@ def translate_text(text, target_language):
         response = requests.post(
             url,
             headers={
+                "Authorization": f"Bearer {OPENROUTER_API_KEY}",
                 "HTTP-Referer": "https://github.com",
                 "X-Title": "Pharma RSS Translator"
             },
             json={
                 "model": "meta-llama/llama-3-8b-instruct:free",
-                "messages": [{"role": "user", "content": prompt}]
+                "messages": [{"role": "user", "content": prompt}],
+                "temperature": 0.1  # Low temperature makes the output deterministic and clean
             },
-            timeout=15  # Avoid infinite hanging during busy automated runs
+            timeout=15
         )
         
         result = response.json()
+        
+        # Handle cases where OpenRouter returns an API error payload
+        if 'choices' not in result:
+            print(f"OpenRouter Error for {target_language}: {result.get('error', 'Unknown Error')}")
+            return text
+            
         translated_output = result['choices']['message']['content'].strip()
         return translated_output
 
     except Exception as e:
         print(f"Llama-3 translation failed for language '{target_language}': {e}")
-        return text  # Fallback gracefully to original English text string if API drops
-
+        return text  # Safe fallback to English text string if API drops
+        
 
 def translate_fields(text):
     return {
         lang: translate_text(text, lang_name)
         for lang, lang_name in LANG_MAP.items()
     }
-
 
 # =========================
 # MAIN
