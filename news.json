@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T19:49:48.968600Z",
+  "generatedAt": "2026-06-05T11:52:44.327586Z",
   "count": 25,
   "articles": [
     {
@@ -85,34 +85,6 @@
       },
       "link": "https://feeds.feedblitz.com/~/957355640/0/drugchannels~Drug-Channels-News-Roundup-May-My-on-Optum-Rx%e2%80%99s-Transparency-MustRead-B-History-PBM-Unbundling-Update-PA-Delays-and-Vegas-Fun.html",
       "published": "Wed, 27 May 2026 10:00:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/952409507/0/drugchannels~Drug-Channels-News-Roundup-March-Cigna%e2%80%99s-B-Workaround-Merck%e2%80%99s-ARPA-Surprise-Walgreens%e2%80%99-Automation-Bet-Why-Rebates-Hurt-Patients-and-a.html",
-      "headline": {
-        "en": "Drug Channels News Roundup, March 2026: Cigna’s 340B Workaround, Merck’s ARPA Surprise, Walgreens’ Automation Bet, Why Rebates Hurt Patients, and a DCI Team Photo",
-        "es": "Drug Channels News Roundup, March 2026: Cigna’s 340B Workaround, Merck’s ARPA Surprise, Walgreens’ Automation Bet, Why Rebates Hurt Patients, and a DCI Team Photo",
-        "zh": "Drug Channels News Roundup, March 2026: Cigna’s 340B Workaround, Merck’s ARPA Surprise, Walgreens’ Automation Bet, Why Rebates Hurt Patients, and a DCI Team Photo",
-        "vi": "Drug Channels News Roundup, March 2026: Cigna’s 340B Workaround, Merck’s ARPA Surprise, Walgreens’ Automation Bet, Why Rebates Hurt Patients, and a DCI Team Photo",
-        "ja": "Drug Channels News Roundup, March 2026: Cigna’s 340B Workaround, Merck’s ARPA Surprise, Walgreens’ Automation Bet, Why Rebates Hurt Patients, and a DCI Team Photo"
-      },
-      "summary": {
-        "en": "By Adam J. Fein, Ph.D. Spring is here in always-sunny Philadelphia. The vernal equinox has brought us an unexpected bounty of noteworthy news: Cigna’s clever vertical integration move Merck cuts drug prices—and Medicaid and 340B pay more Walgreens’ big pharmacy technology play How plans profit—and p",
-        "es": "By Adam J. Fein, Ph.D. Spring is here in always-sunny Philadelphia. The vernal equinox has brought us an unexpected bounty of noteworthy news: Cigna’s clever vertical integration move Merck cuts drug prices—and Medicaid and 340B pay more Walgreens’ big pharmacy technology play How plans profit—and p",
-        "zh": "By Adam J. Fein, Ph.D. Spring is here in always-sunny Philadelphia. The vernal equinox has brought us an unexpected bounty of noteworthy news: Cigna’s clever vertical integration move Merck cuts drug prices—and Medicaid and 340B pay more Walgreens’ big pharmacy technology play How plans profit—and p",
-        "vi": "By Adam J. Fein, Ph.D. Spring is here in always-sunny Philadelphia. The vernal equinox has brought us an unexpected bounty of noteworthy news: Cigna’s clever vertical integration move Merck cuts drug prices—and Medicaid and 340B pay more Walgreens’ big pharmacy technology play How plans profit—and p",
-        "ja": "By Adam J. Fein, Ph.D. Spring is here in always-sunny Philadelphia. The vernal equinox has brought us an unexpected bounty of noteworthy news: Cigna’s clever vertical integration move Merck cuts drug prices—and Medicaid and 340B pay more Walgreens’ big pharmacy technology play How plans profit—and p"
-      },
-      "category": "PBM",
-      "score": 90,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/952409507/0/drugchannels~Drug-Channels-News-Roundup-March-Cigna%e2%80%99s-B-Workaround-Merck%e2%80%99s-ARPA-Surprise-Walgreens%e2%80%99-Automation-Bet-Why-Rebates-Hurt-Patients-and-a.html",
-      "published": "Tue, 31 Mar 2026 11:00:00 +0000"
     },
     {
       "id": "https://feeds.feedblitz.com/~/957642419/0/drugchannels~The-B-Contract-Pharmacy-Market-in-A-Maturing-Industry-Dominated-by-Big-Chains-and-PBMs.html",
@@ -675,20 +647,48 @@
       "published": "Mon, 20 Apr 2026 11:00:00 +0000"
     },
     {
-      "id": "https://www.fiercepharma.com/resource/how-timely-precise-lab-data-drive-decisions-discovery-post-marketing-surveillance",
+      "id": "https://feeds.feedblitz.com/~/957766580/0/drugchannels~Pharmacy-Copay-Misuse-The-MultiBillion-Dollar-Issue-Hiding-In-Plain-Sight.html",
       "headline": {
-        "en": "How Timely, Precise Lab Data Drive Decisions from Discovery to Post-Marketing Surveillance",
-        "es": "How Timely, Precise Lab Data Drive Decisions from Discovery to Post-Marketing Surveillance",
-        "zh": "How Timely, Precise Lab Data Drive Decisions from Discovery to Post-Marketing Surveillance",
-        "vi": "How Timely, Precise Lab Data Drive Decisions from Discovery to Post-Marketing Surveillance",
-        "ja": "How Timely, Precise Lab Data Drive Decisions from Discovery to Post-Marketing Surveillance"
+        "en": "Pharmacy Copay Misuse: The Multi-Billion Dollar Issue Hiding In Plain Sight",
+        "es": "Pharmacy Copay Misuse: The Multi-Billion Dollar Issue Hiding In Plain Sight",
+        "zh": "Pharmacy Copay Misuse: The Multi-Billion Dollar Issue Hiding In Plain Sight",
+        "vi": "Pharmacy Copay Misuse: The Multi-Billion Dollar Issue Hiding In Plain Sight",
+        "ja": "Pharmacy Copay Misuse: The Multi-Billion Dollar Issue Hiding In Plain Sight"
       },
       "summary": {
-        "en": "How Timely, Precise Lab Data Drive Decisions from Discovery to Post-Marketing Surveillance How can timely, precise lab data improve decision-making across the medicine lifecycle? Download this whitepaper to explore how de-identified laboratory data supports clinical development, commercial strategy,",
-        "es": "How Timely, Precise Lab Data Drive Decisions from Discovery to Post-Marketing Surveillance How can timely, precise lab data improve decision-making across the medicine lifecycle? Download this whitepaper to explore how de-identified laboratory data supports clinical development, commercial strategy,",
-        "zh": "How Timely, Precise Lab Data Drive Decisions from Discovery to Post-Marketing Surveillance How can timely, precise lab data improve decision-making across the medicine lifecycle? Download this whitepaper to explore how de-identified laboratory data supports clinical development, commercial strategy,",
-        "vi": "How Timely, Precise Lab Data Drive Decisions from Discovery to Post-Marketing Surveillance How can timely, precise lab data improve decision-making across the medicine lifecycle? Download this whitepaper to explore how de-identified laboratory data supports clinical development, commercial strategy,",
-        "ja": "How Timely, Precise Lab Data Drive Decisions from Discovery to Post-Marketing Surveillance How can timely, precise lab data improve decision-making across the medicine lifecycle? Download this whitepaper to explore how de-identified laboratory data supports clinical development, commercial strategy,"
+        "en": "Today’s guest post comes from Stephen Hom, Co-Founder, EVP &amp; Chief Operating Officer of RIS Rx. Drawing on RIS Rx’s proprietary data and case studies, Stephen highlights patterns that can undermine patient support program effectiveness. He argues that a more data-driven approach can help manufac",
+        "es": "Today’s guest post comes from Stephen Hom, Co-Founder, EVP &amp; Chief Operating Officer of RIS Rx. Drawing on RIS Rx’s proprietary data and case studies, Stephen highlights patterns that can undermine patient support program effectiveness. He argues that a more data-driven approach can help manufac",
+        "zh": "Today’s guest post comes from Stephen Hom, Co-Founder, EVP &amp; Chief Operating Officer of RIS Rx. Drawing on RIS Rx’s proprietary data and case studies, Stephen highlights patterns that can undermine patient support program effectiveness. He argues that a more data-driven approach can help manufac",
+        "vi": "Today’s guest post comes from Stephen Hom, Co-Founder, EVP &amp; Chief Operating Officer of RIS Rx. Drawing on RIS Rx’s proprietary data and case studies, Stephen highlights patterns that can undermine patient support program effectiveness. He argues that a more data-driven approach can help manufac",
+        "ja": "Today’s guest post comes from Stephen Hom, Co-Founder, EVP &amp; Chief Operating Officer of RIS Rx. Drawing on RIS Rx’s proprietary data and case studies, Stephen highlights patterns that can undermine patient support program effectiveness. He argues that a more data-driven approach can help manufac"
+      },
+      "category": "Access",
+      "score": -20,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://feeds.feedblitz.com/~/957766580/0/drugchannels~Pharmacy-Copay-Misuse-The-MultiBillion-Dollar-Issue-Hiding-In-Plain-Sight.html",
+      "published": "Fri, 05 Jun 2026 10:00:00 +0000"
+    },
+    {
+      "id": "https://www.fiercepharma.com/resource/accelerating-targeted-gene-expression-analysis-drug-development",
+      "headline": {
+        "en": "Accelerating Targeted Gene Expression Analysis in Drug Development",
+        "es": "Accelerating Targeted Gene Expression Analysis in Drug Development",
+        "zh": "Accelerating Targeted Gene Expression Analysis in Drug Development",
+        "vi": "Accelerating Targeted Gene Expression Analysis in Drug Development",
+        "ja": "Accelerating Targeted Gene Expression Analysis in Drug Development"
+      },
+      "summary": {
+        "en": "Accelerating Targeted Gene Expression Analysis in Drug Development Modern drug development demands faster, more scalable gene expression insights. Download this white paper to explore how microfluidic qPCR bridges the gap between traditional qPCR and sequencing, enabling biomarker research, target v",
+        "es": "Accelerating Targeted Gene Expression Analysis in Drug Development Modern drug development demands faster, more scalable gene expression insights. Download this white paper to explore how microfluidic qPCR bridges the gap between traditional qPCR and sequencing, enabling biomarker research, target v",
+        "zh": "Accelerating Targeted Gene Expression Analysis in Drug Development Modern drug development demands faster, more scalable gene expression insights. Download this white paper to explore how microfluidic qPCR bridges the gap between traditional qPCR and sequencing, enabling biomarker research, target v",
+        "vi": "Accelerating Targeted Gene Expression Analysis in Drug Development Modern drug development demands faster, more scalable gene expression insights. Download this white paper to explore how microfluidic qPCR bridges the gap between traditional qPCR and sequencing, enabling biomarker research, target v",
+        "ja": "Accelerating Targeted Gene Expression Analysis in Drug Development Modern drug development demands faster, more scalable gene expression insights. Download this white paper to explore how microfluidic qPCR bridges the gap between traditional qPCR and sequencing, enabling biomarker research, target v"
       },
       "category": "Pharma",
       "score": -50,
@@ -699,8 +699,8 @@
         "vi": "May affect drug access, coverage, or cost.",
         "ja": "May affect drug access, coverage, or cost."
       },
-      "link": "https://www.fiercepharma.com/resource/how-timely-precise-lab-data-drive-decisions-discovery-post-marketing-surveillance",
-      "published": "Fri, 22 May 2026 15:09:14 +0000"
+      "link": "https://www.fiercepharma.com/resource/accelerating-targeted-gene-expression-analysis-drug-development",
+      "published": "Thu, 04 Jun 2026 19:51:03 +0000"
     }
   ]
 }
