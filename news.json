@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T22:20:45.029304Z",
+  "generatedAt": "2026-06-15T18:11:02.072960Z",
   "count": 25,
   "articles": [
     {
@@ -563,6 +563,62 @@
       "published": "Fri, 17 Apr 2026 11:00:00 +0000"
     },
     {
+      "id": "https://www.fiercepharma.com/sponsored/why-mrd-becoming-central-oncology-drug-development",
+      "headline": {
+        "en": "Why MRD is becoming central to oncology drug development",
+        "es": "Why MRD is becoming central to oncology drug development",
+        "zh": "Why MRD is becoming central to oncology drug development",
+        "vi": "Why MRD is becoming central to oncology drug development",
+        "ja": "Why MRD is becoming central to oncology drug development"
+      },
+      "summary": {
+        "en": "Why MRD is becoming central to oncology drug development scox Wed, 06/10/2026 - 16:39",
+        "es": "Why MRD is becoming central to oncology drug development scox Wed, 06/10/2026 - 16:39",
+        "zh": "Why MRD is becoming central to oncology drug development scox Wed, 06/10/2026 - 16:39",
+        "vi": "Why MRD is becoming central to oncology drug development scox Wed, 06/10/2026 - 16:39",
+        "ja": "Why MRD is becoming central to oncology drug development scox Wed, 06/10/2026 - 16:39"
+      },
+      "category": "Pharma",
+      "score": 0,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://www.fiercepharma.com/sponsored/why-mrd-becoming-central-oncology-drug-development",
+      "published": "Wed, 10 Jun 2026 20:39:44 +0000"
+    },
+    {
+      "id": "https://www.fiercepharma.com/sponsored/european-commission-approves-cinnagens-zandoriahr-teriparatide-biosimilar-osteoporosis",
+      "headline": {
+        "en": "European Commission Approves CinnaGen’s Zandoriah® (teriparatide biosimilar) for Osteoporosis in Adults",
+        "es": "European Commission Approves CinnaGen’s Zandoriah® (teriparatide biosimilar) for Osteoporosis in Adults",
+        "zh": "European Commission Approves CinnaGen’s Zandoriah® (teriparatide biosimilar) for Osteoporosis in Adults",
+        "vi": "European Commission Approves CinnaGen’s Zandoriah® (teriparatide biosimilar) for Osteoporosis in Adults",
+        "ja": "European Commission Approves CinnaGen’s Zandoriah® (teriparatide biosimilar) for Osteoporosis in Adults"
+      },
+      "summary": {
+        "en": "European Commission Approves CinnaGen’s Zandoriah® (teriparatide biosimilar) for Osteoporosis in Adults jpiatt Wed, 06/10/2026 - 14:48",
+        "es": "European Commission Approves CinnaGen’s Zandoriah® (teriparatide biosimilar) for Osteoporosis in Adults jpiatt Wed, 06/10/2026 - 14:48",
+        "zh": "European Commission Approves CinnaGen’s Zandoriah® (teriparatide biosimilar) for Osteoporosis in Adults jpiatt Wed, 06/10/2026 - 14:48",
+        "vi": "European Commission Approves CinnaGen’s Zandoriah® (teriparatide biosimilar) for Osteoporosis in Adults jpiatt Wed, 06/10/2026 - 14:48",
+        "ja": "European Commission Approves CinnaGen’s Zandoriah® (teriparatide biosimilar) for Osteoporosis in Adults jpiatt Wed, 06/10/2026 - 14:48"
+      },
+      "category": "Pharma",
+      "score": 0,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://www.fiercepharma.com/sponsored/european-commission-approves-cinnagens-zandoriahr-teriparatide-biosimilar-osteoporosis",
+      "published": "Wed, 10 Jun 2026 18:48:30 +0000"
+    },
+    {
       "id": "https://www.fiercepharma.com/premium/webinar/1381405",
       "headline": {
         "en": "Advancing Translational Research with Patient-Derived Organoids: Applications and Opportunities in Drug Development",
@@ -645,62 +701,6 @@
       },
       "link": "https://feeds.feedblitz.com/~/955542974/0/drugchannels~The-Hidden-Costs-of-OverCustomizing-Your-Hub-Technology-Stack.html",
       "published": "Fri, 08 May 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/954091460/0/drugchannels~The-Omnichannel-Gap-Building-the-CRM-of-the-Future-for-Patient-Services.html",
-      "headline": {
-        "en": "The Omnichannel Gap: Building the CRM of the Future for Patient Services",
-        "es": "The Omnichannel Gap: Building the CRM of the Future for Patient Services",
-        "zh": "The Omnichannel Gap: Building the CRM of the Future for Patient Services",
-        "vi": "The Omnichannel Gap: Building the CRM of the Future for Patient Services",
-        "ja": "The Omnichannel Gap: Building the CRM of the Future for Patient Services"
-      },
-      "summary": {
-        "en": "Today’s guest post comes from Karishma Desai, Associate Director of Data Strategy at Claritas Rx. Karishma explains how the complexities of specialty therapies require a customer relationship management (CRM) system that unifies consent management. She goes on to explain that by embedding AI into th",
-        "es": "Today’s guest post comes from Karishma Desai, Associate Director of Data Strategy at Claritas Rx. Karishma explains how the complexities of specialty therapies require a customer relationship management (CRM) system that unifies consent management. She goes on to explain that by embedding AI into th",
-        "zh": "Today’s guest post comes from Karishma Desai, Associate Director of Data Strategy at Claritas Rx. Karishma explains how the complexities of specialty therapies require a customer relationship management (CRM) system that unifies consent management. She goes on to explain that by embedding AI into th",
-        "vi": "Today’s guest post comes from Karishma Desai, Associate Director of Data Strategy at Claritas Rx. Karishma explains how the complexities of specialty therapies require a customer relationship management (CRM) system that unifies consent management. She goes on to explain that by embedding AI into th",
-        "ja": "Today’s guest post comes from Karishma Desai, Associate Director of Data Strategy at Claritas Rx. Karishma explains how the complexities of specialty therapies require a customer relationship management (CRM) system that unifies consent management. She goes on to explain that by embedding AI into th"
-      },
-      "category": "Pharma",
-      "score": 0,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/954091460/0/drugchannels~The-Omnichannel-Gap-Building-the-CRM-of-the-Future-for-Patient-Services.html",
-      "published": "Mon, 20 Apr 2026 11:00:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/957766580/0/drugchannels~Pharmacy-Copay-Misuse-The-MultiBillion-Dollar-Issue-Hiding-In-Plain-Sight.html",
-      "headline": {
-        "en": "Pharmacy Copay Misuse: The Multi-Billion Dollar Issue Hiding In Plain Sight",
-        "es": "Pharmacy Copay Misuse: The Multi-Billion Dollar Issue Hiding In Plain Sight",
-        "zh": "Pharmacy Copay Misuse: The Multi-Billion Dollar Issue Hiding In Plain Sight",
-        "vi": "Pharmacy Copay Misuse: The Multi-Billion Dollar Issue Hiding In Plain Sight",
-        "ja": "Pharmacy Copay Misuse: The Multi-Billion Dollar Issue Hiding In Plain Sight"
-      },
-      "summary": {
-        "en": "Today’s guest post comes from Stephen Hom, Co-Founder, EVP &amp; Chief Operating Officer of RIS Rx. Drawing on RIS Rx’s proprietary data and case studies, Stephen highlights patterns that can undermine patient support program effectiveness. He argues that a more data-driven approach can help manufac",
-        "es": "Today’s guest post comes from Stephen Hom, Co-Founder, EVP &amp; Chief Operating Officer of RIS Rx. Drawing on RIS Rx’s proprietary data and case studies, Stephen highlights patterns that can undermine patient support program effectiveness. He argues that a more data-driven approach can help manufac",
-        "zh": "Today’s guest post comes from Stephen Hom, Co-Founder, EVP &amp; Chief Operating Officer of RIS Rx. Drawing on RIS Rx’s proprietary data and case studies, Stephen highlights patterns that can undermine patient support program effectiveness. He argues that a more data-driven approach can help manufac",
-        "vi": "Today’s guest post comes from Stephen Hom, Co-Founder, EVP &amp; Chief Operating Officer of RIS Rx. Drawing on RIS Rx’s proprietary data and case studies, Stephen highlights patterns that can undermine patient support program effectiveness. He argues that a more data-driven approach can help manufac",
-        "ja": "Today’s guest post comes from Stephen Hom, Co-Founder, EVP &amp; Chief Operating Officer of RIS Rx. Drawing on RIS Rx’s proprietary data and case studies, Stephen highlights patterns that can undermine patient support program effectiveness. He argues that a more data-driven approach can help manufac"
-      },
-      "category": "Access",
-      "score": -20,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/957766580/0/drugchannels~Pharmacy-Copay-Misuse-The-MultiBillion-Dollar-Issue-Hiding-In-Plain-Sight.html",
-      "published": "Fri, 05 Jun 2026 10:00:00 +0000"
     }
   ]
 }
