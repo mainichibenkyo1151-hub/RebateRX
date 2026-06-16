@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T18:11:02.072960Z",
+  "generatedAt": "2026-06-16T18:20:53.665685Z",
   "count": 25,
   "articles": [
     {
@@ -29,6 +29,34 @@
       },
       "link": "https://feeds.feedblitz.com/~/957859412/0/drugchannels~The-Top-US-Pharmacies-of-Market-Shares-and-Revenues-at-the-Biggest-Chains-PBMs-and-Specialty-Pharmacies-rerun.html",
       "published": "Mon, 08 Jun 2026 10:30:00 +0000"
+    },
+    {
+      "id": "https://feeds.feedblitz.com/~/958084793/0/drugchannels~The-IRA-Fixed-One-Medicare-Part-D-Distortion%e2%80%94But-Patients-Now-Face-New-Tradeoffs.html",
+      "headline": {
+        "en": "The IRA Fixed One Medicare Part D Distortion—But Patients Now Face New Tradeoffs",
+        "es": "The IRA Fixed One Medicare Part D Distortion—But Patients Now Face New Tradeoffs",
+        "zh": "The IRA Fixed One Medicare Part D Distortion—But Patients Now Face New Tradeoffs",
+        "vi": "The IRA Fixed One Medicare Part D Distortion—But Patients Now Face New Tradeoffs",
+        "ja": "The IRA Fixed One Medicare Part D Distortion—But Patients Now Face New Tradeoffs"
+      },
+      "summary": {
+        "en": "By Bryce Platt, PharmD For years, Medicare Part D plans often preferred high-list/high-rebate branded multiple sclerosis (MS) drugs over lower-cost generics. That was rational behavior inside an irrational system. The Inflation Reduction Act (IRA) offers one example of how incentives can change beha",
+        "es": "By Bryce Platt, PharmD For years, Medicare Part D plans often preferred high-list/high-rebate branded multiple sclerosis (MS) drugs over lower-cost generics. That was rational behavior inside an irrational system. The Inflation Reduction Act (IRA) offers one example of how incentives can change beha",
+        "zh": "By Bryce Platt, PharmD For years, Medicare Part D plans often preferred high-list/high-rebate branded multiple sclerosis (MS) drugs over lower-cost generics. That was rational behavior inside an irrational system. The Inflation Reduction Act (IRA) offers one example of how incentives can change beha",
+        "vi": "By Bryce Platt, PharmD For years, Medicare Part D plans often preferred high-list/high-rebate branded multiple sclerosis (MS) drugs over lower-cost generics. That was rational behavior inside an irrational system. The Inflation Reduction Act (IRA) offers one example of how incentives can change beha",
+        "ja": "By Bryce Platt, PharmD For years, Medicare Part D plans often preferred high-list/high-rebate branded multiple sclerosis (MS) drugs over lower-cost generics. That was rational behavior inside an irrational system. The Inflation Reduction Act (IRA) offers one example of how incentives can change beha"
+      },
+      "category": "PBM",
+      "score": 90,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://feeds.feedblitz.com/~/958084793/0/drugchannels~The-IRA-Fixed-One-Medicare-Part-D-Distortion%e2%80%94But-Patients-Now-Face-New-Tradeoffs.html",
+      "published": "Tue, 16 Jun 2026 10:30:00 +0000"
     },
     {
       "id": "https://feeds.feedblitz.com/~/957355640/0/drugchannels~Drug-Channels-News-Roundup-May-My-on-Optum-Rx%e2%80%99s-Transparency-MustRead-B-History-PBM-Unbundling-Update-PA-Delays-and-Vegas-Fun.html",
@@ -197,34 +225,6 @@
       },
       "link": "https://feeds.feedblitz.com/~/953717096/0/drugchannels~Informa-Connect%e2%80%99s-Life-Sciences-Pricing-Contracting-USA.html",
       "published": "Mon, 13 Apr 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/953608364/0/drugchannels~The-Net-Pricing-Revolution-in-the-Drug-Channel-What%e2%80%99s-Deflating-the-GrosstoNet-Bubble-rerun.html",
-      "headline": {
-        "en": "The Net Pricing Revolution in the Drug Channel: What’s Deflating the Gross-to-Net Bubble (rerun)",
-        "es": "The Net Pricing Revolution in the Drug Channel: What’s Deflating the Gross-to-Net Bubble (rerun)",
-        "zh": "The Net Pricing Revolution in the Drug Channel: What’s Deflating the Gross-to-Net Bubble (rerun)",
-        "vi": "The Net Pricing Revolution in the Drug Channel: What’s Deflating the Gross-to-Net Bubble (rerun)",
-        "ja": "The Net Pricing Revolution in the Drug Channel: What’s Deflating the Gross-to-Net Bubble (rerun)"
-      },
-      "summary": {
-        "en": "This week, I’m rerunning some popular posts while we prepare for today’s live video webinar: PBM Industry Update 2026: Trends, Challenges, and What’s Ahead . Click here to see the original post from January 2026. As I highlighted last week , we are entering the Net Pricing Drug Channel (NPDC) era—a ",
-        "es": "This week, I’m rerunning some popular posts while we prepare for today’s live video webinar: PBM Industry Update 2026: Trends, Challenges, and What’s Ahead . Click here to see the original post from January 2026. As I highlighted last week , we are entering the Net Pricing Drug Channel (NPDC) era—a ",
-        "zh": "This week, I’m rerunning some popular posts while we prepare for today’s live video webinar: PBM Industry Update 2026: Trends, Challenges, and What’s Ahead . Click here to see the original post from January 2026. As I highlighted last week , we are entering the Net Pricing Drug Channel (NPDC) era—a ",
-        "vi": "This week, I’m rerunning some popular posts while we prepare for today’s live video webinar: PBM Industry Update 2026: Trends, Challenges, and What’s Ahead . Click here to see the original post from January 2026. As I highlighted last week , we are entering the Net Pricing Drug Channel (NPDC) era—a ",
-        "ja": "This week, I’m rerunning some popular posts while we prepare for today’s live video webinar: PBM Industry Update 2026: Trends, Challenges, and What’s Ahead . Click here to see the original post from January 2026. As I highlighted last week , we are entering the Net Pricing Drug Channel (NPDC) era—a "
-      },
-      "category": "PBM",
-      "score": 85,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/953608364/0/drugchannels~The-Net-Pricing-Revolution-in-the-Drug-Channel-What%e2%80%99s-Deflating-the-GrosstoNet-Bubble-rerun.html",
-      "published": "Fri, 10 Apr 2026 11:00:00 +0000"
     },
     {
       "id": "https://feeds.feedblitz.com/~/957947492/0/drugchannels~The-Top-Specialty-Pharmacies-of-PBMAffiliated-Pharmacies-Dominate-While-Health-Systems-and-Independents-Gain-Ground-rerun.html",
@@ -619,34 +619,6 @@
       "published": "Wed, 10 Jun 2026 18:48:30 +0000"
     },
     {
-      "id": "https://www.fiercepharma.com/premium/webinar/1381405",
-      "headline": {
-        "en": "Advancing Translational Research with Patient-Derived Organoids: Applications and Opportunities in Drug Development",
-        "es": "Advancing Translational Research with Patient-Derived Organoids: Applications and Opportunities in Drug Development",
-        "zh": "Advancing Translational Research with Patient-Derived Organoids: Applications and Opportunities in Drug Development",
-        "vi": "Advancing Translational Research with Patient-Derived Organoids: Applications and Opportunities in Drug Development",
-        "ja": "Advancing Translational Research with Patient-Derived Organoids: Applications and Opportunities in Drug Development"
-      },
-      "summary": {
-        "en": "Advancing Translational Research with Patient-Derived Organoids: Applications and Opportunities in Drug Development dwunderlin Wed, 06/03/2026 - 13:40 Tue, 06/30/2026 - 11:00 Resource Type Webinar Alexis Santana Patient-derived organoids are emerging as powerful tools for translational research, off",
-        "es": "Advancing Translational Research with Patient-Derived Organoids: Applications and Opportunities in Drug Development dwunderlin Wed, 06/03/2026 - 13:40 Tue, 06/30/2026 - 11:00 Resource Type Webinar Alexis Santana Patient-derived organoids are emerging as powerful tools for translational research, off",
-        "zh": "Advancing Translational Research with Patient-Derived Organoids: Applications and Opportunities in Drug Development dwunderlin Wed, 06/03/2026 - 13:40 Tue, 06/30/2026 - 11:00 Resource Type Webinar Alexis Santana Patient-derived organoids are emerging as powerful tools for translational research, off",
-        "vi": "Advancing Translational Research with Patient-Derived Organoids: Applications and Opportunities in Drug Development dwunderlin Wed, 06/03/2026 - 13:40 Tue, 06/30/2026 - 11:00 Resource Type Webinar Alexis Santana Patient-derived organoids are emerging as powerful tools for translational research, off",
-        "ja": "Advancing Translational Research with Patient-Derived Organoids: Applications and Opportunities in Drug Development dwunderlin Wed, 06/03/2026 - 13:40 Tue, 06/30/2026 - 11:00 Resource Type Webinar Alexis Santana Patient-derived organoids are emerging as powerful tools for translational research, off"
-      },
-      "category": "Pharma",
-      "score": 0,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://www.fiercepharma.com/premium/webinar/1381405",
-      "published": "Wed, 03 Jun 2026 17:40:48 +0000"
-    },
-    {
       "id": "https://feeds.feedblitz.com/~/956031881/0/drugchannels~Protecting-GrosstoNet-Performance-Through-SingleChannel-Ecosystems.html",
       "headline": {
         "en": "Protecting Gross-to-Net Performance Through Single-Channel Ecosystems",
@@ -701,6 +673,34 @@
       },
       "link": "https://feeds.feedblitz.com/~/955542974/0/drugchannels~The-Hidden-Costs-of-OverCustomizing-Your-Hub-Technology-Stack.html",
       "published": "Fri, 08 May 2026 10:30:00 +0000"
+    },
+    {
+      "id": "https://feeds.feedblitz.com/~/954091460/0/drugchannels~The-Omnichannel-Gap-Building-the-CRM-of-the-Future-for-Patient-Services.html",
+      "headline": {
+        "en": "The Omnichannel Gap: Building the CRM of the Future for Patient Services",
+        "es": "The Omnichannel Gap: Building the CRM of the Future for Patient Services",
+        "zh": "The Omnichannel Gap: Building the CRM of the Future for Patient Services",
+        "vi": "The Omnichannel Gap: Building the CRM of the Future for Patient Services",
+        "ja": "The Omnichannel Gap: Building the CRM of the Future for Patient Services"
+      },
+      "summary": {
+        "en": "Today’s guest post comes from Karishma Desai, Associate Director of Data Strategy at Claritas Rx. Karishma explains how the complexities of specialty therapies require a customer relationship management (CRM) system that unifies consent management. She goes on to explain that by embedding AI into th",
+        "es": "Today’s guest post comes from Karishma Desai, Associate Director of Data Strategy at Claritas Rx. Karishma explains how the complexities of specialty therapies require a customer relationship management (CRM) system that unifies consent management. She goes on to explain that by embedding AI into th",
+        "zh": "Today’s guest post comes from Karishma Desai, Associate Director of Data Strategy at Claritas Rx. Karishma explains how the complexities of specialty therapies require a customer relationship management (CRM) system that unifies consent management. She goes on to explain that by embedding AI into th",
+        "vi": "Today’s guest post comes from Karishma Desai, Associate Director of Data Strategy at Claritas Rx. Karishma explains how the complexities of specialty therapies require a customer relationship management (CRM) system that unifies consent management. She goes on to explain that by embedding AI into th",
+        "ja": "Today’s guest post comes from Karishma Desai, Associate Director of Data Strategy at Claritas Rx. Karishma explains how the complexities of specialty therapies require a customer relationship management (CRM) system that unifies consent management. She goes on to explain that by embedding AI into th"
+      },
+      "category": "Pharma",
+      "score": 0,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://feeds.feedblitz.com/~/954091460/0/drugchannels~The-Omnichannel-Gap-Building-the-CRM-of-the-Future-for-Patient-Services.html",
+      "published": "Mon, 20 Apr 2026 11:00:00 +0000"
     }
   ]
 }
