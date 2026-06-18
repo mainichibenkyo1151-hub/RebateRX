@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T23:09:18.520317Z",
+  "generatedAt": "2026-06-18T12:33:28.223781Z",
   "count": 25,
   "articles": [
     {
@@ -339,34 +339,6 @@
       "published": "Tue, 21 Apr 2026 11:00:00 +0000"
     },
     {
-      "id": "https://feeds.feedblitz.com/~/953768405/0/drugchannels~Mapping-the-Vertical-Integration-of-Insurers-PBMs-GPOs-Specialty-Pharmacies-and-Healthcare-Services-DCI%e2%80%99s-Update.html",
-      "headline": {
-        "en": "Mapping the Vertical Integration of Insurers, PBMs, GPOs, Specialty Pharmacies, and Healthcare Services: DCI’s 2026 Update",
-        "es": "Mapping the Vertical Integration of Insurers, PBMs, GPOs, Specialty Pharmacies, and Healthcare Services: DCI’s 2026 Update",
-        "zh": "Mapping the Vertical Integration of Insurers, PBMs, GPOs, Specialty Pharmacies, and Healthcare Services: DCI’s 2026 Update",
-        "vi": "Mapping the Vertical Integration of Insurers, PBMs, GPOs, Specialty Pharmacies, and Healthcare Services: DCI’s 2026 Update",
-        "ja": "Mapping the Vertical Integration of Insurers, PBMs, GPOs, Specialty Pharmacies, and Healthcare Services: DCI’s 2026 Update"
-      },
-      "summary": {
-        "en": "By Adam J. Fein, Ph.D. It's time for Drug Channels Institute’s (DCI) annual update of vertical integration among insurers, PBMs, specialty pharmacies, and healthcare services within U.S. drug channels. As you can see below, we have updated and revised our infamous illustration of the major vertical ",
-        "es": "By Adam J. Fein, Ph.D. It's time for Drug Channels Institute’s (DCI) annual update of vertical integration among insurers, PBMs, specialty pharmacies, and healthcare services within U.S. drug channels. As you can see below, we have updated and revised our infamous illustration of the major vertical ",
-        "zh": "By Adam J. Fein, Ph.D. It's time for Drug Channels Institute’s (DCI) annual update of vertical integration among insurers, PBMs, specialty pharmacies, and healthcare services within U.S. drug channels. As you can see below, we have updated and revised our infamous illustration of the major vertical ",
-        "vi": "By Adam J. Fein, Ph.D. It's time for Drug Channels Institute’s (DCI) annual update of vertical integration among insurers, PBMs, specialty pharmacies, and healthcare services within U.S. drug channels. As you can see below, we have updated and revised our infamous illustration of the major vertical ",
-        "ja": "By Adam J. Fein, Ph.D. It's time for Drug Channels Institute’s (DCI) annual update of vertical integration among insurers, PBMs, specialty pharmacies, and healthcare services within U.S. drug channels. As you can see below, we have updated and revised our infamous illustration of the major vertical "
-      },
-      "category": "PBM",
-      "score": 40,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/953768405/0/drugchannels~Mapping-the-Vertical-Integration-of-Insurers-PBMs-GPOs-Specialty-Pharmacies-and-Healthcare-Services-DCI%e2%80%99s-Update.html",
-      "published": "Tue, 14 Apr 2026 11:00:00 +0000"
-    },
-    {
       "id": "https://feeds.feedblitz.com/~/954411122/0/drugchannels~Beyond-Formulary-Access-Building-a-Scalable-Pharmaceutical-Manufacturer-Commercial-Platform-for-DirecttoConsumer-and-Employer-Channels.html",
       "headline": {
         "en": "Beyond Formulary Access: Building a Scalable Pharmaceutical Manufacturer Commercial Platform for Direct-to-Consumer and Employer Channels",
@@ -701,6 +673,34 @@
       },
       "link": "https://feeds.feedblitz.com/~/954091460/0/drugchannels~The-Omnichannel-Gap-Building-the-CRM-of-the-Future-for-Patient-Services.html",
       "published": "Mon, 20 Apr 2026 11:00:00 +0000"
+    },
+    {
+      "id": "https://feeds.feedblitz.com/~/957766580/0/drugchannels~Pharmacy-Copay-Misuse-The-MultiBillion-Dollar-Issue-Hiding-In-Plain-Sight.html",
+      "headline": {
+        "en": "Pharmacy Copay Misuse: The Multi-Billion Dollar Issue Hiding In Plain Sight",
+        "es": "Pharmacy Copay Misuse: The Multi-Billion Dollar Issue Hiding In Plain Sight",
+        "zh": "Pharmacy Copay Misuse: The Multi-Billion Dollar Issue Hiding In Plain Sight",
+        "vi": "Pharmacy Copay Misuse: The Multi-Billion Dollar Issue Hiding In Plain Sight",
+        "ja": "Pharmacy Copay Misuse: The Multi-Billion Dollar Issue Hiding In Plain Sight"
+      },
+      "summary": {
+        "en": "Today’s guest post comes from Stephen Hom, Co-Founder, EVP &amp; Chief Operating Officer of RIS Rx. Drawing on RIS Rx’s proprietary data and case studies, Stephen highlights patterns that can undermine patient support program effectiveness. He argues that a more data-driven approach can help manufac",
+        "es": "Today’s guest post comes from Stephen Hom, Co-Founder, EVP &amp; Chief Operating Officer of RIS Rx. Drawing on RIS Rx’s proprietary data and case studies, Stephen highlights patterns that can undermine patient support program effectiveness. He argues that a more data-driven approach can help manufac",
+        "zh": "Today’s guest post comes from Stephen Hom, Co-Founder, EVP &amp; Chief Operating Officer of RIS Rx. Drawing on RIS Rx’s proprietary data and case studies, Stephen highlights patterns that can undermine patient support program effectiveness. He argues that a more data-driven approach can help manufac",
+        "vi": "Today’s guest post comes from Stephen Hom, Co-Founder, EVP &amp; Chief Operating Officer of RIS Rx. Drawing on RIS Rx’s proprietary data and case studies, Stephen highlights patterns that can undermine patient support program effectiveness. He argues that a more data-driven approach can help manufac",
+        "ja": "Today’s guest post comes from Stephen Hom, Co-Founder, EVP &amp; Chief Operating Officer of RIS Rx. Drawing on RIS Rx’s proprietary data and case studies, Stephen highlights patterns that can undermine patient support program effectiveness. He argues that a more data-driven approach can help manufac"
+      },
+      "category": "Access",
+      "score": -20,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://feeds.feedblitz.com/~/957766580/0/drugchannels~Pharmacy-Copay-Misuse-The-MultiBillion-Dollar-Issue-Hiding-In-Plain-Sight.html",
+      "published": "Fri, 05 Jun 2026 10:00:00 +0000"
     }
   ]
 }
