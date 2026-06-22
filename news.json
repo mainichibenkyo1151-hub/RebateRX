@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-21T22:38:52.647055Z",
+  "generatedAt": "2026-06-22T17:57:12.326881Z",
   "count": 25,
   "articles": [
     {
@@ -535,34 +535,6 @@
       "published": "Fri, 17 Apr 2026 11:00:00 +0000"
     },
     {
-      "id": "https://www.fiercepharma.com/premium/webinar/1381405",
-      "headline": {
-        "en": "Advancing Translational Research with Patient-Derived Organoids: Applications and Opportunities in Drug Development",
-        "es": "Advancing Translational Research with Patient-Derived Organoids: Applications and Opportunities in Drug Development",
-        "zh": "Advancing Translational Research with Patient-Derived Organoids: Applications and Opportunities in Drug Development",
-        "vi": "Advancing Translational Research with Patient-Derived Organoids: Applications and Opportunities in Drug Development",
-        "ja": "Advancing Translational Research with Patient-Derived Organoids: Applications and Opportunities in Drug Development"
-      },
-      "summary": {
-        "en": "Advancing Translational Research with Patient-Derived Organoids: Applications and Opportunities in Drug Development dwunderlin Wed, 06/03/2026 - 13:40 Tue, 06/30/2026 - 11:00 Resource Type Webinar Alexis Santana Patient-derived organoids are emerging as powerful tools for translational research, off",
-        "es": "Advancing Translational Research with Patient-Derived Organoids: Applications and Opportunities in Drug Development dwunderlin Wed, 06/03/2026 - 13:40 Tue, 06/30/2026 - 11:00 Resource Type Webinar Alexis Santana Patient-derived organoids are emerging as powerful tools for translational research, off",
-        "zh": "Advancing Translational Research with Patient-Derived Organoids: Applications and Opportunities in Drug Development dwunderlin Wed, 06/03/2026 - 13:40 Tue, 06/30/2026 - 11:00 Resource Type Webinar Alexis Santana Patient-derived organoids are emerging as powerful tools for translational research, off",
-        "vi": "Advancing Translational Research with Patient-Derived Organoids: Applications and Opportunities in Drug Development dwunderlin Wed, 06/03/2026 - 13:40 Tue, 06/30/2026 - 11:00 Resource Type Webinar Alexis Santana Patient-derived organoids are emerging as powerful tools for translational research, off",
-        "ja": "Advancing Translational Research with Patient-Derived Organoids: Applications and Opportunities in Drug Development dwunderlin Wed, 06/03/2026 - 13:40 Tue, 06/30/2026 - 11:00 Resource Type Webinar Alexis Santana Patient-derived organoids are emerging as powerful tools for translational research, off"
-      },
-      "category": "Pharma",
-      "score": 0,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://www.fiercepharma.com/premium/webinar/1381405",
-      "published": "Wed, 03 Jun 2026 17:40:48 +0000"
-    },
-    {
       "id": "https://feeds.feedblitz.com/~/956031881/0/drugchannels~Protecting-GrosstoNet-Performance-Through-SingleChannel-Ecosystems.html",
       "headline": {
         "en": "Protecting Gross-to-Net Performance Through Single-Channel Ecosystems",
@@ -701,6 +673,34 @@
       },
       "link": "https://www.fiercepharma.com/resource/accelerating-targeted-gene-expression-analysis-drug-development",
       "published": "Thu, 04 Jun 2026 19:51:03 +0000"
+    },
+    {
+      "id": "https://feeds.feedblitz.com/~/958153310/0/drugchannels~The-Digital-Front-Door-to-Specialty-Therapy-May-Not-Be-a-Specialty-Pharmacy.html",
+      "headline": {
+        "en": "The Digital Front Door to Specialty Therapy May Not Be a Specialty Pharmacy",
+        "es": "The Digital Front Door to Specialty Therapy May Not Be a Specialty Pharmacy",
+        "zh": "The Digital Front Door to Specialty Therapy May Not Be a Specialty Pharmacy",
+        "vi": "The Digital Front Door to Specialty Therapy May Not Be a Specialty Pharmacy",
+        "ja": "The Digital Front Door to Specialty Therapy May Not Be a Specialty Pharmacy"
+      },
+      "summary": {
+        "en": "Today’s guest post comes from Nareda Mills, President of Patient Solutions at Inizio Engage. Nareda examines how growing access complexity is reshaping specialty commercialization. She explores the emerging role of Non-Dispensing Pharmacies (NDPs) and argues that by improving coordination, visibilit",
+        "es": "Today’s guest post comes from Nareda Mills, President of Patient Solutions at Inizio Engage. Nareda examines how growing access complexity is reshaping specialty commercialization. She explores the emerging role of Non-Dispensing Pharmacies (NDPs) and argues that by improving coordination, visibilit",
+        "zh": "Today’s guest post comes from Nareda Mills, President of Patient Solutions at Inizio Engage. Nareda examines how growing access complexity is reshaping specialty commercialization. She explores the emerging role of Non-Dispensing Pharmacies (NDPs) and argues that by improving coordination, visibilit",
+        "vi": "Today’s guest post comes from Nareda Mills, President of Patient Solutions at Inizio Engage. Nareda examines how growing access complexity is reshaping specialty commercialization. She explores the emerging role of Non-Dispensing Pharmacies (NDPs) and argues that by improving coordination, visibilit",
+        "ja": "Today’s guest post comes from Nareda Mills, President of Patient Solutions at Inizio Engage. Nareda examines how growing access complexity is reshaping specialty commercialization. She explores the emerging role of Non-Dispensing Pharmacies (NDPs) and argues that by improving coordination, visibilit"
+      },
+      "category": "Pharma",
+      "score": -50,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://feeds.feedblitz.com/~/958153310/0/drugchannels~The-Digital-Front-Door-to-Specialty-Therapy-May-Not-Be-a-Specialty-Pharmacy.html",
+      "published": "Thu, 18 Jun 2026 10:00:00 +0000"
     }
   ]
 }
