@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T09:41:00.561533Z",
+  "generatedAt": "2026-07-07T14:32:55.460781Z",
   "count": 25,
   "articles": [
     {
@@ -367,6 +367,34 @@
       "published": "Tue, 28 Apr 2026 04:00:00 +0000"
     },
     {
+      "id": "https://www.fiercepharma.com/premium/webinar/1382087",
+      "headline": {
+        "en": "Beyond the GLP-1 Boom: Devices, Diagnostics, and Manufacturing in the New Obesity Economy",
+        "es": "Beyond the GLP-1 Boom: Devices, Diagnostics, and Manufacturing in the New Obesity Economy",
+        "zh": "Beyond the GLP-1 Boom: Devices, Diagnostics, and Manufacturing in the New Obesity Economy",
+        "vi": "Beyond the GLP-1 Boom: Devices, Diagnostics, and Manufacturing in the New Obesity Economy",
+        "ja": "Beyond the GLP-1 Boom: Devices, Diagnostics, and Manufacturing in the New Obesity Economy"
+      },
+      "summary": {
+        "en": "Beyond the GLP-1 Boom: Devices, Diagnostics, and Manufacturing in the New Obesity Economy jpiatt Tue, 06/30/2026 - 14:08 Tue, 07/28/2026 - 10:00 Resource Type Webinar Promotion End Thu, 01/07/2027 - 07:20 GLP-1 therapies have quickly changed the obesity and cardiometabolic care landscape but the imp",
+        "es": "Beyond the GLP-1 Boom: Devices, Diagnostics, and Manufacturing in the New Obesity Economy jpiatt Tue, 06/30/2026 - 14:08 Tue, 07/28/2026 - 10:00 Resource Type Webinar Promotion End Thu, 01/07/2027 - 07:20 GLP-1 therapies have quickly changed the obesity and cardiometabolic care landscape but the imp",
+        "zh": "Beyond the GLP-1 Boom: Devices, Diagnostics, and Manufacturing in the New Obesity Economy jpiatt Tue, 06/30/2026 - 14:08 Tue, 07/28/2026 - 10:00 Resource Type Webinar Promotion End Thu, 01/07/2027 - 07:20 GLP-1 therapies have quickly changed the obesity and cardiometabolic care landscape but the imp",
+        "vi": "Beyond the GLP-1 Boom: Devices, Diagnostics, and Manufacturing in the New Obesity Economy jpiatt Tue, 06/30/2026 - 14:08 Tue, 07/28/2026 - 10:00 Resource Type Webinar Promotion End Thu, 01/07/2027 - 07:20 GLP-1 therapies have quickly changed the obesity and cardiometabolic care landscape but the imp",
+        "ja": "Beyond the GLP-1 Boom: Devices, Diagnostics, and Manufacturing in the New Obesity Economy jpiatt Tue, 06/30/2026 - 14:08 Tue, 07/28/2026 - 10:00 Resource Type Webinar Promotion End Thu, 01/07/2027 - 07:20 GLP-1 therapies have quickly changed the obesity and cardiometabolic care landscape but the imp"
+      },
+      "category": "Pharma",
+      "score": 30,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://www.fiercepharma.com/premium/webinar/1382087",
+      "published": "Tue, 30 Jun 2026 18:08:05 +0000"
+    },
+    {
       "id": "https://feeds.feedblitz.com/~/954411122/0/drugchannels~Beyond-Formulary-Access-Building-a-Scalable-Pharmaceutical-Manufacturer-Commercial-Platform-for-DirecttoConsumer-and-Employer-Channels.html",
       "headline": {
         "en": "Beyond Formulary Access: Building a Scalable Pharmaceutical Manufacturer Commercial Platform for Direct-to-Consumer and Employer Channels",
@@ -673,34 +701,6 @@
       },
       "link": "https://feeds.feedblitz.com/~/955542974/0/drugchannels~The-Hidden-Costs-of-OverCustomizing-Your-Hub-Technology-Stack.html",
       "published": "Fri, 08 May 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/957766580/0/drugchannels~Pharmacy-Copay-Misuse-The-MultiBillion-Dollar-Issue-Hiding-In-Plain-Sight.html",
-      "headline": {
-        "en": "Pharmacy Copay Misuse: The Multi-Billion Dollar Issue Hiding In Plain Sight",
-        "es": "Pharmacy Copay Misuse: The Multi-Billion Dollar Issue Hiding In Plain Sight",
-        "zh": "Pharmacy Copay Misuse: The Multi-Billion Dollar Issue Hiding In Plain Sight",
-        "vi": "Pharmacy Copay Misuse: The Multi-Billion Dollar Issue Hiding In Plain Sight",
-        "ja": "Pharmacy Copay Misuse: The Multi-Billion Dollar Issue Hiding In Plain Sight"
-      },
-      "summary": {
-        "en": "Today’s guest post comes from Stephen Hom, Co-Founder, EVP &amp; Chief Operating Officer of RIS Rx. Drawing on RIS Rx’s proprietary data and case studies, Stephen highlights patterns that can undermine patient support program effectiveness. He argues that a more data-driven approach can help manufac",
-        "es": "Today’s guest post comes from Stephen Hom, Co-Founder, EVP &amp; Chief Operating Officer of RIS Rx. Drawing on RIS Rx’s proprietary data and case studies, Stephen highlights patterns that can undermine patient support program effectiveness. He argues that a more data-driven approach can help manufac",
-        "zh": "Today’s guest post comes from Stephen Hom, Co-Founder, EVP &amp; Chief Operating Officer of RIS Rx. Drawing on RIS Rx’s proprietary data and case studies, Stephen highlights patterns that can undermine patient support program effectiveness. He argues that a more data-driven approach can help manufac",
-        "vi": "Today’s guest post comes from Stephen Hom, Co-Founder, EVP &amp; Chief Operating Officer of RIS Rx. Drawing on RIS Rx’s proprietary data and case studies, Stephen highlights patterns that can undermine patient support program effectiveness. He argues that a more data-driven approach can help manufac",
-        "ja": "Today’s guest post comes from Stephen Hom, Co-Founder, EVP &amp; Chief Operating Officer of RIS Rx. Drawing on RIS Rx’s proprietary data and case studies, Stephen highlights patterns that can undermine patient support program effectiveness. He argues that a more data-driven approach can help manufac"
-      },
-      "category": "Access",
-      "score": -20,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/957766580/0/drugchannels~Pharmacy-Copay-Misuse-The-MultiBillion-Dollar-Issue-Hiding-In-Plain-Sight.html",
-      "published": "Fri, 05 Jun 2026 10:00:00 +0000"
     }
   ]
 }
