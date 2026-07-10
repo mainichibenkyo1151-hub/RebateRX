@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T09:34:42.056282Z",
+  "generatedAt": "2026-07-10T14:26:29.067223Z",
   "count": 25,
   "articles": [
     {
@@ -255,6 +255,34 @@
       "published": "Mon, 29 Jun 2026 10:30:00 +0000"
     },
     {
+      "id": "https://feeds.feedblitz.com/~/959992202/0/drugchannels~When-Access-Tightens-Prior-Authorization-Execution-Becomes-the-Differentiator.html",
+      "headline": {
+        "en": "When Access Tightens, Prior Authorization Execution Becomes the Differentiator",
+        "es": "When Access Tightens, Prior Authorization Execution Becomes the Differentiator",
+        "zh": "When Access Tightens, Prior Authorization Execution Becomes the Differentiator",
+        "vi": "When Access Tightens, Prior Authorization Execution Becomes the Differentiator",
+        "ja": "When Access Tightens, Prior Authorization Execution Becomes the Differentiator"
+      },
+      "summary": {
+        "en": "Today's guest post comes from Megan Wetzel, Vice President of Product, Access and Affordability at CoverMyMeds. Megan examines how prior authorization execution has become a strategic differentiator for biopharma brands as formulary changes and expanding utilization management put more pressure on a",
+        "es": "Today's guest post comes from Megan Wetzel, Vice President of Product, Access and Affordability at CoverMyMeds. Megan examines how prior authorization execution has become a strategic differentiator for biopharma brands as formulary changes and expanding utilization management put more pressure on a",
+        "zh": "Today's guest post comes from Megan Wetzel, Vice President of Product, Access and Affordability at CoverMyMeds. Megan examines how prior authorization execution has become a strategic differentiator for biopharma brands as formulary changes and expanding utilization management put more pressure on a",
+        "vi": "Today's guest post comes from Megan Wetzel, Vice President of Product, Access and Affordability at CoverMyMeds. Megan examines how prior authorization execution has become a strategic differentiator for biopharma brands as formulary changes and expanding utilization management put more pressure on a",
+        "ja": "Today's guest post comes from Megan Wetzel, Vice President of Product, Access and Affordability at CoverMyMeds. Megan examines how prior authorization execution has become a strategic differentiator for biopharma brands as formulary changes and expanding utilization management put more pressure on a"
+      },
+      "category": "Pharma",
+      "score": 65,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://feeds.feedblitz.com/~/959992202/0/drugchannels~When-Access-Tightens-Prior-Authorization-Execution-Becomes-the-Differentiator.html",
+      "published": "Fri, 10 Jul 2026 10:30:00 +0000"
+    },
+    {
       "id": "https://www.fiercepharma.com/premium/webinar/1381917",
       "headline": {
         "en": "Beyond the Prescription: Transforming Oncology Commercial Strategy with Complete Patient Journey Data",
@@ -421,34 +449,6 @@
       },
       "link": "https://www.fiercepharma.com/premium/webinar/1382087",
       "published": "Tue, 30 Jun 2026 18:08:05 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/954411122/0/drugchannels~Beyond-Formulary-Access-Building-a-Scalable-Pharmaceutical-Manufacturer-Commercial-Platform-for-DirecttoConsumer-and-Employer-Channels.html",
-      "headline": {
-        "en": "Beyond Formulary Access: Building a Scalable Pharmaceutical Manufacturer Commercial Platform for Direct-to-Consumer and Employer Channels",
-        "es": "Beyond Formulary Access: Building a Scalable Pharmaceutical Manufacturer Commercial Platform for Direct-to-Consumer and Employer Channels",
-        "zh": "Beyond Formulary Access: Building a Scalable Pharmaceutical Manufacturer Commercial Platform for Direct-to-Consumer and Employer Channels",
-        "vi": "Beyond Formulary Access: Building a Scalable Pharmaceutical Manufacturer Commercial Platform for Direct-to-Consumer and Employer Channels",
-        "ja": "Beyond Formulary Access: Building a Scalable Pharmaceutical Manufacturer Commercial Platform for Direct-to-Consumer and Employer Channels"
-      },
-      "summary": {
-        "en": "Today’s guest post comes from Laura Jensen, Chief Commercial Officer and President, Pharma Direct at GoodRx. Laura suggests that manufacturers must move beyond payer-centric models toward integrated, direct-to-consumer and employer channel strategies that connect pricing, demand, and fulfillment. Sh",
-        "es": "Today’s guest post comes from Laura Jensen, Chief Commercial Officer and President, Pharma Direct at GoodRx. Laura suggests that manufacturers must move beyond payer-centric models toward integrated, direct-to-consumer and employer channel strategies that connect pricing, demand, and fulfillment. Sh",
-        "zh": "Today’s guest post comes from Laura Jensen, Chief Commercial Officer and President, Pharma Direct at GoodRx. Laura suggests that manufacturers must move beyond payer-centric models toward integrated, direct-to-consumer and employer channel strategies that connect pricing, demand, and fulfillment. Sh",
-        "vi": "Today’s guest post comes from Laura Jensen, Chief Commercial Officer and President, Pharma Direct at GoodRx. Laura suggests that manufacturers must move beyond payer-centric models toward integrated, direct-to-consumer and employer channel strategies that connect pricing, demand, and fulfillment. Sh",
-        "ja": "Today’s guest post comes from Laura Jensen, Chief Commercial Officer and President, Pharma Direct at GoodRx. Laura suggests that manufacturers must move beyond payer-centric models toward integrated, direct-to-consumer and employer channel strategies that connect pricing, demand, and fulfillment. Sh"
-      },
-      "category": "Pricing",
-      "score": 30,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/954411122/0/drugchannels~Beyond-Formulary-Access-Building-a-Scalable-Pharmaceutical-Manufacturer-Commercial-Platform-for-DirecttoConsumer-and-Employer-Channels.html",
-      "published": "Fri, 24 Apr 2026 11:00:00 +0000"
     },
     {
       "id": "https://feeds.feedblitz.com/~/957976865/0/drugchannels~Minnesota%e2%80%99s-B-Hospitals-Make-One-Billion-More-From-B-Than-They-Spend-on-Uncompensated-Care-rerun.html",
