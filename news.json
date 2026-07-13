@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T09:26:28.409312Z",
+  "generatedAt": "2026-07-13T14:33:33.290227Z",
   "count": 25,
   "articles": [
     {
@@ -281,34 +281,6 @@
       },
       "link": "https://feeds.feedblitz.com/~/959992202/0/drugchannels~When-Access-Tightens-Prior-Authorization-Execution-Becomes-the-Differentiator.html",
       "published": "Fri, 10 Jul 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://www.fiercepharma.com/premium/webinar/1381917",
-      "headline": {
-        "en": "Beyond the Prescription: Transforming Oncology Commercial Strategy with Complete Patient Journey Data",
-        "es": "Beyond the Prescription: Transforming Oncology Commercial Strategy with Complete Patient Journey Data",
-        "zh": "Beyond the Prescription: Transforming Oncology Commercial Strategy with Complete Patient Journey Data",
-        "vi": "Beyond the Prescription: Transforming Oncology Commercial Strategy with Complete Patient Journey Data",
-        "ja": "Beyond the Prescription: Transforming Oncology Commercial Strategy with Complete Patient Journey Data"
-      },
-      "summary": {
-        "en": "Beyond the Prescription: Transforming Oncology Commercial Strategy with Complete Patient Journey Data dwunderlin Wed, 06/24/2026 - 15:03 Thu, 07/23/2026 - 12:00 Resource Type Webinar Vamsi Bollu, PhD, MBA Jonathan Kish, PhD, MPH Sonal Shah, PharmD, MBA The pace of innovation in oncology is accelerat",
-        "es": "Beyond the Prescription: Transforming Oncology Commercial Strategy with Complete Patient Journey Data dwunderlin Wed, 06/24/2026 - 15:03 Thu, 07/23/2026 - 12:00 Resource Type Webinar Vamsi Bollu, PhD, MBA Jonathan Kish, PhD, MPH Sonal Shah, PharmD, MBA The pace of innovation in oncology is accelerat",
-        "zh": "Beyond the Prescription: Transforming Oncology Commercial Strategy with Complete Patient Journey Data dwunderlin Wed, 06/24/2026 - 15:03 Thu, 07/23/2026 - 12:00 Resource Type Webinar Vamsi Bollu, PhD, MBA Jonathan Kish, PhD, MPH Sonal Shah, PharmD, MBA The pace of innovation in oncology is accelerat",
-        "vi": "Beyond the Prescription: Transforming Oncology Commercial Strategy with Complete Patient Journey Data dwunderlin Wed, 06/24/2026 - 15:03 Thu, 07/23/2026 - 12:00 Resource Type Webinar Vamsi Bollu, PhD, MBA Jonathan Kish, PhD, MPH Sonal Shah, PharmD, MBA The pace of innovation in oncology is accelerat",
-        "ja": "Beyond the Prescription: Transforming Oncology Commercial Strategy with Complete Patient Journey Data dwunderlin Wed, 06/24/2026 - 15:03 Thu, 07/23/2026 - 12:00 Resource Type Webinar Vamsi Bollu, PhD, MBA Jonathan Kish, PhD, MPH Sonal Shah, PharmD, MBA The pace of innovation in oncology is accelerat"
-      },
-      "category": "Pharma",
-      "score": 60,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://www.fiercepharma.com/premium/webinar/1381917",
-      "published": "Wed, 24 Jun 2026 19:03:08 +0000"
     },
     {
       "id": "https://feeds.feedblitz.com/~/957947492/0/drugchannels~The-Top-Specialty-Pharmacies-of-PBMAffiliated-Pharmacies-Dominate-While-Health-Systems-and-Independents-Gain-Ground-rerun.html",
@@ -701,6 +673,34 @@
       },
       "link": "https://feeds.feedblitz.com/~/955542974/0/drugchannels~The-Hidden-Costs-of-OverCustomizing-Your-Hub-Technology-Stack.html",
       "published": "Fri, 08 May 2026 10:30:00 +0000"
+    },
+    {
+      "id": "https://feeds.feedblitz.com/~/957766580/0/drugchannels~Pharmacy-Copay-Misuse-The-MultiBillion-Dollar-Issue-Hiding-In-Plain-Sight.html",
+      "headline": {
+        "en": "Pharmacy Copay Misuse: The Multi-Billion Dollar Issue Hiding In Plain Sight",
+        "es": "Pharmacy Copay Misuse: The Multi-Billion Dollar Issue Hiding In Plain Sight",
+        "zh": "Pharmacy Copay Misuse: The Multi-Billion Dollar Issue Hiding In Plain Sight",
+        "vi": "Pharmacy Copay Misuse: The Multi-Billion Dollar Issue Hiding In Plain Sight",
+        "ja": "Pharmacy Copay Misuse: The Multi-Billion Dollar Issue Hiding In Plain Sight"
+      },
+      "summary": {
+        "en": "Today’s guest post comes from Stephen Hom, Co-Founder, EVP &amp; Chief Operating Officer of RIS Rx. Drawing on RIS Rx’s proprietary data and case studies, Stephen highlights patterns that can undermine patient support program effectiveness. He argues that a more data-driven approach can help manufac",
+        "es": "Today’s guest post comes from Stephen Hom, Co-Founder, EVP &amp; Chief Operating Officer of RIS Rx. Drawing on RIS Rx’s proprietary data and case studies, Stephen highlights patterns that can undermine patient support program effectiveness. He argues that a more data-driven approach can help manufac",
+        "zh": "Today’s guest post comes from Stephen Hom, Co-Founder, EVP &amp; Chief Operating Officer of RIS Rx. Drawing on RIS Rx’s proprietary data and case studies, Stephen highlights patterns that can undermine patient support program effectiveness. He argues that a more data-driven approach can help manufac",
+        "vi": "Today’s guest post comes from Stephen Hom, Co-Founder, EVP &amp; Chief Operating Officer of RIS Rx. Drawing on RIS Rx’s proprietary data and case studies, Stephen highlights patterns that can undermine patient support program effectiveness. He argues that a more data-driven approach can help manufac",
+        "ja": "Today’s guest post comes from Stephen Hom, Co-Founder, EVP &amp; Chief Operating Officer of RIS Rx. Drawing on RIS Rx’s proprietary data and case studies, Stephen highlights patterns that can undermine patient support program effectiveness. He argues that a more data-driven approach can help manufac"
+      },
+      "category": "Access",
+      "score": -20,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://feeds.feedblitz.com/~/957766580/0/drugchannels~Pharmacy-Copay-Misuse-The-MultiBillion-Dollar-Issue-Hiding-In-Plain-Sight.html",
+      "published": "Fri, 05 Jun 2026 10:00:00 +0000"
     }
   ]
 }
