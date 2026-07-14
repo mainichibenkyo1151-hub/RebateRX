@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T08:04:15.056658Z",
+  "generatedAt": "2026-07-14T13:42:19.592090Z",
   "count": 25,
   "articles": [
     {
@@ -227,6 +227,34 @@
       "published": "Tue, 12 May 2026 10:30:00 +0000"
     },
     {
+      "id": "https://feeds.feedblitz.com/~/960308724/0/drugchannels~Medicare-Embraces-SiteNeutral-Payments-Why-Havent-Employers.html",
+      "headline": {
+        "en": "Medicare Embraces Site-Neutral Payments. Why Haven't Employers?",
+        "es": "Medicare Embraces Site-Neutral Payments. Why Haven't Employers?",
+        "zh": "Medicare Embraces Site-Neutral Payments. Why Haven't Employers?",
+        "vi": "Medicare Embraces Site-Neutral Payments. Why Haven't Employers?",
+        "ja": "Medicare Embraces Site-Neutral Payments. Why Haven't Employers?"
+      },
+      "summary": {
+        "en": "By Bryce Platt, PharmD Provider-administered drugs are one of the fastest-growing and least-managed cost drivers for commercial plan sponsors. Despite that, recent data from the Pharmaceutical Strategies Group show that only 35% of commercial plan sponsors currently have a site of care (SOC) program",
+        "es": "By Bryce Platt, PharmD Provider-administered drugs are one of the fastest-growing and least-managed cost drivers for commercial plan sponsors. Despite that, recent data from the Pharmaceutical Strategies Group show that only 35% of commercial plan sponsors currently have a site of care (SOC) program",
+        "zh": "By Bryce Platt, PharmD Provider-administered drugs are one of the fastest-growing and least-managed cost drivers for commercial plan sponsors. Despite that, recent data from the Pharmaceutical Strategies Group show that only 35% of commercial plan sponsors currently have a site of care (SOC) program",
+        "vi": "By Bryce Platt, PharmD Provider-administered drugs are one of the fastest-growing and least-managed cost drivers for commercial plan sponsors. Despite that, recent data from the Pharmaceutical Strategies Group show that only 35% of commercial plan sponsors currently have a site of care (SOC) program",
+        "ja": "By Bryce Platt, PharmD Provider-administered drugs are one of the fastest-growing and least-managed cost drivers for commercial plan sponsors. Despite that, recent data from the Pharmaceutical Strategies Group show that only 35% of commercial plan sponsors currently have a site of care (SOC) program"
+      },
+      "category": "Insurance",
+      "score": 70,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://feeds.feedblitz.com/~/960308724/0/drugchannels~Medicare-Embraces-SiteNeutral-Payments-Why-Havent-Employers.html",
+      "published": "Tue, 14 Jul 2026 10:30:00 +0000"
+    },
+    {
       "id": "https://feeds.feedblitz.com/~/958710788/0/drugchannels~Drug-Channels-News-Roundup-June-PBM-Shakeout-Accelerates-B-Enters-a-New-Era-Rebate-Questions-Persist-Mark-Cuban-Wins-Again-and-Ge-Bai%e2%80%99s-HHS-Nomination.html",
       "headline": {
         "en": "Drug Channels News Roundup, June 2026: PBM Shakeout Accelerates, 340B Enters a New Era, Rebate Questions Persist, Mark Cuban Wins Again, and Ge Bai’s HHS Nomination",
@@ -365,34 +393,6 @@
       },
       "link": "https://feeds.feedblitz.com/~/955297097/0/drugchannels~Specialty-Pharmacy-Accreditation-DCI%e2%80%99s-Exclusive-Analysis-Reveals-a-Market-at-an-Inflection-Point.html",
       "published": "Tue, 05 May 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/954693299/0/drugchannels~Drug-Channels-News-Roundup-April-PBM-Specialty-Pharmacy-Steering-MLR-Profit-Shifting-Hospitals%e2%80%99-Fake-Prices-and-a-Peek-Behind-the-Scenes-at-DCI.html",
-      "headline": {
-        "en": "Drug Channels News Roundup, April 2026: PBM Specialty Pharmacy Steering, MLR Profit Shifting, Hospitals’ Fake Prices, and a Peek Behind the Scenes at DCI",
-        "es": "Drug Channels News Roundup, April 2026: PBM Specialty Pharmacy Steering, MLR Profit Shifting, Hospitals’ Fake Prices, and a Peek Behind the Scenes at DCI",
-        "zh": "Drug Channels News Roundup, April 2026: PBM Specialty Pharmacy Steering, MLR Profit Shifting, Hospitals’ Fake Prices, and a Peek Behind the Scenes at DCI",
-        "vi": "Drug Channels News Roundup, April 2026: PBM Specialty Pharmacy Steering, MLR Profit Shifting, Hospitals’ Fake Prices, and a Peek Behind the Scenes at DCI",
-        "ja": "Drug Channels News Roundup, April 2026: PBM Specialty Pharmacy Steering, MLR Profit Shifting, Hospitals’ Fake Prices, and a Peek Behind the Scenes at DCI"
-      },
-      "summary": {
-        "en": "By Adam J. Fein, Ph.D. Spring has officially arrived at Drug Channels' worldwide headquarters in beautiful downtown Philadelphia. (Photo proof at right.) So, dive into this month’s curated crop of noteworthy news: The patient experience at PBM-affiliated specialty pharmacies New evidence of profit s",
-        "es": "By Adam J. Fein, Ph.D. Spring has officially arrived at Drug Channels' worldwide headquarters in beautiful downtown Philadelphia. (Photo proof at right.) So, dive into this month’s curated crop of noteworthy news: The patient experience at PBM-affiliated specialty pharmacies New evidence of profit s",
-        "zh": "By Adam J. Fein, Ph.D. Spring has officially arrived at Drug Channels' worldwide headquarters in beautiful downtown Philadelphia. (Photo proof at right.) So, dive into this month’s curated crop of noteworthy news: The patient experience at PBM-affiliated specialty pharmacies New evidence of profit s",
-        "vi": "By Adam J. Fein, Ph.D. Spring has officially arrived at Drug Channels' worldwide headquarters in beautiful downtown Philadelphia. (Photo proof at right.) So, dive into this month’s curated crop of noteworthy news: The patient experience at PBM-affiliated specialty pharmacies New evidence of profit s",
-        "ja": "By Adam J. Fein, Ph.D. Spring has officially arrived at Drug Channels' worldwide headquarters in beautiful downtown Philadelphia. (Photo proof at right.) So, dive into this month’s curated crop of noteworthy news: The patient experience at PBM-affiliated specialty pharmacies New evidence of profit s"
-      },
-      "category": "PBM",
-      "score": 40,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/954693299/0/drugchannels~Drug-Channels-News-Roundup-April-PBM-Specialty-Pharmacy-Steering-MLR-Profit-Shifting-Hospitals%e2%80%99-Fake-Prices-and-a-Peek-Behind-the-Scenes-at-DCI.html",
-      "published": "Tue, 28 Apr 2026 04:00:00 +0000"
     },
     {
       "id": "https://www.fiercepharma.com/premium/webinar/1382087",
