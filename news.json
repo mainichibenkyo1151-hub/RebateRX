@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T08:09:32.810276Z",
+  "generatedAt": "2026-07-15T13:42:47.735411Z",
   "count": 25,
   "articles": [
     {
@@ -227,7 +227,7 @@
       "published": "Tue, 12 May 2026 10:30:00 +0000"
     },
     {
-      "id": "https://feeds.feedblitz.com/~/960308724/0/drugchannels~Medicare-Embraces-SiteNeutral-Payments-Why-Havent-Employers.html",
+      "id": "https://feeds.feedblitz.com/~/960358871/0/drugchannels~Medicare-Embraces-SiteNeutral-Payments-Why-Havent-Employers.html",
       "headline": {
         "en": "Medicare Embraces Site-Neutral Payments. Why Haven't Employers?",
         "es": "Medicare Embraces Site-Neutral Payments. Why Haven't Employers?",
@@ -251,7 +251,7 @@
         "vi": "May affect drug access, coverage, or cost.",
         "ja": "May affect drug access, coverage, or cost."
       },
-      "link": "https://feeds.feedblitz.com/~/960308724/0/drugchannels~Medicare-Embraces-SiteNeutral-Payments-Why-Havent-Employers.html",
+      "link": "https://feeds.feedblitz.com/~/960358871/0/drugchannels~Medicare-Embraces-SiteNeutral-Payments-Why-Havent-Employers.html",
       "published": "Tue, 14 Jul 2026 10:30:00 +0000"
     },
     {
@@ -423,6 +423,34 @@
       "published": "Tue, 30 Jun 2026 18:08:05 +0000"
     },
     {
+      "id": "https://feeds.feedblitz.com/~/960481910/0/drugchannels~The-B-Program-Hit-Billion-in-Has-It-Become-Too-Big-to-Reform.html",
+      "headline": {
+        "en": "The 340B Program Hit $100 Billion in 2025: Has It Become Too Big to Reform?",
+        "es": "The 340B Program Hit $100 Billion in 2025: Has It Become Too Big to Reform?",
+        "zh": "The 340B Program Hit $100 Billion in 2025: Has It Become Too Big to Reform?",
+        "vi": "The 340B Program Hit $100 Billion in 2025: Has It Become Too Big to Reform?",
+        "ja": "The 340B Program Hit $100 Billion in 2025: Has It Become Too Big to Reform?"
+      },
+      "summary": {
+        "en": "By Adam J. Fein, Ph.D. The 340B Drug Pricing Program continues to redefine the meaning of &quot;skyrocketing.&quot; For 2025, discounted purchases under the 340B program reached an astounding $100 billion—23% higher than in 2024. The gross-to-net difference between list prices and discounted 340B pu",
+        "es": "By Adam J. Fein, Ph.D. The 340B Drug Pricing Program continues to redefine the meaning of &quot;skyrocketing.&quot; For 2025, discounted purchases under the 340B program reached an astounding $100 billion—23% higher than in 2024. The gross-to-net difference between list prices and discounted 340B pu",
+        "zh": "By Adam J. Fein, Ph.D. The 340B Drug Pricing Program continues to redefine the meaning of &quot;skyrocketing.&quot; For 2025, discounted purchases under the 340B program reached an astounding $100 billion—23% higher than in 2024. The gross-to-net difference between list prices and discounted 340B pu",
+        "vi": "By Adam J. Fein, Ph.D. The 340B Drug Pricing Program continues to redefine the meaning of &quot;skyrocketing.&quot; For 2025, discounted purchases under the 340B program reached an astounding $100 billion—23% higher than in 2024. The gross-to-net difference between list prices and discounted 340B pu",
+        "ja": "By Adam J. Fein, Ph.D. The 340B Drug Pricing Program continues to redefine the meaning of &quot;skyrocketing.&quot; For 2025, discounted purchases under the 340B program reached an astounding $100 billion—23% higher than in 2024. The gross-to-net difference between list prices and discounted 340B pu"
+      },
+      "category": "Pricing",
+      "score": 30,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://feeds.feedblitz.com/~/960481910/0/drugchannels~The-B-Program-Hit-Billion-in-Has-It-Become-Too-Big-to-Reform.html",
+      "published": "Wed, 15 Jul 2026 10:30:00 +0000"
+    },
+    {
       "id": "https://feeds.feedblitz.com/~/957976865/0/drugchannels~Minnesota%e2%80%99s-B-Hospitals-Make-One-Billion-More-From-B-Than-They-Spend-on-Uncompensated-Care-rerun.html",
       "headline": {
         "en": "Minnesota’s 340B Hospitals Make One Billion More From 340B Than They Spend on Uncompensated Care (rerun)",
@@ -533,34 +561,6 @@
       },
       "link": "https://feeds.feedblitz.com/~/958115513/0/drugchannels~Drug-Channels-News-Roundup-MidJune-Biosimilar-Development-Barriers-Hospital-Specialty-Pharmacy-Growth-Medicaid-Incentives-Drug-Pricing-Tradeoffs-and-the.html",
       "published": "Wed, 17 Jun 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/954926930/0/drugchannels~Where-Grosstonet-Pressure-Actually-Lives-After-Launch.html",
-      "headline": {
-        "en": "Where Gross-to-net Pressure Actually Lives After Launch",
-        "es": "Where Gross-to-net Pressure Actually Lives After Launch",
-        "zh": "Where Gross-to-net Pressure Actually Lives After Launch",
-        "vi": "Where Gross-to-net Pressure Actually Lives After Launch",
-        "ja": "Where Gross-to-net Pressure Actually Lives After Launch"
-      },
-      "summary": {
-        "en": "Today’s guest post comes from Cindy Baksh, Chief Product Officer at ConnectiveRx. Cindy explains that many gross-to-net (GTN) exposures now occur at the claim level, where evolving payer tactics, pharmacy economics, and copay complexity create unpredictable leakage. She argues that manufacturers mus",
-        "es": "Today’s guest post comes from Cindy Baksh, Chief Product Officer at ConnectiveRx. Cindy explains that many gross-to-net (GTN) exposures now occur at the claim level, where evolving payer tactics, pharmacy economics, and copay complexity create unpredictable leakage. She argues that manufacturers mus",
-        "zh": "Today’s guest post comes from Cindy Baksh, Chief Product Officer at ConnectiveRx. Cindy explains that many gross-to-net (GTN) exposures now occur at the claim level, where evolving payer tactics, pharmacy economics, and copay complexity create unpredictable leakage. She argues that manufacturers mus",
-        "vi": "Today’s guest post comes from Cindy Baksh, Chief Product Officer at ConnectiveRx. Cindy explains that many gross-to-net (GTN) exposures now occur at the claim level, where evolving payer tactics, pharmacy economics, and copay complexity create unpredictable leakage. She argues that manufacturers mus",
-        "ja": "Today’s guest post comes from Cindy Baksh, Chief Product Officer at ConnectiveRx. Cindy explains that many gross-to-net (GTN) exposures now occur at the claim level, where evolving payer tactics, pharmacy economics, and copay complexity create unpredictable leakage. She argues that manufacturers mus"
-      },
-      "category": "Access",
-      "score": 20,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/954926930/0/drugchannels~Where-Grosstonet-Pressure-Actually-Lives-After-Launch.html",
-      "published": "Fri, 01 May 2026 04:00:00 +0000"
     },
     {
       "id": "https://feeds.feedblitz.com/~/958454708/0/drugchannels~BlinkRx-Insights-The-Questions-Manufacturers-Wish-They-Had-Asked-Before-Selecting-a-Patient-Services-Partner.html",
