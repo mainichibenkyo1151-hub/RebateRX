@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-17T08:09:46.324889Z",
+  "generatedAt": "2026-07-17T13:27:40.173803Z",
   "count": 25,
   "articles": [
     {
@@ -367,34 +367,6 @@
       "published": "Wed, 10 Jun 2026 10:30:00 +0000"
     },
     {
-      "id": "https://feeds.feedblitz.com/~/955297097/0/drugchannels~Specialty-Pharmacy-Accreditation-DCI%e2%80%99s-Exclusive-Analysis-Reveals-a-Market-at-an-Inflection-Point.html",
-      "headline": {
-        "en": "Specialty Pharmacy Accreditation: DCI’s Exclusive Analysis Reveals a Market at an Inflection Point",
-        "es": "Specialty Pharmacy Accreditation: DCI’s Exclusive Analysis Reveals a Market at an Inflection Point",
-        "zh": "Specialty Pharmacy Accreditation: DCI’s Exclusive Analysis Reveals a Market at an Inflection Point",
-        "vi": "Specialty Pharmacy Accreditation: DCI’s Exclusive Analysis Reveals a Market at an Inflection Point",
-        "ja": "Specialty Pharmacy Accreditation: DCI’s Exclusive Analysis Reveals a Market at an Inflection Point"
-      },
-      "summary": {
-        "en": "By Adam J. Fein, Ph.D. The Drug Channels Institute (DCI) team attended Asembia’s AXS26 Summit last week. Once again, the specialty pharmacy market delivered a classic paradox: a sprawling, fragmented landscape of participants paired with highly concentrated economics controlled by a handful of PBM-a",
-        "es": "By Adam J. Fein, Ph.D. The Drug Channels Institute (DCI) team attended Asembia’s AXS26 Summit last week. Once again, the specialty pharmacy market delivered a classic paradox: a sprawling, fragmented landscape of participants paired with highly concentrated economics controlled by a handful of PBM-a",
-        "zh": "By Adam J. Fein, Ph.D. The Drug Channels Institute (DCI) team attended Asembia’s AXS26 Summit last week. Once again, the specialty pharmacy market delivered a classic paradox: a sprawling, fragmented landscape of participants paired with highly concentrated economics controlled by a handful of PBM-a",
-        "vi": "By Adam J. Fein, Ph.D. The Drug Channels Institute (DCI) team attended Asembia’s AXS26 Summit last week. Once again, the specialty pharmacy market delivered a classic paradox: a sprawling, fragmented landscape of participants paired with highly concentrated economics controlled by a handful of PBM-a",
-        "ja": "By Adam J. Fein, Ph.D. The Drug Channels Institute (DCI) team attended Asembia’s AXS26 Summit last week. Once again, the specialty pharmacy market delivered a classic paradox: a sprawling, fragmented landscape of participants paired with highly concentrated economics controlled by a handful of PBM-a"
-      },
-      "category": "PBM",
-      "score": 40,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/955297097/0/drugchannels~Specialty-Pharmacy-Accreditation-DCI%e2%80%99s-Exclusive-Analysis-Reveals-a-Market-at-an-Inflection-Point.html",
-      "published": "Tue, 05 May 2026 10:30:00 +0000"
-    },
-    {
       "id": "https://www.fiercepharma.com/premium/webinar/1382087",
       "headline": {
         "en": "Beyond the GLP-1 Boom: Devices, Diagnostics, and Manufacturing in the New Obesity Economy",
@@ -561,6 +533,34 @@
       },
       "link": "https://feeds.feedblitz.com/~/958115513/0/drugchannels~Drug-Channels-News-Roundup-MidJune-Biosimilar-Development-Barriers-Hospital-Specialty-Pharmacy-Growth-Medicaid-Incentives-Drug-Pricing-Tradeoffs-and-the.html",
       "published": "Wed, 17 Jun 2026 10:30:00 +0000"
+    },
+    {
+      "id": "https://feeds.feedblitz.com/~/960711269/0/drugchannels~DirecttoConsumer-Shouldnt-Always-Mean-DirectToMailOrder-Why-Fulfillment-Choice-Matters.html",
+      "headline": {
+        "en": "Direct-to-Consumer Shouldn't Always Mean Direct-To-Mail-Order: Why Fulfillment Choice Matters",
+        "es": "Direct-to-Consumer Shouldn't Always Mean Direct-To-Mail-Order: Why Fulfillment Choice Matters",
+        "zh": "Direct-to-Consumer Shouldn't Always Mean Direct-To-Mail-Order: Why Fulfillment Choice Matters",
+        "vi": "Direct-to-Consumer Shouldn't Always Mean Direct-To-Mail-Order: Why Fulfillment Choice Matters",
+        "ja": "Direct-to-Consumer Shouldn't Always Mean Direct-To-Mail-Order: Why Fulfillment Choice Matters"
+      },
+      "summary": {
+        "en": "Today's guest post comes from Divya Iyer, SVP, Head of Revenue, Pharma Direct at GoodRx. Divya examines why direct-to-consumer strategies shouldn't default to mail-order as the endpoint for every program. She argues that preserving patient choice between retail pickup and home delivery can reduce fr",
+        "es": "Today's guest post comes from Divya Iyer, SVP, Head of Revenue, Pharma Direct at GoodRx. Divya examines why direct-to-consumer strategies shouldn't default to mail-order as the endpoint for every program. She argues that preserving patient choice between retail pickup and home delivery can reduce fr",
+        "zh": "Today's guest post comes from Divya Iyer, SVP, Head of Revenue, Pharma Direct at GoodRx. Divya examines why direct-to-consumer strategies shouldn't default to mail-order as the endpoint for every program. She argues that preserving patient choice between retail pickup and home delivery can reduce fr",
+        "vi": "Today's guest post comes from Divya Iyer, SVP, Head of Revenue, Pharma Direct at GoodRx. Divya examines why direct-to-consumer strategies shouldn't default to mail-order as the endpoint for every program. She argues that preserving patient choice between retail pickup and home delivery can reduce fr",
+        "ja": "Today's guest post comes from Divya Iyer, SVP, Head of Revenue, Pharma Direct at GoodRx. Divya examines why direct-to-consumer strategies shouldn't default to mail-order as the endpoint for every program. She argues that preserving patient choice between retail pickup and home delivery can reduce fr"
+      },
+      "category": "Pharma",
+      "score": 0,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://feeds.feedblitz.com/~/960711269/0/drugchannels~DirecttoConsumer-Shouldnt-Always-Mean-DirectToMailOrder-Why-Fulfillment-Choice-Matters.html",
+      "published": "Fri, 17 Jul 2026 10:30:00 +0000"
     },
     {
       "id": "https://feeds.feedblitz.com/~/958454708/0/drugchannels~BlinkRx-Insights-The-Questions-Manufacturers-Wish-They-Had-Asked-Before-Selecting-a-Patient-Services-Partner.html",
