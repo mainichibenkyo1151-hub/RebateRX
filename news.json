@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T08:27:53.446207Z",
+  "generatedAt": "2026-07-21T13:49:03.253400Z",
   "count": 25,
   "articles": [
     {
@@ -367,6 +367,34 @@
       "published": "Wed, 10 Jun 2026 10:30:00 +0000"
     },
     {
+      "id": "https://feeds.feedblitz.com/~/961226528/0/drugchannels~GrosstoNet-Realities-at-Eight-Top-Drugmakers-The-Net-Pricing-Drug-Channel-Emerges.html",
+      "headline": {
+        "en": "2025 Gross-to-Net Realities at Eight Top Drugmakers: The Net Pricing Drug Channel Emerges",
+        "es": "2025 Gross-to-Net Realities at Eight Top Drugmakers: The Net Pricing Drug Channel Emerges",
+        "zh": "2025 Gross-to-Net Realities at Eight Top Drugmakers: The Net Pricing Drug Channel Emerges",
+        "vi": "2025 Gross-to-Net Realities at Eight Top Drugmakers: The Net Pricing Drug Channel Emerges",
+        "ja": "2025 Gross-to-Net Realities at Eight Top Drugmakers: The Net Pricing Drug Channel Emerges"
+      },
+      "summary": {
+        "en": "By Adam J. Fein, Ph.D. Every year, Drug Channels reviews drug pricing trends at the largest pharmaceutical manufacturers. This year's disclosures provide early evidence that the economics of the U.S. drug channel—and the strategies manufacturers use to secure market access—are beginning to change. W",
+        "es": "By Adam J. Fein, Ph.D. Every year, Drug Channels reviews drug pricing trends at the largest pharmaceutical manufacturers. This year's disclosures provide early evidence that the economics of the U.S. drug channel—and the strategies manufacturers use to secure market access—are beginning to change. W",
+        "zh": "By Adam J. Fein, Ph.D. Every year, Drug Channels reviews drug pricing trends at the largest pharmaceutical manufacturers. This year's disclosures provide early evidence that the economics of the U.S. drug channel—and the strategies manufacturers use to secure market access—are beginning to change. W",
+        "vi": "By Adam J. Fein, Ph.D. Every year, Drug Channels reviews drug pricing trends at the largest pharmaceutical manufacturers. This year's disclosures provide early evidence that the economics of the U.S. drug channel—and the strategies manufacturers use to secure market access—are beginning to change. W",
+        "ja": "By Adam J. Fein, Ph.D. Every year, Drug Channels reviews drug pricing trends at the largest pharmaceutical manufacturers. This year's disclosures provide early evidence that the economics of the U.S. drug channel—and the strategies manufacturers use to secure market access—are beginning to change. W"
+      },
+      "category": "Pricing",
+      "score": 30,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://feeds.feedblitz.com/~/961226528/0/drugchannels~GrosstoNet-Realities-at-Eight-Top-Drugmakers-The-Net-Pricing-Drug-Channel-Emerges.html",
+      "published": "Tue, 21 Jul 2026 10:30:00 +0000"
+    },
+    {
       "id": "https://feeds.feedblitz.com/~/960481910/0/drugchannels~The-B-Program-Hit-Billion-in-Has-It-Become-Too-Big-to-Reform.html",
       "headline": {
         "en": "The 340B Program Hit $100 Billion in 2025: Has It Become Too Big to Reform?",
@@ -617,34 +645,6 @@
       },
       "link": "https://feeds.feedblitz.com/~/956031881/0/drugchannels~Protecting-GrosstoNet-Performance-Through-SingleChannel-Ecosystems.html",
       "published": "Fri, 15 May 2026 05:00:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/955542974/0/drugchannels~The-Hidden-Costs-of-OverCustomizing-Your-Hub-Technology-Stack.html",
-      "headline": {
-        "en": "The Hidden Costs of Over-Customizing Your Hub Technology Stack",
-        "es": "The Hidden Costs of Over-Customizing Your Hub Technology Stack",
-        "zh": "The Hidden Costs of Over-Customizing Your Hub Technology Stack",
-        "vi": "The Hidden Costs of Over-Customizing Your Hub Technology Stack",
-        "ja": "The Hidden Costs of Over-Customizing Your Hub Technology Stack"
-      },
-      "summary": {
-        "en": "Today’s guest post comes from George Moore, Chief Product and Technology Officer at CareMetx. George argues that customer relationship management (CRM) program customization delivers short-term workflow gains at the expense of long-term scalability, integration simplicity, and upgradeability. He hig",
-        "es": "Today’s guest post comes from George Moore, Chief Product and Technology Officer at CareMetx. George argues that customer relationship management (CRM) program customization delivers short-term workflow gains at the expense of long-term scalability, integration simplicity, and upgradeability. He hig",
-        "zh": "Today’s guest post comes from George Moore, Chief Product and Technology Officer at CareMetx. George argues that customer relationship management (CRM) program customization delivers short-term workflow gains at the expense of long-term scalability, integration simplicity, and upgradeability. He hig",
-        "vi": "Today’s guest post comes from George Moore, Chief Product and Technology Officer at CareMetx. George argues that customer relationship management (CRM) program customization delivers short-term workflow gains at the expense of long-term scalability, integration simplicity, and upgradeability. He hig",
-        "ja": "Today’s guest post comes from George Moore, Chief Product and Technology Officer at CareMetx. George argues that customer relationship management (CRM) program customization delivers short-term workflow gains at the expense of long-term scalability, integration simplicity, and upgradeability. He hig"
-      },
-      "category": "Pharma",
-      "score": 0,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/955542974/0/drugchannels~The-Hidden-Costs-of-OverCustomizing-Your-Hub-Technology-Stack.html",
-      "published": "Fri, 08 May 2026 10:30:00 +0000"
     },
     {
       "id": "https://feeds.feedblitz.com/~/957766580/0/drugchannels~Pharmacy-Copay-Misuse-The-MultiBillion-Dollar-Issue-Hiding-In-Plain-Sight.html",
