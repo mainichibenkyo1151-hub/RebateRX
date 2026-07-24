@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T08:27:15.723906Z",
+  "generatedAt": "2026-07-24T13:44:42.099677Z",
   "count": 25,
   "articles": [
     {
@@ -197,34 +197,6 @@
       },
       "link": "https://feeds.feedblitz.com/~/958086452/0/drugchannels~PBM-Shakeout-How-Vertical-Integration-Is-Reshaping-What%e2%80%99s-Next-VIDEO.html",
       "published": "Wed, 20 May 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/955789157/0/drugchannels~B-in-Market-Shifts-Policy-Battles-and-What-They-Mean-for-Stakeholders-NEW-Live-Video-Webinar.html",
-      "headline": {
-        "en": "340B in 2026: Market Shifts, Policy Battles, and What They Mean for Stakeholders (NEW Live Video Webinar)",
-        "es": "340B in 2026: Market Shifts, Policy Battles, and What They Mean for Stakeholders (NEW Live Video Webinar)",
-        "zh": "340B in 2026: Market Shifts, Policy Battles, and What They Mean for Stakeholders (NEW Live Video Webinar)",
-        "vi": "340B in 2026: Market Shifts, Policy Battles, and What They Mean for Stakeholders (NEW Live Video Webinar)",
-        "ja": "340B in 2026: Market Shifts, Policy Battles, and What They Mean for Stakeholders (NEW Live Video Webinar)"
-      },
-      "summary": {
-        "en": "Join Dr. Adam J. Fein, president of Drug Channels Institute (DCI) and the editor of Drug Channels , for his latest exclusive video webinar: 340B in 2026: Market Shifts, Policy Battles, and What They Mean for Stakeholders This event will be broadcast live on: Friday, June 12, 2026 12:00 p.m. to 1:30 ",
-        "es": "Join Dr. Adam J. Fein, president of Drug Channels Institute (DCI) and the editor of Drug Channels , for his latest exclusive video webinar: 340B in 2026: Market Shifts, Policy Battles, and What They Mean for Stakeholders This event will be broadcast live on: Friday, June 12, 2026 12:00 p.m. to 1:30 ",
-        "zh": "Join Dr. Adam J. Fein, president of Drug Channels Institute (DCI) and the editor of Drug Channels , for his latest exclusive video webinar: 340B in 2026: Market Shifts, Policy Battles, and What They Mean for Stakeholders This event will be broadcast live on: Friday, June 12, 2026 12:00 p.m. to 1:30 ",
-        "vi": "Join Dr. Adam J. Fein, president of Drug Channels Institute (DCI) and the editor of Drug Channels , for his latest exclusive video webinar: 340B in 2026: Market Shifts, Policy Battles, and What They Mean for Stakeholders This event will be broadcast live on: Friday, June 12, 2026 12:00 p.m. to 1:30 ",
-        "ja": "Join Dr. Adam J. Fein, president of Drug Channels Institute (DCI) and the editor of Drug Channels , for his latest exclusive video webinar: 340B in 2026: Market Shifts, Policy Battles, and What They Mean for Stakeholders This event will be broadcast live on: Friday, June 12, 2026 12:00 p.m. to 1:30 "
-      },
-      "category": "Pharma",
-      "score": 85,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/955789157/0/drugchannels~B-in-Market-Shifts-Policy-Battles-and-What-They-Mean-for-Stakeholders-NEW-Live-Video-Webinar.html",
-      "published": "Tue, 12 May 2026 10:30:00 +0000"
     },
     {
       "id": "https://feeds.feedblitz.com/~/960482432/0/drugchannels~Medicare-Embraces-SiteNeutral-Payments-Why-Havent-Employers.html",
@@ -533,6 +505,34 @@
       },
       "link": "https://feeds.feedblitz.com/~/958115978/0/drugchannels~Drug-Channels-News-Roundup-MidJune-Biosimilar-Development-Barriers-Hospital-Specialty-Pharmacy-Growth-Medicaid-Incentives-Drug-Pricing-Tradeoffs-and-the.html",
       "published": "Wed, 17 Jun 2026 10:30:00 +0000"
+    },
+    {
+      "id": "https://feeds.feedblitz.com/~/962535857/0/drugchannels~DirecttoPatient-Transforming-the-Manufacturer-Access-Model.html",
+      "headline": {
+        "en": "Direct-to-Patient: Transforming the Manufacturer Access Model",
+        "es": "Direct-to-Patient: Transforming the Manufacturer Access Model",
+        "zh": "Direct-to-Patient: Transforming the Manufacturer Access Model",
+        "vi": "Direct-to-Patient: Transforming the Manufacturer Access Model",
+        "ja": "Direct-to-Patient: Transforming the Manufacturer Access Model"
+      },
+      "summary": {
+        "en": "Today's guest post comes from Chip Parkinson, CEO at Gifthealth. Chip discusses how Direct-to-Patient (DTP) models can transform the manufacturer access model for prescription therapies. He argues that a tech-plus-touch, end-to-end approach can improve patient access, protect manufacturer economics,",
+        "es": "Today's guest post comes from Chip Parkinson, CEO at Gifthealth. Chip discusses how Direct-to-Patient (DTP) models can transform the manufacturer access model for prescription therapies. He argues that a tech-plus-touch, end-to-end approach can improve patient access, protect manufacturer economics,",
+        "zh": "Today's guest post comes from Chip Parkinson, CEO at Gifthealth. Chip discusses how Direct-to-Patient (DTP) models can transform the manufacturer access model for prescription therapies. He argues that a tech-plus-touch, end-to-end approach can improve patient access, protect manufacturer economics,",
+        "vi": "Today's guest post comes from Chip Parkinson, CEO at Gifthealth. Chip discusses how Direct-to-Patient (DTP) models can transform the manufacturer access model for prescription therapies. He argues that a tech-plus-touch, end-to-end approach can improve patient access, protect manufacturer economics,",
+        "ja": "Today's guest post comes from Chip Parkinson, CEO at Gifthealth. Chip discusses how Direct-to-Patient (DTP) models can transform the manufacturer access model for prescription therapies. He argues that a tech-plus-touch, end-to-end approach can improve patient access, protect manufacturer economics,"
+      },
+      "category": "Pharma",
+      "score": 0,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://feeds.feedblitz.com/~/962535857/0/drugchannels~DirecttoPatient-Transforming-the-Manufacturer-Access-Model.html",
+      "published": "Fri, 24 Jul 2026 10:30:00 +0000"
     },
     {
       "id": "https://feeds.feedblitz.com/~/961224713/0/drugchannels~DirecttoConsumer-Shouldnt-Always-Mean-DirectToMailOrder-Why-Fulfillment-Choice-Matters.html",
