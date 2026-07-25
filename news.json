@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T02:36:32.702981Z",
+  "generatedAt": "2026-07-25T08:05:54.815297Z",
   "count": 25,
   "articles": [
     {
@@ -479,6 +479,34 @@
       "published": "Fri, 17 Jul 2026 16:38:11 +0000"
     },
     {
+      "id": "https://www.fiercepharma.com/premium/webinar/1382117",
+      "headline": {
+        "en": "Modernizing Product Lifecycle Management in Medtech",
+        "es": "Modernizing Product Lifecycle Management in Medtech",
+        "zh": "Modernizing Product Lifecycle Management in Medtech",
+        "vi": "Modernizing Product Lifecycle Management in Medtech",
+        "ja": "Modernizing Product Lifecycle Management in Medtech"
+      },
+      "summary": {
+        "en": "Modernizing Product Lifecycle Management in Medtech pesurya Wed, 07/01/2026 - 10:58 Tue, 08/04/2026 - 11:00 Resource Type Webinar Richard Kuebler Medical device companies are under growing pressure to bring increasingly complex products to market faster while maintaining design control, regulatory c",
+        "es": "Modernizing Product Lifecycle Management in Medtech pesurya Wed, 07/01/2026 - 10:58 Tue, 08/04/2026 - 11:00 Resource Type Webinar Richard Kuebler Medical device companies are under growing pressure to bring increasingly complex products to market faster while maintaining design control, regulatory c",
+        "zh": "Modernizing Product Lifecycle Management in Medtech pesurya Wed, 07/01/2026 - 10:58 Tue, 08/04/2026 - 11:00 Resource Type Webinar Richard Kuebler Medical device companies are under growing pressure to bring increasingly complex products to market faster while maintaining design control, regulatory c",
+        "vi": "Modernizing Product Lifecycle Management in Medtech pesurya Wed, 07/01/2026 - 10:58 Tue, 08/04/2026 - 11:00 Resource Type Webinar Richard Kuebler Medical device companies are under growing pressure to bring increasingly complex products to market faster while maintaining design control, regulatory c",
+        "ja": "Modernizing Product Lifecycle Management in Medtech pesurya Wed, 07/01/2026 - 10:58 Tue, 08/04/2026 - 11:00 Resource Type Webinar Richard Kuebler Medical device companies are under growing pressure to bring increasingly complex products to market faster while maintaining design control, regulatory c"
+      },
+      "category": "Pharma",
+      "score": 20,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://www.fiercepharma.com/premium/webinar/1382117",
+      "published": "Wed, 01 Jul 2026 14:58:48 +0000"
+    },
+    {
       "id": "https://feeds.feedblitz.com/~/958115978/0/drugchannels~Drug-Channels-News-Roundup-MidJune-Biosimilar-Development-Barriers-Hospital-Specialty-Pharmacy-Growth-Medicaid-Incentives-Drug-Pricing-Tradeoffs-and-the.html",
       "headline": {
         "en": "Drug Channels News Roundup, Mid-June 2026: Biosimilar Development Barriers, Hospital Specialty Pharmacy Growth, Medicaid Incentives, Drug Pricing Tradeoffs, and the Prescription-Filling Process",
@@ -673,34 +701,6 @@
       },
       "link": "https://feeds.feedblitz.com/~/958086446/0/drugchannels~Pharmacy-Copay-Misuse-The-MultiBillion-Dollar-Issue-Hiding-In-Plain-Sight.html",
       "published": "Fri, 05 Jun 2026 10:00:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/958153313/0/drugchannels~The-Digital-Front-Door-to-Specialty-Therapy-May-Not-Be-a-Specialty-Pharmacy.html",
-      "headline": {
-        "en": "The Digital Front Door to Specialty Therapy May Not Be a Specialty Pharmacy",
-        "es": "The Digital Front Door to Specialty Therapy May Not Be a Specialty Pharmacy",
-        "zh": "The Digital Front Door to Specialty Therapy May Not Be a Specialty Pharmacy",
-        "vi": "The Digital Front Door to Specialty Therapy May Not Be a Specialty Pharmacy",
-        "ja": "The Digital Front Door to Specialty Therapy May Not Be a Specialty Pharmacy"
-      },
-      "summary": {
-        "en": "Today’s guest post comes from Nareda Mills, President of Patient Solutions at Inizio Engage. Nareda examines how growing access complexity is reshaping specialty commercialization. She explores the emerging role of Non-Dispensing Pharmacies (NDPs) and argues that by improving coordination, visibilit",
-        "es": "Today’s guest post comes from Nareda Mills, President of Patient Solutions at Inizio Engage. Nareda examines how growing access complexity is reshaping specialty commercialization. She explores the emerging role of Non-Dispensing Pharmacies (NDPs) and argues that by improving coordination, visibilit",
-        "zh": "Today’s guest post comes from Nareda Mills, President of Patient Solutions at Inizio Engage. Nareda examines how growing access complexity is reshaping specialty commercialization. She explores the emerging role of Non-Dispensing Pharmacies (NDPs) and argues that by improving coordination, visibilit",
-        "vi": "Today’s guest post comes from Nareda Mills, President of Patient Solutions at Inizio Engage. Nareda examines how growing access complexity is reshaping specialty commercialization. She explores the emerging role of Non-Dispensing Pharmacies (NDPs) and argues that by improving coordination, visibilit",
-        "ja": "Today’s guest post comes from Nareda Mills, President of Patient Solutions at Inizio Engage. Nareda examines how growing access complexity is reshaping specialty commercialization. She explores the emerging role of Non-Dispensing Pharmacies (NDPs) and argues that by improving coordination, visibilit"
-      },
-      "category": "Pharma",
-      "score": -50,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/958153313/0/drugchannels~The-Digital-Front-Door-to-Specialty-Therapy-May-Not-Be-a-Specialty-Pharmacy.html",
-      "published": "Thu, 18 Jun 2026 10:00:00 +0000"
     }
   ]
 }
