@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T08:49:00.754854Z",
+  "generatedAt": "2026-07-31T14:05:19.186123Z",
   "count": 25,
   "articles": [
     {
@@ -479,6 +479,34 @@
       "published": "Wed, 17 Jun 2026 10:30:00 +0000"
     },
     {
+      "id": "https://feeds.feedblitz.com/~/964938914/0/drugchannels~The-Industry-Doesnt-Have-an-Access-Collaboration-Problem-It-Has-an-Accountability-Problem.html",
+      "headline": {
+        "en": "The Industry Doesn't Have an Access Collaboration Problem. It Has an Accountability Problem.",
+        "es": "The Industry Doesn't Have an Access Collaboration Problem. It Has an Accountability Problem.",
+        "zh": "The Industry Doesn't Have an Access Collaboration Problem. It Has an Accountability Problem.",
+        "vi": "The Industry Doesn't Have an Access Collaboration Problem. It Has an Accountability Problem.",
+        "ja": "The Industry Doesn't Have an Access Collaboration Problem. It Has an Accountability Problem."
+      },
+      "summary": {
+        "en": "Today's guest post comes from Jen Norton, President, Market Access &amp; Value at EVERSANA. Jen examines why fragmented ownership across development, regulatory, pricing, distribution, and field functions undermines access at launch. She argues that naming a single accountable owner for the access o",
+        "es": "Today's guest post comes from Jen Norton, President, Market Access &amp; Value at EVERSANA. Jen examines why fragmented ownership across development, regulatory, pricing, distribution, and field functions undermines access at launch. She argues that naming a single accountable owner for the access o",
+        "zh": "Today's guest post comes from Jen Norton, President, Market Access &amp; Value at EVERSANA. Jen examines why fragmented ownership across development, regulatory, pricing, distribution, and field functions undermines access at launch. She argues that naming a single accountable owner for the access o",
+        "vi": "Today's guest post comes from Jen Norton, President, Market Access &amp; Value at EVERSANA. Jen examines why fragmented ownership across development, regulatory, pricing, distribution, and field functions undermines access at launch. She argues that naming a single accountable owner for the access o",
+        "ja": "Today's guest post comes from Jen Norton, President, Market Access &amp; Value at EVERSANA. Jen examines why fragmented ownership across development, regulatory, pricing, distribution, and field functions undermines access at launch. She argues that naming a single accountable owner for the access o"
+      },
+      "category": "Pricing",
+      "score": 0,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://feeds.feedblitz.com/~/964938914/0/drugchannels~The-Industry-Doesnt-Have-an-Access-Collaboration-Problem-It-Has-an-Accountability-Problem.html",
+      "published": "Fri, 31 Jul 2026 10:30:00 +0000"
+    },
+    {
       "id": "https://feeds.feedblitz.com/~/963872867/0/drugchannels~Drug-Channels-News-Roundup-MidJuly-Biosimilar-Launch-Strategy-Part-D-Spending-Trends-Rural-B-Hospitals-What-Employers-Can-Do-About-B-and-Drug-Channel-Villains.html",
       "headline": {
         "en": "Drug Channels News Roundup, Mid-July 2026: Biosimilar Launch Strategy, Part D Spending Trends, Rural 340B Hospitals, What Employers Can Do About 340B, and Drug Channel Villains",
@@ -617,34 +645,6 @@
       },
       "link": "https://feeds.feedblitz.com/~/958318340/0/drugchannels~Pharmacist-Salaries-and-Employment-in-Retail-Declines-Hospital-Gains.html",
       "published": "Tue, 23 Jun 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/958086455/0/drugchannels~Protecting-GrosstoNet-Performance-Through-SingleChannel-Ecosystems.html",
-      "headline": {
-        "en": "Protecting Gross-to-Net Performance Through Single-Channel Ecosystems",
-        "es": "Protecting Gross-to-Net Performance Through Single-Channel Ecosystems",
-        "zh": "Protecting Gross-to-Net Performance Through Single-Channel Ecosystems",
-        "vi": "Protecting Gross-to-Net Performance Through Single-Channel Ecosystems",
-        "ja": "Protecting Gross-to-Net Performance Through Single-Channel Ecosystems"
-      },
-      "summary": {
-        "en": "Today’s guest post comes from Peter Darch, SVP of Strategy and Operations at PHIL Inc. Peter explains that growing pressure on drug pricing is exposing structural inefficiencies in gross-to-net (GTN) across traditional distribution channels. He argues that single-channel ecosystems can better coordi",
-        "es": "Today’s guest post comes from Peter Darch, SVP of Strategy and Operations at PHIL Inc. Peter explains that growing pressure on drug pricing is exposing structural inefficiencies in gross-to-net (GTN) across traditional distribution channels. He argues that single-channel ecosystems can better coordi",
-        "zh": "Today’s guest post comes from Peter Darch, SVP of Strategy and Operations at PHIL Inc. Peter explains that growing pressure on drug pricing is exposing structural inefficiencies in gross-to-net (GTN) across traditional distribution channels. He argues that single-channel ecosystems can better coordi",
-        "vi": "Today’s guest post comes from Peter Darch, SVP of Strategy and Operations at PHIL Inc. Peter explains that growing pressure on drug pricing is exposing structural inefficiencies in gross-to-net (GTN) across traditional distribution channels. He argues that single-channel ecosystems can better coordi",
-        "ja": "Today’s guest post comes from Peter Darch, SVP of Strategy and Operations at PHIL Inc. Peter explains that growing pressure on drug pricing is exposing structural inefficiencies in gross-to-net (GTN) across traditional distribution channels. He argues that single-channel ecosystems can better coordi"
-      },
-      "category": "Pricing",
-      "score": 0,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/958086455/0/drugchannels~Protecting-GrosstoNet-Performance-Through-SingleChannel-Ecosystems.html",
-      "published": "Fri, 15 May 2026 05:00:00 +0000"
     },
     {
       "id": "https://feeds.feedblitz.com/~/958086446/0/drugchannels~Pharmacy-Copay-Misuse-The-MultiBillion-Dollar-Issue-Hiding-In-Plain-Sight.html",
