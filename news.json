@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-03T14:37:48.837378Z",
+  "generatedAt": "2026-08-03T19:36:36.089825Z",
   "count": 25,
   "articles": [
     {
@@ -479,6 +479,34 @@
       "published": "Wed, 17 Jun 2026 10:30:00 +0000"
     },
     {
+      "id": "https://www.fiercepharma.com/premium/webinar/1382708",
+      "headline": {
+        "en": "Where Does Your Science Stand? Benchmarking Publication Impact",
+        "es": "Where Does Your Science Stand? Benchmarking Publication Impact",
+        "zh": "Where Does Your Science Stand? Benchmarking Publication Impact",
+        "vi": "Where Does Your Science Stand? Benchmarking Publication Impact",
+        "ja": "Where Does Your Science Stand? Benchmarking Publication Impact"
+      },
+      "summary": {
+        "en": "Where Does Your Science Stand? Benchmarking Publication Impact scox Tue, 07/28/2026 - 15:41 Tue, 09/22/2026 - 10:30 Resource Type Webinar Carrie Brubaker, Ph.D. Dr. Mike Taylor Dr. Carlos Areia Publication volume is easy to measure. Publication impact is not. Most Medical Affairs teams know the diff",
+        "es": "Where Does Your Science Stand? Benchmarking Publication Impact scox Tue, 07/28/2026 - 15:41 Tue, 09/22/2026 - 10:30 Resource Type Webinar Carrie Brubaker, Ph.D. Dr. Mike Taylor Dr. Carlos Areia Publication volume is easy to measure. Publication impact is not. Most Medical Affairs teams know the diff",
+        "zh": "Where Does Your Science Stand? Benchmarking Publication Impact scox Tue, 07/28/2026 - 15:41 Tue, 09/22/2026 - 10:30 Resource Type Webinar Carrie Brubaker, Ph.D. Dr. Mike Taylor Dr. Carlos Areia Publication volume is easy to measure. Publication impact is not. Most Medical Affairs teams know the diff",
+        "vi": "Where Does Your Science Stand? Benchmarking Publication Impact scox Tue, 07/28/2026 - 15:41 Tue, 09/22/2026 - 10:30 Resource Type Webinar Carrie Brubaker, Ph.D. Dr. Mike Taylor Dr. Carlos Areia Publication volume is easy to measure. Publication impact is not. Most Medical Affairs teams know the diff",
+        "ja": "Where Does Your Science Stand? Benchmarking Publication Impact scox Tue, 07/28/2026 - 15:41 Tue, 09/22/2026 - 10:30 Resource Type Webinar Carrie Brubaker, Ph.D. Dr. Mike Taylor Dr. Carlos Areia Publication volume is easy to measure. Publication impact is not. Most Medical Affairs teams know the diff"
+      },
+      "category": "Pharma",
+      "score": 0,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://www.fiercepharma.com/premium/webinar/1382708",
+      "published": "Tue, 28 Jul 2026 19:41:22 +0000"
+    },
+    {
       "id": "https://feeds.feedblitz.com/~/964938914/0/drugchannels~The-Industry-Doesnt-Have-an-Access-Collaboration-Problem-It-Has-an-Accountability-Problem.html",
       "headline": {
         "en": "The Industry Doesn't Have an Access Collaboration Problem. It Has an Accountability Problem.",
@@ -673,34 +701,6 @@
       },
       "link": "https://feeds.feedblitz.com/~/958086446/0/drugchannels~Pharmacy-Copay-Misuse-The-MultiBillion-Dollar-Issue-Hiding-In-Plain-Sight.html",
       "published": "Fri, 05 Jun 2026 10:00:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/958153313/0/drugchannels~The-Digital-Front-Door-to-Specialty-Therapy-May-Not-Be-a-Specialty-Pharmacy.html",
-      "headline": {
-        "en": "The Digital Front Door to Specialty Therapy May Not Be a Specialty Pharmacy",
-        "es": "The Digital Front Door to Specialty Therapy May Not Be a Specialty Pharmacy",
-        "zh": "The Digital Front Door to Specialty Therapy May Not Be a Specialty Pharmacy",
-        "vi": "The Digital Front Door to Specialty Therapy May Not Be a Specialty Pharmacy",
-        "ja": "The Digital Front Door to Specialty Therapy May Not Be a Specialty Pharmacy"
-      },
-      "summary": {
-        "en": "Today’s guest post comes from Nareda Mills, President of Patient Solutions at Inizio Engage. Nareda examines how growing access complexity is reshaping specialty commercialization. She explores the emerging role of Non-Dispensing Pharmacies (NDPs) and argues that by improving coordination, visibilit",
-        "es": "Today’s guest post comes from Nareda Mills, President of Patient Solutions at Inizio Engage. Nareda examines how growing access complexity is reshaping specialty commercialization. She explores the emerging role of Non-Dispensing Pharmacies (NDPs) and argues that by improving coordination, visibilit",
-        "zh": "Today’s guest post comes from Nareda Mills, President of Patient Solutions at Inizio Engage. Nareda examines how growing access complexity is reshaping specialty commercialization. She explores the emerging role of Non-Dispensing Pharmacies (NDPs) and argues that by improving coordination, visibilit",
-        "vi": "Today’s guest post comes from Nareda Mills, President of Patient Solutions at Inizio Engage. Nareda examines how growing access complexity is reshaping specialty commercialization. She explores the emerging role of Non-Dispensing Pharmacies (NDPs) and argues that by improving coordination, visibilit",
-        "ja": "Today’s guest post comes from Nareda Mills, President of Patient Solutions at Inizio Engage. Nareda examines how growing access complexity is reshaping specialty commercialization. She explores the emerging role of Non-Dispensing Pharmacies (NDPs) and argues that by improving coordination, visibilit"
-      },
-      "category": "Pharma",
-      "score": -50,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/958153313/0/drugchannels~The-Digital-Front-Door-to-Specialty-Therapy-May-Not-Be-a-Specialty-Pharmacy.html",
-      "published": "Thu, 18 Jun 2026 10:00:00 +0000"
     }
   ]
 }
