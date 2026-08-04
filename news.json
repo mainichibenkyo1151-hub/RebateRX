@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T08:35:55.749672Z",
+  "generatedAt": "2026-08-04T14:10:12.181789Z",
   "count": 25,
   "articles": [
     {
@@ -171,34 +171,6 @@
       "published": "Tue, 02 Jun 2026 10:30:00 +0000"
     },
     {
-      "id": "https://feeds.feedblitz.com/~/958086452/0/drugchannels~PBM-Shakeout-How-Vertical-Integration-Is-Reshaping-What%e2%80%99s-Next-VIDEO.html",
-      "headline": {
-        "en": "PBM Shakeout: How Vertical Integration Is Reshaping What’s Next (VIDEO)",
-        "es": "PBM Shakeout: How Vertical Integration Is Reshaping What’s Next (VIDEO)",
-        "zh": "PBM Shakeout: How Vertical Integration Is Reshaping What’s Next (VIDEO)",
-        "vi": "PBM Shakeout: How Vertical Integration Is Reshaping What’s Next (VIDEO)",
-        "ja": "PBM Shakeout: How Vertical Integration Is Reshaping What’s Next (VIDEO)"
-      },
-      "summary": {
-        "en": "Here at Drug Channels , we’ve been closely tracking the evolution of the pharmacy benefit management (PBM) industry for many years. The short video below—excerpted from DCI’s recent PBM Industry Update 2026: Trends, Challenges, and What’s Ahead video webinar—reviews the shifting market positions of ",
-        "es": "Here at Drug Channels , we’ve been closely tracking the evolution of the pharmacy benefit management (PBM) industry for many years. The short video below—excerpted from DCI’s recent PBM Industry Update 2026: Trends, Challenges, and What’s Ahead video webinar—reviews the shifting market positions of ",
-        "zh": "Here at Drug Channels , we’ve been closely tracking the evolution of the pharmacy benefit management (PBM) industry for many years. The short video below—excerpted from DCI’s recent PBM Industry Update 2026: Trends, Challenges, and What’s Ahead video webinar—reviews the shifting market positions of ",
-        "vi": "Here at Drug Channels , we’ve been closely tracking the evolution of the pharmacy benefit management (PBM) industry for many years. The short video below—excerpted from DCI’s recent PBM Industry Update 2026: Trends, Challenges, and What’s Ahead video webinar—reviews the shifting market positions of ",
-        "ja": "Here at Drug Channels , we’ve been closely tracking the evolution of the pharmacy benefit management (PBM) industry for many years. The short video below—excerpted from DCI’s recent PBM Industry Update 2026: Trends, Challenges, and What’s Ahead video webinar—reviews the shifting market positions of "
-      },
-      "category": "PBM",
-      "score": 85,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/958086452/0/drugchannels~PBM-Shakeout-How-Vertical-Integration-Is-Reshaping-What%e2%80%99s-Next-VIDEO.html",
-      "published": "Wed, 20 May 2026 10:30:00 +0000"
-    },
-    {
       "id": "https://feeds.feedblitz.com/~/960482432/0/drugchannels~Medicare-Embraces-SiteNeutral-Payments-Why-Havent-Employers.html",
       "headline": {
         "en": "Medicare Embraces Site-Neutral Payments. Why Haven't Employers?",
@@ -337,6 +309,34 @@
       },
       "link": "https://feeds.feedblitz.com/~/957919508/0/drugchannels~Mapping-the-Vertical-Integration-of-Insurers-PBMs-GPOs-Specialty-Pharmacies-and-Healthcare-Services-DCI%e2%80%99s-Update-rerun.html",
       "published": "Wed, 10 Jun 2026 10:30:00 +0000"
+    },
+    {
+      "id": "https://feeds.feedblitz.com/~/966196043/0/drugchannels~Who-Will-Pay-for-Prescription-Drugs-in-Medicares-Surprising-Rise-in-the-Latest-Government-Forecasts.html",
+      "headline": {
+        "en": "Who Will Pay for Prescription Drugs in 2034? Medicare's Surprising Rise in the Latest Government Forecasts",
+        "es": "Who Will Pay for Prescription Drugs in 2034? Medicare's Surprising Rise in the Latest Government Forecasts",
+        "zh": "Who Will Pay for Prescription Drugs in 2034? Medicare's Surprising Rise in the Latest Government Forecasts",
+        "vi": "Who Will Pay for Prescription Drugs in 2034? Medicare's Surprising Rise in the Latest Government Forecasts",
+        "ja": "Who Will Pay for Prescription Drugs in 2034? Medicare's Surprising Rise in the Latest Government Forecasts"
+      },
+      "summary": {
+        "en": "By Adam J. Fein, Ph.D. and Greis Kapexhiu In late June, the boffins at the Centers for Medicare &amp; Medicaid Services (CMS) released the latest projections for U.S. spending on healthcare. (See links below.) These data provide the latest official, nonpartisan look at the future of U.S. healthcare ",
+        "es": "By Adam J. Fein, Ph.D. and Greis Kapexhiu In late June, the boffins at the Centers for Medicare &amp; Medicaid Services (CMS) released the latest projections for U.S. spending on healthcare. (See links below.) These data provide the latest official, nonpartisan look at the future of U.S. healthcare ",
+        "zh": "By Adam J. Fein, Ph.D. and Greis Kapexhiu In late June, the boffins at the Centers for Medicare &amp; Medicaid Services (CMS) released the latest projections for U.S. spending on healthcare. (See links below.) These data provide the latest official, nonpartisan look at the future of U.S. healthcare ",
+        "vi": "By Adam J. Fein, Ph.D. and Greis Kapexhiu In late June, the boffins at the Centers for Medicare &amp; Medicaid Services (CMS) released the latest projections for U.S. spending on healthcare. (See links below.) These data provide the latest official, nonpartisan look at the future of U.S. healthcare ",
+        "ja": "By Adam J. Fein, Ph.D. and Greis Kapexhiu In late June, the boffins at the Centers for Medicare &amp; Medicaid Services (CMS) released the latest projections for U.S. spending on healthcare. (See links below.) These data provide the latest official, nonpartisan look at the future of U.S. healthcare "
+      },
+      "category": "Insurance",
+      "score": 40,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://feeds.feedblitz.com/~/966196043/0/drugchannels~Who-Will-Pay-for-Prescription-Drugs-in-Medicares-Surprising-Rise-in-the-Latest-Government-Forecasts.html",
+      "published": "Tue, 04 Aug 2026 10:30:00 +0000"
     },
     {
       "id": "https://feeds.feedblitz.com/~/961224710/0/drugchannels~GrosstoNet-Realities-at-Eight-Top-Drugmakers-The-Net-Pricing-Drug-Channel-Emerges.html",
