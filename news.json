@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T07:14:48.014527Z",
+  "generatedAt": "2026-08-07T13:02:01.361449Z",
   "count": 25,
   "articles": [
     {
@@ -57,34 +57,6 @@
       },
       "link": "https://feeds.feedblitz.com/~/958085078/0/drugchannels~The-IRA-Fixed-One-Medicare-Part-D-Distortion%e2%80%94But-Patients-Now-Face-New-Tradeoffs.html",
       "published": "Tue, 16 Jun 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/957355790/0/drugchannels~Drug-Channels-News-Roundup-May-My-on-Optum-Rx%e2%80%99s-Transparency-MustRead-B-History-PBM-Unbundling-Update-PA-Delays-and-Vegas-Fun.html",
-      "headline": {
-        "en": "Drug Channels News Roundup, May 2026: My $0.02 on Optum Rx’s Transparency, Must-Read 340B History, PBM Unbundling Update, PA Delays, and Vegas Fun",
-        "es": "Drug Channels News Roundup, May 2026: My $0.02 on Optum Rx’s Transparency, Must-Read 340B History, PBM Unbundling Update, PA Delays, and Vegas Fun",
-        "zh": "Drug Channels News Roundup, May 2026: My $0.02 on Optum Rx’s Transparency, Must-Read 340B History, PBM Unbundling Update, PA Delays, and Vegas Fun",
-        "vi": "Drug Channels News Roundup, May 2026: My $0.02 on Optum Rx’s Transparency, Must-Read 340B History, PBM Unbundling Update, PA Delays, and Vegas Fun",
-        "ja": "Drug Channels News Roundup, May 2026: My $0.02 on Optum Rx’s Transparency, Must-Read 340B History, PBM Unbundling Update, PA Delays, and Vegas Fun"
-      },
-      "summary": {
-        "en": "By Adam J. Fein, Ph.D. Summer unofficially kicked off last weekend. So fire up the grill and enjoy these noteworthy delicacies, seared to perfection on the Drug Channels barbeque: Why Optum Rx Is Accelerating Its Transparency Strategy The Most Important 340B Paper You’ll Ever Read Blue Shield of Cal",
-        "es": "By Adam J. Fein, Ph.D. Summer unofficially kicked off last weekend. So fire up the grill and enjoy these noteworthy delicacies, seared to perfection on the Drug Channels barbeque: Why Optum Rx Is Accelerating Its Transparency Strategy The Most Important 340B Paper You’ll Ever Read Blue Shield of Cal",
-        "zh": "By Adam J. Fein, Ph.D. Summer unofficially kicked off last weekend. So fire up the grill and enjoy these noteworthy delicacies, seared to perfection on the Drug Channels barbeque: Why Optum Rx Is Accelerating Its Transparency Strategy The Most Important 340B Paper You’ll Ever Read Blue Shield of Cal",
-        "vi": "By Adam J. Fein, Ph.D. Summer unofficially kicked off last weekend. So fire up the grill and enjoy these noteworthy delicacies, seared to perfection on the Drug Channels barbeque: Why Optum Rx Is Accelerating Its Transparency Strategy The Most Important 340B Paper You’ll Ever Read Blue Shield of Cal",
-        "ja": "By Adam J. Fein, Ph.D. Summer unofficially kicked off last weekend. So fire up the grill and enjoy these noteworthy delicacies, seared to perfection on the Drug Channels barbeque: Why Optum Rx Is Accelerating Its Transparency Strategy The Most Important 340B Paper You’ll Ever Read Blue Shield of Cal"
-      },
-      "category": "PBM",
-      "score": 90,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/957355790/0/drugchannels~Drug-Channels-News-Roundup-May-My-on-Optum-Rx%e2%80%99s-Transparency-MustRead-B-History-PBM-Unbundling-Update-PA-Delays-and-Vegas-Fun.html",
-      "published": "Wed, 27 May 2026 10:00:00 +0000"
     },
     {
       "id": "https://feeds.feedblitz.com/~/959724410/0/drugchannels~The-Hidden-Cost-of-B-for-Employers-and-Health-Plans.html",
@@ -477,6 +449,34 @@
       },
       "link": "https://www.fiercepharma.com/premium/webinar/1382708",
       "published": "Tue, 28 Jul 2026 19:41:22 +0000"
+    },
+    {
+      "id": "https://feeds.feedblitz.com/~/967219904/0/drugchannels~A-System-of-Record-or-a-System-of-Learning.html",
+      "headline": {
+        "en": "A System of Record, or a System of Learning?",
+        "es": "A System of Record, or a System of Learning?",
+        "zh": "A System of Record, or a System of Learning?",
+        "vi": "A System of Record, or a System of Learning?",
+        "ja": "A System of Record, or a System of Learning?"
+      },
+      "summary": {
+        "en": "Today's guest post comes from Scott Filosi, Chief Commercial Officer at Valeris. Scott explores how patient access organizations can move beyond simply tracking the patient journey to using real-time insights to improve it. He argues that connecting commercial strategy, market access, payer intellig",
+        "es": "Today's guest post comes from Scott Filosi, Chief Commercial Officer at Valeris. Scott explores how patient access organizations can move beyond simply tracking the patient journey to using real-time insights to improve it. He argues that connecting commercial strategy, market access, payer intellig",
+        "zh": "Today's guest post comes from Scott Filosi, Chief Commercial Officer at Valeris. Scott explores how patient access organizations can move beyond simply tracking the patient journey to using real-time insights to improve it. He argues that connecting commercial strategy, market access, payer intellig",
+        "vi": "Today's guest post comes from Scott Filosi, Chief Commercial Officer at Valeris. Scott explores how patient access organizations can move beyond simply tracking the patient journey to using real-time insights to improve it. He argues that connecting commercial strategy, market access, payer intellig",
+        "ja": "Today's guest post comes from Scott Filosi, Chief Commercial Officer at Valeris. Scott explores how patient access organizations can move beyond simply tracking the patient journey to using real-time insights to improve it. He argues that connecting commercial strategy, market access, payer intellig"
+      },
+      "category": "Pharma",
+      "score": 0,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://feeds.feedblitz.com/~/967219904/0/drugchannels~A-System-of-Record-or-a-System-of-Learning.html",
+      "published": "Fri, 07 Aug 2026 10:30:00 +0000"
     },
     {
       "id": "https://feeds.feedblitz.com/~/964938914/0/drugchannels~The-Industry-Doesnt-Have-an-Access-Collaboration-Problem-It-Has-an-Accountability-Problem.html",
