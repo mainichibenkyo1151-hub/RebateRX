@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T07:40:02.175328Z",
+  "generatedAt": "2026-08-10T13:06:21.448480Z",
   "count": 25,
   "articles": [
     {
@@ -281,6 +281,34 @@
       },
       "link": "https://feeds.feedblitz.com/~/957919508/0/drugchannels~Mapping-the-Vertical-Integration-of-Insurers-PBMs-GPOs-Specialty-Pharmacies-and-Healthcare-Services-DCI%e2%80%99s-Update-rerun.html",
       "published": "Wed, 10 Jun 2026 10:30:00 +0000"
+    },
+    {
+      "id": "https://feeds.feedblitz.com/~/967559789/0/drugchannels~Informa-Connect%e2%80%99s-Medicaid-Drug-Rebate-Program-Summit.html",
+      "headline": {
+        "en": "Informa Connect’s Medicaid Drug Rebate Program Summit",
+        "es": "Informa Connect’s Medicaid Drug Rebate Program Summit",
+        "zh": "Informa Connect’s Medicaid Drug Rebate Program Summit",
+        "vi": "Informa Connect’s Medicaid Drug Rebate Program Summit",
+        "ja": "Informa Connect’s Medicaid Drug Rebate Program Summit"
+      },
+      "summary": {
+        "en": "Informa Connect’s Medicaid Drug Rebate Program Summit October 5-7, 2026 | Chicago, IL Drug Channels readers save 10% with code 26DRCH10* View Agenda | Download Brochure The Medicaid Drug Rebate Program Summit returns to Chicago this October! Join 700 annual attendees and nearly 90 expert speakers to",
+        "es": "Informa Connect’s Medicaid Drug Rebate Program Summit October 5-7, 2026 | Chicago, IL Drug Channels readers save 10% with code 26DRCH10* View Agenda | Download Brochure The Medicaid Drug Rebate Program Summit returns to Chicago this October! Join 700 annual attendees and nearly 90 expert speakers to",
+        "zh": "Informa Connect’s Medicaid Drug Rebate Program Summit October 5-7, 2026 | Chicago, IL Drug Channels readers save 10% with code 26DRCH10* View Agenda | Download Brochure The Medicaid Drug Rebate Program Summit returns to Chicago this October! Join 700 annual attendees and nearly 90 expert speakers to",
+        "vi": "Informa Connect’s Medicaid Drug Rebate Program Summit October 5-7, 2026 | Chicago, IL Drug Channels readers save 10% with code 26DRCH10* View Agenda | Download Brochure The Medicaid Drug Rebate Program Summit returns to Chicago this October! Join 700 annual attendees and nearly 90 expert speakers to",
+        "ja": "Informa Connect’s Medicaid Drug Rebate Program Summit October 5-7, 2026 | Chicago, IL Drug Channels readers save 10% with code 26DRCH10* View Agenda | Download Brochure The Medicaid Drug Rebate Program Summit returns to Chicago this October! Join 700 annual attendees and nearly 90 expert speakers to"
+      },
+      "category": "PBM",
+      "score": 40,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://feeds.feedblitz.com/~/967559789/0/drugchannels~Informa-Connect%e2%80%99s-Medicaid-Drug-Rebate-Program-Summit.html",
+      "published": "Mon, 10 Aug 2026 10:30:00 +0000"
     },
     {
       "id": "https://feeds.feedblitz.com/~/966196043/0/drugchannels~Who-Will-Pay-for-Prescription-Drugs-in-Medicares-Surprising-Rise-in-the-Latest-Government-Forecasts.html",
@@ -673,34 +701,6 @@
       },
       "link": "https://feeds.feedblitz.com/~/958318340/0/drugchannels~Pharmacist-Salaries-and-Employment-in-Retail-Declines-Hospital-Gains.html",
       "published": "Tue, 23 Jun 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/958086446/0/drugchannels~Pharmacy-Copay-Misuse-The-MultiBillion-Dollar-Issue-Hiding-In-Plain-Sight.html",
-      "headline": {
-        "en": "Pharmacy Copay Misuse: The Multi-Billion Dollar Issue Hiding In Plain Sight",
-        "es": "Pharmacy Copay Misuse: The Multi-Billion Dollar Issue Hiding In Plain Sight",
-        "zh": "Pharmacy Copay Misuse: The Multi-Billion Dollar Issue Hiding In Plain Sight",
-        "vi": "Pharmacy Copay Misuse: The Multi-Billion Dollar Issue Hiding In Plain Sight",
-        "ja": "Pharmacy Copay Misuse: The Multi-Billion Dollar Issue Hiding In Plain Sight"
-      },
-      "summary": {
-        "en": "Today’s guest post comes from Stephen Hom, Co-Founder, EVP &amp; Chief Operating Officer of RIS Rx. Drawing on RIS Rx’s proprietary data and case studies, Stephen highlights patterns that can undermine patient support program effectiveness. He argues that a more data-driven approach can help manufac",
-        "es": "Today’s guest post comes from Stephen Hom, Co-Founder, EVP &amp; Chief Operating Officer of RIS Rx. Drawing on RIS Rx’s proprietary data and case studies, Stephen highlights patterns that can undermine patient support program effectiveness. He argues that a more data-driven approach can help manufac",
-        "zh": "Today’s guest post comes from Stephen Hom, Co-Founder, EVP &amp; Chief Operating Officer of RIS Rx. Drawing on RIS Rx’s proprietary data and case studies, Stephen highlights patterns that can undermine patient support program effectiveness. He argues that a more data-driven approach can help manufac",
-        "vi": "Today’s guest post comes from Stephen Hom, Co-Founder, EVP &amp; Chief Operating Officer of RIS Rx. Drawing on RIS Rx’s proprietary data and case studies, Stephen highlights patterns that can undermine patient support program effectiveness. He argues that a more data-driven approach can help manufac",
-        "ja": "Today’s guest post comes from Stephen Hom, Co-Founder, EVP &amp; Chief Operating Officer of RIS Rx. Drawing on RIS Rx’s proprietary data and case studies, Stephen highlights patterns that can undermine patient support program effectiveness. He argues that a more data-driven approach can help manufac"
-      },
-      "category": "Access",
-      "score": -20,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/958086446/0/drugchannels~Pharmacy-Copay-Misuse-The-MultiBillion-Dollar-Issue-Hiding-In-Plain-Sight.html",
-      "published": "Fri, 05 Jun 2026 10:00:00 +0000"
     }
   ]
 }
