@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T13:07:43.844117Z",
+  "generatedAt": "2026-08-12T19:01:31.181985Z",
   "count": 25,
   "articles": [
     {
@@ -367,6 +367,34 @@
       "published": "Wed, 15 Jul 2026 10:30:00 +0000"
     },
     {
+      "id": "https://www.fiercepharma.com/premium/webinar/1382923",
+      "headline": {
+        "en": "AI Innovation Is Reshaping Cancer Care—What Do Pharma Marketers Need to Know?",
+        "es": "AI Innovation Is Reshaping Cancer Care—What Do Pharma Marketers Need to Know?",
+        "zh": "AI Innovation Is Reshaping Cancer Care—What Do Pharma Marketers Need to Know?",
+        "vi": "AI Innovation Is Reshaping Cancer Care—What Do Pharma Marketers Need to Know?",
+        "ja": "AI Innovation Is Reshaping Cancer Care—What Do Pharma Marketers Need to Know?"
+      },
+      "summary": {
+        "en": "AI Innovation Is Reshaping Cancer Care—What Do Pharma Marketers Need to Know? pesurya Wed, 08/05/2026 - 13:50 Tue, 09/08/2026 - 14:00 Resource Type Webinar Douglas Flora, MD, LSSBB, FACCC Nicole Chambers, MBA Linda Ruschau Promotion Start Wed, 08/12/2026 - 09:37 Promotion End Fri, 02/12/2027 - 09:37",
+        "es": "AI Innovation Is Reshaping Cancer Care—What Do Pharma Marketers Need to Know? pesurya Wed, 08/05/2026 - 13:50 Tue, 09/08/2026 - 14:00 Resource Type Webinar Douglas Flora, MD, LSSBB, FACCC Nicole Chambers, MBA Linda Ruschau Promotion Start Wed, 08/12/2026 - 09:37 Promotion End Fri, 02/12/2027 - 09:37",
+        "zh": "AI Innovation Is Reshaping Cancer Care—What Do Pharma Marketers Need to Know? pesurya Wed, 08/05/2026 - 13:50 Tue, 09/08/2026 - 14:00 Resource Type Webinar Douglas Flora, MD, LSSBB, FACCC Nicole Chambers, MBA Linda Ruschau Promotion Start Wed, 08/12/2026 - 09:37 Promotion End Fri, 02/12/2027 - 09:37",
+        "vi": "AI Innovation Is Reshaping Cancer Care—What Do Pharma Marketers Need to Know? pesurya Wed, 08/05/2026 - 13:50 Tue, 09/08/2026 - 14:00 Resource Type Webinar Douglas Flora, MD, LSSBB, FACCC Nicole Chambers, MBA Linda Ruschau Promotion Start Wed, 08/12/2026 - 09:37 Promotion End Fri, 02/12/2027 - 09:37",
+        "ja": "AI Innovation Is Reshaping Cancer Care—What Do Pharma Marketers Need to Know? pesurya Wed, 08/05/2026 - 13:50 Tue, 09/08/2026 - 14:00 Resource Type Webinar Douglas Flora, MD, LSSBB, FACCC Nicole Chambers, MBA Linda Ruschau Promotion Start Wed, 08/12/2026 - 09:37 Promotion End Fri, 02/12/2027 - 09:37"
+      },
+      "category": "Pharma",
+      "score": 25,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://www.fiercepharma.com/premium/webinar/1382923",
+      "published": "Wed, 05 Aug 2026 17:50:30 +0000"
+    },
+    {
       "id": "https://feeds.feedblitz.com/~/957977102/0/drugchannels~Minnesota%e2%80%99s-B-Hospitals-Make-One-Billion-More-From-B-Than-They-Spend-on-Uncompensated-Care-rerun.html",
       "headline": {
         "en": "Minnesota’s 340B Hospitals Make One Billion More From 340B Than They Spend on Uncompensated Care (rerun)",
@@ -393,34 +421,6 @@
       },
       "link": "https://feeds.feedblitz.com/~/957977102/0/drugchannels~Minnesota%e2%80%99s-B-Hospitals-Make-One-Billion-More-From-B-Than-They-Spend-on-Uncompensated-Care-rerun.html",
       "published": "Fri, 12 Jun 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://www.fiercepharma.com/premium/webinar/1382466",
-      "headline": {
-        "en": "From Contract to Patient: Reducing Speed-to-Launch Barriers in Direct-to-Patient Programs",
-        "es": "From Contract to Patient: Reducing Speed-to-Launch Barriers in Direct-to-Patient Programs",
-        "zh": "From Contract to Patient: Reducing Speed-to-Launch Barriers in Direct-to-Patient Programs",
-        "vi": "From Contract to Patient: Reducing Speed-to-Launch Barriers in Direct-to-Patient Programs",
-        "ja": "From Contract to Patient: Reducing Speed-to-Launch Barriers in Direct-to-Patient Programs"
-      },
-      "summary": {
-        "en": "From Contract to Patient: Reducing Speed-to-Launch Barriers in Direct-to-Patient Programs dwunderlin Fri, 07/17/2026 - 12:38 Wed, 09/09/2026 - 11:00 Resource Type Webinar Jeremy Richardson Steve Brieloff Promotion Start Tue, 07/21/2026 - 14:30 Promotion End Thu, 01/21/2027 - 14:30 As pharmaceutical ",
-        "es": "From Contract to Patient: Reducing Speed-to-Launch Barriers in Direct-to-Patient Programs dwunderlin Fri, 07/17/2026 - 12:38 Wed, 09/09/2026 - 11:00 Resource Type Webinar Jeremy Richardson Steve Brieloff Promotion Start Tue, 07/21/2026 - 14:30 Promotion End Thu, 01/21/2027 - 14:30 As pharmaceutical ",
-        "zh": "From Contract to Patient: Reducing Speed-to-Launch Barriers in Direct-to-Patient Programs dwunderlin Fri, 07/17/2026 - 12:38 Wed, 09/09/2026 - 11:00 Resource Type Webinar Jeremy Richardson Steve Brieloff Promotion Start Tue, 07/21/2026 - 14:30 Promotion End Thu, 01/21/2027 - 14:30 As pharmaceutical ",
-        "vi": "From Contract to Patient: Reducing Speed-to-Launch Barriers in Direct-to-Patient Programs dwunderlin Fri, 07/17/2026 - 12:38 Wed, 09/09/2026 - 11:00 Resource Type Webinar Jeremy Richardson Steve Brieloff Promotion Start Tue, 07/21/2026 - 14:30 Promotion End Thu, 01/21/2027 - 14:30 As pharmaceutical ",
-        "ja": "From Contract to Patient: Reducing Speed-to-Launch Barriers in Direct-to-Patient Programs dwunderlin Fri, 07/17/2026 - 12:38 Wed, 09/09/2026 - 11:00 Resource Type Webinar Jeremy Richardson Steve Brieloff Promotion Start Tue, 07/21/2026 - 14:30 Promotion End Thu, 01/21/2027 - 14:30 As pharmaceutical "
-      },
-      "category": "Pharma",
-      "score": 20,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://www.fiercepharma.com/premium/webinar/1382466",
-      "published": "Fri, 17 Jul 2026 16:38:11 +0000"
     },
     {
       "id": "https://feeds.feedblitz.com/~/958115978/0/drugchannels~Drug-Channels-News-Roundup-MidJune-Biosimilar-Development-Barriers-Hospital-Specialty-Pharmacy-Growth-Medicaid-Incentives-Drug-Pricing-Tradeoffs-and-the.html",
