@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T07:23:54.307728Z",
+  "generatedAt": "2026-08-14T13:04:26.878423Z",
   "count": 25,
   "articles": [
     {
@@ -507,6 +507,34 @@
       "published": "Tue, 28 Jul 2026 19:41:22 +0000"
     },
     {
+      "id": "https://feeds.feedblitz.com/~/967828754/0/drugchannels~Hub-Transitions-Need-Proven-Plans-Smart-ScaleUp.html",
+      "headline": {
+        "en": "Hub Transitions Need Proven Plans, Smart Scale-Up",
+        "es": "Hub Transitions Need Proven Plans, Smart Scale-Up",
+        "zh": "Hub Transitions Need Proven Plans, Smart Scale-Up",
+        "vi": "Hub Transitions Need Proven Plans, Smart Scale-Up",
+        "ja": "Hub Transitions Need Proven Plans, Smart Scale-Up"
+      },
+      "summary": {
+        "en": "Today's guest post comes from Josh Marsh, Vice President and General Manager at Cardinal Health Sonexus™ Access and Patient Support. Josh examines the risks manufacturers take when transitioning a patient services hub from one vendor to another. He argues that scaling with a proven, flexible bluepri",
+        "es": "Today's guest post comes from Josh Marsh, Vice President and General Manager at Cardinal Health Sonexus™ Access and Patient Support. Josh examines the risks manufacturers take when transitioning a patient services hub from one vendor to another. He argues that scaling with a proven, flexible bluepri",
+        "zh": "Today's guest post comes from Josh Marsh, Vice President and General Manager at Cardinal Health Sonexus™ Access and Patient Support. Josh examines the risks manufacturers take when transitioning a patient services hub from one vendor to another. He argues that scaling with a proven, flexible bluepri",
+        "vi": "Today's guest post comes from Josh Marsh, Vice President and General Manager at Cardinal Health Sonexus™ Access and Patient Support. Josh examines the risks manufacturers take when transitioning a patient services hub from one vendor to another. He argues that scaling with a proven, flexible bluepri",
+        "ja": "Today's guest post comes from Josh Marsh, Vice President and General Manager at Cardinal Health Sonexus™ Access and Patient Support. Josh examines the risks manufacturers take when transitioning a patient services hub from one vendor to another. He argues that scaling with a proven, flexible bluepri"
+      },
+      "category": "Pharma",
+      "score": 0,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://feeds.feedblitz.com/~/967828754/0/drugchannels~Hub-Transitions-Need-Proven-Plans-Smart-ScaleUp.html",
+      "published": "Fri, 14 Aug 2026 10:30:00 +0000"
+    },
+    {
       "id": "https://feeds.feedblitz.com/~/967219904/0/drugchannels~A-System-of-Record-or-a-System-of-Learning.html",
       "headline": {
         "en": "A System of Record, or a System of Learning?",
@@ -673,34 +701,6 @@
       },
       "link": "https://feeds.feedblitz.com/~/959724413/0/drugchannels~BlinkRx-Insights-The-Questions-Manufacturers-Wish-They-Had-Asked-Before-Selecting-a-Patient-Services-Partner.html",
       "published": "Fri, 26 Jun 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/958318340/0/drugchannels~Pharmacist-Salaries-and-Employment-in-Retail-Declines-Hospital-Gains.html",
-      "headline": {
-        "en": "Pharmacist Salaries and Employment in 2025: Retail Declines, Hospital Gains",
-        "es": "Pharmacist Salaries and Employment in 2025: Retail Declines, Hospital Gains",
-        "zh": "Pharmacist Salaries and Employment in 2025: Retail Declines, Hospital Gains",
-        "vi": "Pharmacist Salaries and Employment in 2025: Retail Declines, Hospital Gains",
-        "ja": "Pharmacist Salaries and Employment in 2025: Retail Declines, Hospital Gains"
-      },
-      "summary": {
-        "en": "By Adam J. Fein, Ph.D. and Greis Kapexhiu It’s time for Drug Channels ’ annual look at pharmacist salaries and employment. The latest data might be a tough pill to swallow. As we predicted, the situation was grim for retail pharmacists. Employment in retail outpatient pharmacies fell by 8,200 positi",
-        "es": "By Adam J. Fein, Ph.D. and Greis Kapexhiu It’s time for Drug Channels ’ annual look at pharmacist salaries and employment. The latest data might be a tough pill to swallow. As we predicted, the situation was grim for retail pharmacists. Employment in retail outpatient pharmacies fell by 8,200 positi",
-        "zh": "By Adam J. Fein, Ph.D. and Greis Kapexhiu It’s time for Drug Channels ’ annual look at pharmacist salaries and employment. The latest data might be a tough pill to swallow. As we predicted, the situation was grim for retail pharmacists. Employment in retail outpatient pharmacies fell by 8,200 positi",
-        "vi": "By Adam J. Fein, Ph.D. and Greis Kapexhiu It’s time for Drug Channels ’ annual look at pharmacist salaries and employment. The latest data might be a tough pill to swallow. As we predicted, the situation was grim for retail pharmacists. Employment in retail outpatient pharmacies fell by 8,200 positi",
-        "ja": "By Adam J. Fein, Ph.D. and Greis Kapexhiu It’s time for Drug Channels ’ annual look at pharmacist salaries and employment. The latest data might be a tough pill to swallow. As we predicted, the situation was grim for retail pharmacists. Employment in retail outpatient pharmacies fell by 8,200 positi"
-      },
-      "category": "Pharma",
-      "score": 0,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/958318340/0/drugchannels~Pharmacist-Salaries-and-Employment-in-Retail-Declines-Hospital-Gains.html",
-      "published": "Tue, 23 Jun 2026 10:30:00 +0000"
     }
   ]
 }
