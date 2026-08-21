@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T06:44:11.828034Z",
+  "generatedAt": "2026-08-21T12:45:15.530276Z",
   "count": 25,
   "articles": [
     {
@@ -57,34 +57,6 @@
       },
       "link": "https://feeds.feedblitz.com/~/959724410/0/drugchannels~The-Hidden-Cost-of-B-for-Employers-and-Health-Plans.html",
       "published": "Wed, 08 Jul 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/957887546/0/drugchannels~The-Top-Pharmacy-Benefit-Managers-of-Market-Share-and-Key-Industry-Developments-rerun.html",
-      "headline": {
-        "en": "The Top Pharmacy Benefit Managers of 2025: Market Share and Key Industry Developments (rerun)",
-        "es": "The Top Pharmacy Benefit Managers of 2025: Market Share and Key Industry Developments (rerun)",
-        "zh": "The Top Pharmacy Benefit Managers of 2025: Market Share and Key Industry Developments (rerun)",
-        "vi": "The Top Pharmacy Benefit Managers of 2025: Market Share and Key Industry Developments (rerun)",
-        "ja": "The Top Pharmacy Benefit Managers of 2025: Market Share and Key Industry Developments (rerun)"
-      },
-      "summary": {
-        "en": "This week, we’re rerunning some popular posts while we prepare for Friday’s live video webinar: 340B in 2026: Market Shifts, Policy Battles, and What They Mean for Stakeholders . Click here to see the original post from March 2026. By Adam J. Fein, Ph.D. Three is still the magic number for pharmacy ",
-        "es": "This week, we’re rerunning some popular posts while we prepare for Friday’s live video webinar: 340B in 2026: Market Shifts, Policy Battles, and What They Mean for Stakeholders . Click here to see the original post from March 2026. By Adam J. Fein, Ph.D. Three is still the magic number for pharmacy ",
-        "zh": "This week, we’re rerunning some popular posts while we prepare for Friday’s live video webinar: 340B in 2026: Market Shifts, Policy Battles, and What They Mean for Stakeholders . Click here to see the original post from March 2026. By Adam J. Fein, Ph.D. Three is still the magic number for pharmacy ",
-        "vi": "This week, we’re rerunning some popular posts while we prepare for Friday’s live video webinar: 340B in 2026: Market Shifts, Policy Battles, and What They Mean for Stakeholders . Click here to see the original post from March 2026. By Adam J. Fein, Ph.D. Three is still the magic number for pharmacy ",
-        "ja": "This week, we’re rerunning some popular posts while we prepare for Friday’s live video webinar: 340B in 2026: Market Shifts, Policy Battles, and What They Mean for Stakeholders . Click here to see the original post from March 2026. By Adam J. Fein, Ph.D. Three is still the magic number for pharmacy "
-      },
-      "category": "Pharma",
-      "score": 85,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/957887546/0/drugchannels~The-Top-Pharmacy-Benefit-Managers-of-Market-Share-and-Key-Industry-Developments-rerun.html",
-      "published": "Tue, 09 Jun 2026 10:30:00 +0000"
     },
     {
       "id": "https://feeds.feedblitz.com/~/960482432/0/drugchannels~Medicare-Embraces-SiteNeutral-Payments-Why-Havent-Employers.html",
@@ -505,6 +477,34 @@
       },
       "link": "https://feeds.feedblitz.com/~/967665377/0/drugchannels~The-KShaped-Pharmacy-Shakeout-Consolidation-in-Cities-Lost-Access-in-Rural-America.html",
       "published": "Tue, 11 Aug 2026 10:30:00 +0000"
+    },
+    {
+      "id": "https://feeds.feedblitz.com/~/968084648/0/drugchannels~Invisible-Work-of-Rare-Pharmacy-Delivers-Highly-Visible-Patient-Outcomes.html",
+      "headline": {
+        "en": "Invisible Work of Rare Pharmacy Delivers Highly Visible Patient Outcomes",
+        "es": "Invisible Work of Rare Pharmacy Delivers Highly Visible Patient Outcomes",
+        "zh": "Invisible Work of Rare Pharmacy Delivers Highly Visible Patient Outcomes",
+        "vi": "Invisible Work of Rare Pharmacy Delivers Highly Visible Patient Outcomes",
+        "ja": "Invisible Work of Rare Pharmacy Delivers Highly Visible Patient Outcomes"
+      },
+      "summary": {
+        "en": "Today's guest post comes from Jay Weaver, VP, Payer Solutions at PANTHERx ® Rare. Jay describes the clinical and operational work that often happens behind the scenes at a Rare Pharmacy. He explains how these capabilities—including greater personalization, real-world evidence, and specialized clinic",
+        "es": "Today's guest post comes from Jay Weaver, VP, Payer Solutions at PANTHERx ® Rare. Jay describes the clinical and operational work that often happens behind the scenes at a Rare Pharmacy. He explains how these capabilities—including greater personalization, real-world evidence, and specialized clinic",
+        "zh": "Today's guest post comes from Jay Weaver, VP, Payer Solutions at PANTHERx ® Rare. Jay describes the clinical and operational work that often happens behind the scenes at a Rare Pharmacy. He explains how these capabilities—including greater personalization, real-world evidence, and specialized clinic",
+        "vi": "Today's guest post comes from Jay Weaver, VP, Payer Solutions at PANTHERx ® Rare. Jay describes the clinical and operational work that often happens behind the scenes at a Rare Pharmacy. He explains how these capabilities—including greater personalization, real-world evidence, and specialized clinic",
+        "ja": "Today's guest post comes from Jay Weaver, VP, Payer Solutions at PANTHERx ® Rare. Jay describes the clinical and operational work that often happens behind the scenes at a Rare Pharmacy. He explains how these capabilities—including greater personalization, real-world evidence, and specialized clinic"
+      },
+      "category": "Pharma",
+      "score": 0,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://feeds.feedblitz.com/~/968084648/0/drugchannels~Invisible-Work-of-Rare-Pharmacy-Delivers-Highly-Visible-Patient-Outcomes.html",
+      "published": "Fri, 21 Aug 2026 10:30:00 +0000"
     },
     {
       "id": "https://feeds.feedblitz.com/~/967828754/0/drugchannels~Hub-Transitions-Need-Proven-Plans-Smart-ScaleUp.html",
