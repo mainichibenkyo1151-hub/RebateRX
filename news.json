@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T06:45:24.264010Z",
+  "generatedAt": "2026-08-25T12:45:40.486324Z",
   "count": 25,
   "articles": [
     {
@@ -143,6 +143,34 @@
       "published": "Fri, 10 Jul 2026 10:30:00 +0000"
     },
     {
+      "id": "https://feeds.feedblitz.com/~/968206538/0/drugchannels~Drug-Channels-News-Roundup-August-B-Rebate-Model-v-Patients-Feeling-Drug-Costs-Specialty-Drug-Spending-Drivers-Impact-on-Coverage-from-the-IRA-and-a-Drug-Price.html",
+      "headline": {
+        "en": "Drug Channels News Roundup, August 2026: 340B Rebate Model v2, Patients Feeling Drug Costs, Specialty Drug Spending Drivers, Impact on Coverage from the IRA, and a Drug Price Adventure",
+        "es": "Drug Channels News Roundup, August 2026: 340B Rebate Model v2, Patients Feeling Drug Costs, Specialty Drug Spending Drivers, Impact on Coverage from the IRA, and a Drug Price Adventure",
+        "zh": "Drug Channels News Roundup, August 2026: 340B Rebate Model v2, Patients Feeling Drug Costs, Specialty Drug Spending Drivers, Impact on Coverage from the IRA, and a Drug Price Adventure",
+        "vi": "Drug Channels News Roundup, August 2026: 340B Rebate Model v2, Patients Feeling Drug Costs, Specialty Drug Spending Drivers, Impact on Coverage from the IRA, and a Drug Price Adventure",
+        "ja": "Drug Channels News Roundup, August 2026: 340B Rebate Model v2, Patients Feeling Drug Costs, Specialty Drug Spending Drivers, Impact on Coverage from the IRA, and a Drug Price Adventure"
+      },
+      "summary": {
+        "en": "By Bryce Platt, PharmD Kids are heading back to school, but the drug channel never stops handing out homework. Fortunately, we did some of the research prep for you. In this issue: HRSA's Revised 340B Rebate Model Pilot Households Feel the Cost of Prescription Drugs More The Drivers of Specialty Dru",
+        "es": "By Bryce Platt, PharmD Kids are heading back to school, but the drug channel never stops handing out homework. Fortunately, we did some of the research prep for you. In this issue: HRSA's Revised 340B Rebate Model Pilot Households Feel the Cost of Prescription Drugs More The Drivers of Specialty Dru",
+        "zh": "By Bryce Platt, PharmD Kids are heading back to school, but the drug channel never stops handing out homework. Fortunately, we did some of the research prep for you. In this issue: HRSA's Revised 340B Rebate Model Pilot Households Feel the Cost of Prescription Drugs More The Drivers of Specialty Dru",
+        "vi": "By Bryce Platt, PharmD Kids are heading back to school, but the drug channel never stops handing out homework. Fortunately, we did some of the research prep for you. In this issue: HRSA's Revised 340B Rebate Model Pilot Households Feel the Cost of Prescription Drugs More The Drivers of Specialty Dru",
+        "ja": "By Bryce Platt, PharmD Kids are heading back to school, but the drug channel never stops handing out homework. Fortunately, we did some of the research prep for you. In this issue: HRSA's Revised 340B Rebate Model Pilot Households Feel the Cost of Prescription Drugs More The Drivers of Specialty Dru"
+      },
+      "category": "PBM",
+      "score": 60,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://feeds.feedblitz.com/~/968206538/0/drugchannels~Drug-Channels-News-Roundup-August-B-Rebate-Model-v-Patients-Feeling-Drug-Costs-Specialty-Drug-Spending-Drivers-Impact-on-Coverage-from-the-IRA-and-a-Drug-Price.html",
+      "published": "Tue, 25 Aug 2026 10:30:00 +0000"
+    },
+    {
       "id": "https://feeds.feedblitz.com/~/957947597/0/drugchannels~The-Top-Specialty-Pharmacies-of-PBMAffiliated-Pharmacies-Dominate-While-Health-Systems-and-Independents-Gain-Ground-rerun.html",
       "headline": {
         "en": "The Top 15 Specialty Pharmacies of 2025: PBM-Affiliated Pharmacies Dominate While Health Systems and Independents Gain Ground (rerun)",
@@ -169,34 +197,6 @@
       },
       "link": "https://feeds.feedblitz.com/~/957947597/0/drugchannels~The-Top-Specialty-Pharmacies-of-PBMAffiliated-Pharmacies-Dominate-While-Health-Systems-and-Independents-Gain-Ground-rerun.html",
       "published": "Thu, 11 Jun 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/957919508/0/drugchannels~Mapping-the-Vertical-Integration-of-Insurers-PBMs-GPOs-Specialty-Pharmacies-and-Healthcare-Services-DCI%e2%80%99s-Update-rerun.html",
-      "headline": {
-        "en": "Mapping the Vertical Integration of Insurers, PBMs, GPOs, Specialty Pharmacies, and Healthcare Services: DCI’s 2026 Update (rerun)",
-        "es": "Mapping the Vertical Integration of Insurers, PBMs, GPOs, Specialty Pharmacies, and Healthcare Services: DCI’s 2026 Update (rerun)",
-        "zh": "Mapping the Vertical Integration of Insurers, PBMs, GPOs, Specialty Pharmacies, and Healthcare Services: DCI’s 2026 Update (rerun)",
-        "vi": "Mapping the Vertical Integration of Insurers, PBMs, GPOs, Specialty Pharmacies, and Healthcare Services: DCI’s 2026 Update (rerun)",
-        "ja": "Mapping the Vertical Integration of Insurers, PBMs, GPOs, Specialty Pharmacies, and Healthcare Services: DCI’s 2026 Update (rerun)"
-      },
-      "summary": {
-        "en": "This week, we’re rerunning some popular posts while we prepare for Friday’s live video webinar: 340B in 2026: Market Shifts, Policy Battles, and What They Mean for Stakeholders . Click here to see the original post from April 2026. By Adam J. Fein, Ph.D. It's time for Drug Channels Institute’s (DCI)",
-        "es": "This week, we’re rerunning some popular posts while we prepare for Friday’s live video webinar: 340B in 2026: Market Shifts, Policy Battles, and What They Mean for Stakeholders . Click here to see the original post from April 2026. By Adam J. Fein, Ph.D. It's time for Drug Channels Institute’s (DCI)",
-        "zh": "This week, we’re rerunning some popular posts while we prepare for Friday’s live video webinar: 340B in 2026: Market Shifts, Policy Battles, and What They Mean for Stakeholders . Click here to see the original post from April 2026. By Adam J. Fein, Ph.D. It's time for Drug Channels Institute’s (DCI)",
-        "vi": "This week, we’re rerunning some popular posts while we prepare for Friday’s live video webinar: 340B in 2026: Market Shifts, Policy Battles, and What They Mean for Stakeholders . Click here to see the original post from April 2026. By Adam J. Fein, Ph.D. It's time for Drug Channels Institute’s (DCI)",
-        "ja": "This week, we’re rerunning some popular posts while we prepare for Friday’s live video webinar: 340B in 2026: Market Shifts, Policy Battles, and What They Mean for Stakeholders . Click here to see the original post from April 2026. By Adam J. Fein, Ph.D. It's time for Drug Channels Institute’s (DCI)"
-      },
-      "category": "PBM",
-      "score": 55,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/957919508/0/drugchannels~Mapping-the-Vertical-Integration-of-Insurers-PBMs-GPOs-Specialty-Pharmacies-and-Healthcare-Services-DCI%e2%80%99s-Update-rerun.html",
-      "published": "Wed, 10 Jun 2026 10:30:00 +0000"
     },
     {
       "id": "https://feeds.feedblitz.com/~/967969280/0/drugchannels~REMS-Removed-Why-CART%e2%80%99s-Expansion-into-Community-Oncology-Could-Benefit-the-Big-Three-Wholesalers.html",
@@ -591,13 +591,13 @@
       "published": "Fri, 31 Jul 2026 10:30:00 +0000"
     },
     {
-      "id": "https://feeds.feedblitz.com/~/963872867/0/drugchannels~Drug-Channels-News-Roundup-MidJuly-Biosimilar-Launch-Strategy-Part-D-Spending-Trends-Rural-B-Hospitals-What-Employers-Can-Do-About-B-and-Drug-Channel-Villains.html",
+      "id": "https://feeds.feedblitz.com/~/963872867/0/drugchannels~Drug-Channels-News-Roundup-July-Biosimilar-Launch-Strategy-Part-D-Spending-Trends-Rural-B-Hospitals-What-Employers-Can-Do-About-B-and-Drug-Channel-Villains.html",
       "headline": {
-        "en": "Drug Channels News Roundup, Mid-July 2026: Biosimilar Launch Strategy, Part D Spending Trends, Rural 340B Hospitals, What Employers Can Do About 340B, and Drug Channel Villains",
-        "es": "Drug Channels News Roundup, Mid-July 2026: Biosimilar Launch Strategy, Part D Spending Trends, Rural 340B Hospitals, What Employers Can Do About 340B, and Drug Channel Villains",
-        "zh": "Drug Channels News Roundup, Mid-July 2026: Biosimilar Launch Strategy, Part D Spending Trends, Rural 340B Hospitals, What Employers Can Do About 340B, and Drug Channel Villains",
-        "vi": "Drug Channels News Roundup, Mid-July 2026: Biosimilar Launch Strategy, Part D Spending Trends, Rural 340B Hospitals, What Employers Can Do About 340B, and Drug Channel Villains",
-        "ja": "Drug Channels News Roundup, Mid-July 2026: Biosimilar Launch Strategy, Part D Spending Trends, Rural 340B Hospitals, What Employers Can Do About 340B, and Drug Channel Villains"
+        "en": "Drug Channels News Roundup, July 2026: Biosimilar Launch Strategy, Part D Spending Trends, Rural 340B Hospitals, What Employers Can Do About 340B, and Drug Channel Villains",
+        "es": "Drug Channels News Roundup, July 2026: Biosimilar Launch Strategy, Part D Spending Trends, Rural 340B Hospitals, What Employers Can Do About 340B, and Drug Channel Villains",
+        "zh": "Drug Channels News Roundup, July 2026: Biosimilar Launch Strategy, Part D Spending Trends, Rural 340B Hospitals, What Employers Can Do About 340B, and Drug Channel Villains",
+        "vi": "Drug Channels News Roundup, July 2026: Biosimilar Launch Strategy, Part D Spending Trends, Rural 340B Hospitals, What Employers Can Do About 340B, and Drug Channel Villains",
+        "ja": "Drug Channels News Roundup, July 2026: Biosimilar Launch Strategy, Part D Spending Trends, Rural 340B Hospitals, What Employers Can Do About 340B, and Drug Channel Villains"
       },
       "summary": {
         "en": "By Bryce Platt, PharmD Summer's in full swing, but the drug channel didn't take a break. What better way to spend the summer than reading about new pharmacy resources in the Drug Channels News Roundup? In this issue: The New Biosimilar Launch Playbook Factors Adding to Part D Cost Trends Rural vs. N",
@@ -615,7 +615,7 @@
         "vi": "May affect drug access, coverage, or cost.",
         "ja": "May affect drug access, coverage, or cost."
       },
-      "link": "https://feeds.feedblitz.com/~/963872867/0/drugchannels~Drug-Channels-News-Roundup-MidJuly-Biosimilar-Launch-Strategy-Part-D-Spending-Trends-Rural-B-Hospitals-What-Employers-Can-Do-About-B-and-Drug-Channel-Villains.html",
+      "link": "https://feeds.feedblitz.com/~/963872867/0/drugchannels~Drug-Channels-News-Roundup-July-Biosimilar-Launch-Strategy-Part-D-Spending-Trends-Rural-B-Hospitals-What-Employers-Can-Do-About-B-and-Drug-Channel-Villains.html",
       "published": "Tue, 28 Jul 2026 10:30:00 +0000"
     },
     {
