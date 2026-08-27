@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T19:46:45.227245Z",
+  "generatedAt": "2026-08-27T07:45:19.761376Z",
   "count": 25,
   "articles": [
     {
@@ -339,34 +339,6 @@
       "published": "Wed, 15 Jul 2026 10:30:00 +0000"
     },
     {
-      "id": "https://www.fiercepharma.com/premium/webinar/1383058",
-      "headline": {
-        "en": "Building Non-Interventional Studies for Regulatory Purposes",
-        "es": "Building Non-Interventional Studies for Regulatory Purposes",
-        "zh": "Building Non-Interventional Studies for Regulatory Purposes",
-        "vi": "Building Non-Interventional Studies for Regulatory Purposes",
-        "ja": "Building Non-Interventional Studies for Regulatory Purposes"
-      },
-      "summary": {
-        "en": "Building Non-Interventional Studies for Regulatory Purposes scox Mon, 08/10/2026 - 17:34 Wed, 09/23/2026 - 12:00 Resource Type Webinar Dr. Rich Gliklich Michelle Leavy, MPH As regulators place increasing weight on real-world evidence, non-interventional study designs are taking on a larger role acro",
-        "es": "Building Non-Interventional Studies for Regulatory Purposes scox Mon, 08/10/2026 - 17:34 Wed, 09/23/2026 - 12:00 Resource Type Webinar Dr. Rich Gliklich Michelle Leavy, MPH As regulators place increasing weight on real-world evidence, non-interventional study designs are taking on a larger role acro",
-        "zh": "Building Non-Interventional Studies for Regulatory Purposes scox Mon, 08/10/2026 - 17:34 Wed, 09/23/2026 - 12:00 Resource Type Webinar Dr. Rich Gliklich Michelle Leavy, MPH As regulators place increasing weight on real-world evidence, non-interventional study designs are taking on a larger role acro",
-        "vi": "Building Non-Interventional Studies for Regulatory Purposes scox Mon, 08/10/2026 - 17:34 Wed, 09/23/2026 - 12:00 Resource Type Webinar Dr. Rich Gliklich Michelle Leavy, MPH As regulators place increasing weight on real-world evidence, non-interventional study designs are taking on a larger role acro",
-        "ja": "Building Non-Interventional Studies for Regulatory Purposes scox Mon, 08/10/2026 - 17:34 Wed, 09/23/2026 - 12:00 Resource Type Webinar Dr. Rich Gliklich Michelle Leavy, MPH As regulators place increasing weight on real-world evidence, non-interventional study designs are taking on a larger role acro"
-      },
-      "category": "Pharma",
-      "score": 25,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://www.fiercepharma.com/premium/webinar/1383058",
-      "published": "Mon, 10 Aug 2026 21:34:28 +0000"
-    },
-    {
       "id": "https://feeds.feedblitz.com/~/957977102/0/drugchannels~Minnesota%e2%80%99s-B-Hospitals-Make-One-Billion-More-From-B-Than-They-Spend-on-Uncompensated-Care-rerun.html",
       "headline": {
         "en": "Minnesota’s 340B Hospitals Make One Billion More From 340B Than They Spend on Uncompensated Care (rerun)",
@@ -701,6 +673,34 @@
       },
       "link": "https://feeds.feedblitz.com/~/959724413/0/drugchannels~BlinkRx-Insights-The-Questions-Manufacturers-Wish-They-Had-Asked-Before-Selecting-a-Patient-Services-Partner.html",
       "published": "Fri, 26 Jun 2026 10:30:00 +0000"
+    },
+    {
+      "id": "https://feeds.feedblitz.com/~/958318340/0/drugchannels~Pharmacist-Salaries-and-Employment-in-Retail-Declines-Hospital-Gains.html",
+      "headline": {
+        "en": "Pharmacist Salaries and Employment in 2025: Retail Declines, Hospital Gains",
+        "es": "Pharmacist Salaries and Employment in 2025: Retail Declines, Hospital Gains",
+        "zh": "Pharmacist Salaries and Employment in 2025: Retail Declines, Hospital Gains",
+        "vi": "Pharmacist Salaries and Employment in 2025: Retail Declines, Hospital Gains",
+        "ja": "Pharmacist Salaries and Employment in 2025: Retail Declines, Hospital Gains"
+      },
+      "summary": {
+        "en": "By Adam J. Fein, Ph.D. and Greis Kapexhiu It’s time for Drug Channels ’ annual look at pharmacist salaries and employment. The latest data might be a tough pill to swallow. As we predicted, the situation was grim for retail pharmacists. Employment in retail outpatient pharmacies fell by 8,200 positi",
+        "es": "By Adam J. Fein, Ph.D. and Greis Kapexhiu It’s time for Drug Channels ’ annual look at pharmacist salaries and employment. The latest data might be a tough pill to swallow. As we predicted, the situation was grim for retail pharmacists. Employment in retail outpatient pharmacies fell by 8,200 positi",
+        "zh": "By Adam J. Fein, Ph.D. and Greis Kapexhiu It’s time for Drug Channels ’ annual look at pharmacist salaries and employment. The latest data might be a tough pill to swallow. As we predicted, the situation was grim for retail pharmacists. Employment in retail outpatient pharmacies fell by 8,200 positi",
+        "vi": "By Adam J. Fein, Ph.D. and Greis Kapexhiu It’s time for Drug Channels ’ annual look at pharmacist salaries and employment. The latest data might be a tough pill to swallow. As we predicted, the situation was grim for retail pharmacists. Employment in retail outpatient pharmacies fell by 8,200 positi",
+        "ja": "By Adam J. Fein, Ph.D. and Greis Kapexhiu It’s time for Drug Channels ’ annual look at pharmacist salaries and employment. The latest data might be a tough pill to swallow. As we predicted, the situation was grim for retail pharmacists. Employment in retail outpatient pharmacies fell by 8,200 positi"
+      },
+      "category": "Pharma",
+      "score": 0,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://feeds.feedblitz.com/~/958318340/0/drugchannels~Pharmacist-Salaries-and-Employment-in-Retail-Declines-Hospital-Gains.html",
+      "published": "Tue, 23 Jun 2026 10:30:00 +0000"
     }
   ]
 }
