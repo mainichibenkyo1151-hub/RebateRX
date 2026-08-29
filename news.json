@@ -1,343 +1,7 @@
 {
-  "generatedAt": "2026-08-29T05:50:25.279911Z",
-  "count": 25,
+  "generatedAt": "2026-08-29T12:22:03.707503Z",
+  "count": 4,
   "articles": [
-    {
-      "id": "https://feeds.feedblitz.com/~/958085078/0/drugchannels~The-IRA-Fixed-One-Medicare-Part-D-Distortion%e2%80%94But-Patients-Now-Face-New-Tradeoffs.html",
-      "headline": {
-        "en": "The IRA Fixed One Medicare Part D Distortion—But Patients Now Face New Tradeoffs",
-        "es": "The IRA Fixed One Medicare Part D Distortion—But Patients Now Face New Tradeoffs",
-        "zh": "The IRA Fixed One Medicare Part D Distortion—But Patients Now Face New Tradeoffs",
-        "vi": "The IRA Fixed One Medicare Part D Distortion—But Patients Now Face New Tradeoffs",
-        "ja": "The IRA Fixed One Medicare Part D Distortion—But Patients Now Face New Tradeoffs"
-      },
-      "summary": {
-        "en": "By Bryce Platt, PharmD For years, Medicare Part D plans often preferred high-list/high-rebate branded multiple sclerosis (MS) drugs over lower-cost generics. That was rational behavior inside an irrational system. The Inflation Reduction Act (IRA) offers one example of how incentives can change beha",
-        "es": "By Bryce Platt, PharmD For years, Medicare Part D plans often preferred high-list/high-rebate branded multiple sclerosis (MS) drugs over lower-cost generics. That was rational behavior inside an irrational system. The Inflation Reduction Act (IRA) offers one example of how incentives can change beha",
-        "zh": "By Bryce Platt, PharmD For years, Medicare Part D plans often preferred high-list/high-rebate branded multiple sclerosis (MS) drugs over lower-cost generics. That was rational behavior inside an irrational system. The Inflation Reduction Act (IRA) offers one example of how incentives can change beha",
-        "vi": "By Bryce Platt, PharmD For years, Medicare Part D plans often preferred high-list/high-rebate branded multiple sclerosis (MS) drugs over lower-cost generics. That was rational behavior inside an irrational system. The Inflation Reduction Act (IRA) offers one example of how incentives can change beha",
-        "ja": "By Bryce Platt, PharmD For years, Medicare Part D plans often preferred high-list/high-rebate branded multiple sclerosis (MS) drugs over lower-cost generics. That was rational behavior inside an irrational system. The Inflation Reduction Act (IRA) offers one example of how incentives can change beha"
-      },
-      "category": "PBM",
-      "score": 90,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/958085078/0/drugchannels~The-IRA-Fixed-One-Medicare-Part-D-Distortion%e2%80%94But-Patients-Now-Face-New-Tradeoffs.html",
-      "published": "Tue, 16 Jun 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/959724410/0/drugchannels~The-Hidden-Cost-of-B-for-Employers-and-Health-Plans.html",
-      "headline": {
-        "en": "The Hidden Cost of 340B for Employers and Health Plans",
-        "es": "The Hidden Cost of 340B for Employers and Health Plans",
-        "zh": "The Hidden Cost of 340B for Employers and Health Plans",
-        "vi": "The Hidden Cost of 340B for Employers and Health Plans",
-        "ja": "The Hidden Cost of 340B for Employers and Health Plans"
-      },
-      "summary": {
-        "en": "By Adam J. Fein, Ph.D. For years, the controversy surrounding the 340B Drug Pricing Program has centered on hospitals, manufacturers, and contract pharmacies. But employers and health plans have become major participants in the program's economics—even though many don't realize it. The short video b",
-        "es": "By Adam J. Fein, Ph.D. For years, the controversy surrounding the 340B Drug Pricing Program has centered on hospitals, manufacturers, and contract pharmacies. But employers and health plans have become major participants in the program's economics—even though many don't realize it. The short video b",
-        "zh": "By Adam J. Fein, Ph.D. For years, the controversy surrounding the 340B Drug Pricing Program has centered on hospitals, manufacturers, and contract pharmacies. But employers and health plans have become major participants in the program's economics—even though many don't realize it. The short video b",
-        "vi": "By Adam J. Fein, Ph.D. For years, the controversy surrounding the 340B Drug Pricing Program has centered on hospitals, manufacturers, and contract pharmacies. But employers and health plans have become major participants in the program's economics—even though many don't realize it. The short video b",
-        "ja": "By Adam J. Fein, Ph.D. For years, the controversy surrounding the 340B Drug Pricing Program has centered on hospitals, manufacturers, and contract pharmacies. But employers and health plans have become major participants in the program's economics—even though many don't realize it. The short video b"
-      },
-      "category": "Pricing",
-      "score": 85,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/959724410/0/drugchannels~The-Hidden-Cost-of-B-for-Employers-and-Health-Plans.html",
-      "published": "Wed, 08 Jul 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/960482432/0/drugchannels~Medicare-Embraces-SiteNeutral-Payments-Why-Havent-Employers.html",
-      "headline": {
-        "en": "Medicare Embraces Site-Neutral Payments. Why Haven't Employers?",
-        "es": "Medicare Embraces Site-Neutral Payments. Why Haven't Employers?",
-        "zh": "Medicare Embraces Site-Neutral Payments. Why Haven't Employers?",
-        "vi": "Medicare Embraces Site-Neutral Payments. Why Haven't Employers?",
-        "ja": "Medicare Embraces Site-Neutral Payments. Why Haven't Employers?"
-      },
-      "summary": {
-        "en": "By Bryce Platt, PharmD Provider-administered drugs are one of the fastest-growing and least-managed cost drivers for commercial plan sponsors. Despite that, recent data from the Pharmaceutical Strategies Group show that only 35% of commercial plan sponsors currently have a site of care (SOC) program",
-        "es": "By Bryce Platt, PharmD Provider-administered drugs are one of the fastest-growing and least-managed cost drivers for commercial plan sponsors. Despite that, recent data from the Pharmaceutical Strategies Group show that only 35% of commercial plan sponsors currently have a site of care (SOC) program",
-        "zh": "By Bryce Platt, PharmD Provider-administered drugs are one of the fastest-growing and least-managed cost drivers for commercial plan sponsors. Despite that, recent data from the Pharmaceutical Strategies Group show that only 35% of commercial plan sponsors currently have a site of care (SOC) program",
-        "vi": "By Bryce Platt, PharmD Provider-administered drugs are one of the fastest-growing and least-managed cost drivers for commercial plan sponsors. Despite that, recent data from the Pharmaceutical Strategies Group show that only 35% of commercial plan sponsors currently have a site of care (SOC) program",
-        "ja": "By Bryce Platt, PharmD Provider-administered drugs are one of the fastest-growing and least-managed cost drivers for commercial plan sponsors. Despite that, recent data from the Pharmaceutical Strategies Group show that only 35% of commercial plan sponsors currently have a site of care (SOC) program"
-      },
-      "category": "Insurance",
-      "score": 70,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/960482432/0/drugchannels~Medicare-Embraces-SiteNeutral-Payments-Why-Havent-Employers.html",
-      "published": "Tue, 14 Jul 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/958710839/0/drugchannels~Drug-Channels-News-Roundup-June-PBM-Shakeout-Accelerates-B-Enters-a-New-Era-Rebate-Questions-Persist-Mark-Cuban-Wins-Again-and-Ge-Bai%e2%80%99s-HHS-Nomination.html",
-      "headline": {
-        "en": "Drug Channels News Roundup, June 2026: PBM Shakeout Accelerates, 340B Enters a New Era, Rebate Questions Persist, Mark Cuban Wins Again, and Ge Bai’s HHS Nomination",
-        "es": "Drug Channels News Roundup, June 2026: PBM Shakeout Accelerates, 340B Enters a New Era, Rebate Questions Persist, Mark Cuban Wins Again, and Ge Bai’s HHS Nomination",
-        "zh": "Drug Channels News Roundup, June 2026: PBM Shakeout Accelerates, 340B Enters a New Era, Rebate Questions Persist, Mark Cuban Wins Again, and Ge Bai’s HHS Nomination",
-        "vi": "Drug Channels News Roundup, June 2026: PBM Shakeout Accelerates, 340B Enters a New Era, Rebate Questions Persist, Mark Cuban Wins Again, and Ge Bai’s HHS Nomination",
-        "ja": "Drug Channels News Roundup, June 2026: PBM Shakeout Accelerates, 340B Enters a New Era, Rebate Questions Persist, Mark Cuban Wins Again, and Ge Bai’s HHS Nomination"
-      },
-      "summary": {
-        "en": "By Adam J. Fein, Ph.D. Happy 250th birthday, America! Before you launch your semiquincentennial festivities, Drug Channels offers some fireworks of our own: The PBM Shakeout Is Gaining Momentum 340B: From Opacity and Expansion to Transparency and Accountability Why Do Many Employers Say They Don’t R",
-        "es": "By Adam J. Fein, Ph.D. Happy 250th birthday, America! Before you launch your semiquincentennial festivities, Drug Channels offers some fireworks of our own: The PBM Shakeout Is Gaining Momentum 340B: From Opacity and Expansion to Transparency and Accountability Why Do Many Employers Say They Don’t R",
-        "zh": "By Adam J. Fein, Ph.D. Happy 250th birthday, America! Before you launch your semiquincentennial festivities, Drug Channels offers some fireworks of our own: The PBM Shakeout Is Gaining Momentum 340B: From Opacity and Expansion to Transparency and Accountability Why Do Many Employers Say They Don’t R",
-        "vi": "By Adam J. Fein, Ph.D. Happy 250th birthday, America! Before you launch your semiquincentennial festivities, Drug Channels offers some fireworks of our own: The PBM Shakeout Is Gaining Momentum 340B: From Opacity and Expansion to Transparency and Accountability Why Do Many Employers Say They Don’t R",
-        "ja": "By Adam J. Fein, Ph.D. Happy 250th birthday, America! Before you launch your semiquincentennial festivities, Drug Channels offers some fireworks of our own: The PBM Shakeout Is Gaining Momentum 340B: From Opacity and Expansion to Transparency and Accountability Why Do Many Employers Say They Don’t R"
-      },
-      "category": "PBM",
-      "score": 70,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/958710839/0/drugchannels~Drug-Channels-News-Roundup-June-PBM-Shakeout-Accelerates-B-Enters-a-New-Era-Rebate-Questions-Persist-Mark-Cuban-Wins-Again-and-Ge-Bai%e2%80%99s-HHS-Nomination.html",
-      "published": "Mon, 29 Jun 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/968367749/0/drugchannels~Medicare-Medicaid-and-Reverification-What-Patient-Support-Programs-Need-to-Know-Before-January.html",
-      "headline": {
-        "en": "Medicare, Medicaid, and Reverification: What Patient Support Programs Need to Know Before January 2027",
-        "es": "Medicare, Medicaid, and Reverification: What Patient Support Programs Need to Know Before January 2027",
-        "zh": "Medicare, Medicaid, and Reverification: What Patient Support Programs Need to Know Before January 2027",
-        "vi": "Medicare, Medicaid, and Reverification: What Patient Support Programs Need to Know Before January 2027",
-        "ja": "Medicare, Medicaid, and Reverification: What Patient Support Programs Need to Know Before January 2027"
-      },
-      "summary": {
-        "en": "Today's guest post comes from Bryce Aronson, Director of Business Development at AssistRx. Bryce covers three considerations taking effect in January 2027—the end of Medicare Part D premium support, a faster Medicaid redetermination timeline, and the shift away from once-a-year reverification—and wh",
-        "es": "Today's guest post comes from Bryce Aronson, Director of Business Development at AssistRx. Bryce covers three considerations taking effect in January 2027—the end of Medicare Part D premium support, a faster Medicaid redetermination timeline, and the shift away from once-a-year reverification—and wh",
-        "zh": "Today's guest post comes from Bryce Aronson, Director of Business Development at AssistRx. Bryce covers three considerations taking effect in January 2027—the end of Medicare Part D premium support, a faster Medicaid redetermination timeline, and the shift away from once-a-year reverification—and wh",
-        "vi": "Today's guest post comes from Bryce Aronson, Director of Business Development at AssistRx. Bryce covers three considerations taking effect in January 2027—the end of Medicare Part D premium support, a faster Medicaid redetermination timeline, and the shift away from once-a-year reverification—and wh",
-        "ja": "Today's guest post comes from Bryce Aronson, Director of Business Development at AssistRx. Bryce covers three considerations taking effect in January 2027—the end of Medicare Part D premium support, a faster Medicaid redetermination timeline, and the shift away from once-a-year reverification—and wh"
-      },
-      "category": "Insurance",
-      "score": 65,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/968367749/0/drugchannels~Medicare-Medicaid-and-Reverification-What-Patient-Support-Programs-Need-to-Know-Before-January.html",
-      "published": "Fri, 28 Aug 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/960482435/0/drugchannels~When-Access-Tightens-Prior-Authorization-Execution-Becomes-the-Differentiator.html",
-      "headline": {
-        "en": "When Access Tightens, Prior Authorization Execution Becomes the Differentiator",
-        "es": "When Access Tightens, Prior Authorization Execution Becomes the Differentiator",
-        "zh": "When Access Tightens, Prior Authorization Execution Becomes the Differentiator",
-        "vi": "When Access Tightens, Prior Authorization Execution Becomes the Differentiator",
-        "ja": "When Access Tightens, Prior Authorization Execution Becomes the Differentiator"
-      },
-      "summary": {
-        "en": "Today's guest post comes from Megan Wetzel, Vice President of Product, Access and Affordability at CoverMyMeds. Megan examines how prior authorization execution has become a strategic differentiator for biopharma brands as formulary changes and expanding utilization management put more pressure on a",
-        "es": "Today's guest post comes from Megan Wetzel, Vice President of Product, Access and Affordability at CoverMyMeds. Megan examines how prior authorization execution has become a strategic differentiator for biopharma brands as formulary changes and expanding utilization management put more pressure on a",
-        "zh": "Today's guest post comes from Megan Wetzel, Vice President of Product, Access and Affordability at CoverMyMeds. Megan examines how prior authorization execution has become a strategic differentiator for biopharma brands as formulary changes and expanding utilization management put more pressure on a",
-        "vi": "Today's guest post comes from Megan Wetzel, Vice President of Product, Access and Affordability at CoverMyMeds. Megan examines how prior authorization execution has become a strategic differentiator for biopharma brands as formulary changes and expanding utilization management put more pressure on a",
-        "ja": "Today's guest post comes from Megan Wetzel, Vice President of Product, Access and Affordability at CoverMyMeds. Megan examines how prior authorization execution has become a strategic differentiator for biopharma brands as formulary changes and expanding utilization management put more pressure on a"
-      },
-      "category": "Pharma",
-      "score": 65,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/960482435/0/drugchannels~When-Access-Tightens-Prior-Authorization-Execution-Becomes-the-Differentiator.html",
-      "published": "Fri, 10 Jul 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/968206538/0/drugchannels~Drug-Channels-News-Roundup-August-B-Rebate-Model-v-Patients-Feeling-Drug-Costs-Specialty-Drug-Spending-Drivers-Impact-on-Coverage-from-the-IRA-and-a-Drug-Price.html",
-      "headline": {
-        "en": "Drug Channels News Roundup, August 2026: 340B Rebate Model v2, Patients Feeling Drug Costs, Specialty Drug Spending Drivers, Impact on Coverage from the IRA, and a Drug Price Adventure",
-        "es": "Drug Channels News Roundup, August 2026: 340B Rebate Model v2, Patients Feeling Drug Costs, Specialty Drug Spending Drivers, Impact on Coverage from the IRA, and a Drug Price Adventure",
-        "zh": "Drug Channels News Roundup, August 2026: 340B Rebate Model v2, Patients Feeling Drug Costs, Specialty Drug Spending Drivers, Impact on Coverage from the IRA, and a Drug Price Adventure",
-        "vi": "Drug Channels News Roundup, August 2026: 340B Rebate Model v2, Patients Feeling Drug Costs, Specialty Drug Spending Drivers, Impact on Coverage from the IRA, and a Drug Price Adventure",
-        "ja": "Drug Channels News Roundup, August 2026: 340B Rebate Model v2, Patients Feeling Drug Costs, Specialty Drug Spending Drivers, Impact on Coverage from the IRA, and a Drug Price Adventure"
-      },
-      "summary": {
-        "en": "By Bryce Platt, PharmD Kids are heading back to school, but the drug channel never stops handing out homework. Fortunately, we did some of the research prep for you. In this issue: HRSA's Revised 340B Rebate Model Pilot Households Feel the Cost of Prescription Drugs More The Drivers of Specialty Dru",
-        "es": "By Bryce Platt, PharmD Kids are heading back to school, but the drug channel never stops handing out homework. Fortunately, we did some of the research prep for you. In this issue: HRSA's Revised 340B Rebate Model Pilot Households Feel the Cost of Prescription Drugs More The Drivers of Specialty Dru",
-        "zh": "By Bryce Platt, PharmD Kids are heading back to school, but the drug channel never stops handing out homework. Fortunately, we did some of the research prep for you. In this issue: HRSA's Revised 340B Rebate Model Pilot Households Feel the Cost of Prescription Drugs More The Drivers of Specialty Dru",
-        "vi": "By Bryce Platt, PharmD Kids are heading back to school, but the drug channel never stops handing out homework. Fortunately, we did some of the research prep for you. In this issue: HRSA's Revised 340B Rebate Model Pilot Households Feel the Cost of Prescription Drugs More The Drivers of Specialty Dru",
-        "ja": "By Bryce Platt, PharmD Kids are heading back to school, but the drug channel never stops handing out homework. Fortunately, we did some of the research prep for you. In this issue: HRSA's Revised 340B Rebate Model Pilot Households Feel the Cost of Prescription Drugs More The Drivers of Specialty Dru"
-      },
-      "category": "PBM",
-      "score": 60,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/968206538/0/drugchannels~Drug-Channels-News-Roundup-August-B-Rebate-Model-v-Patients-Feeling-Drug-Costs-Specialty-Drug-Spending-Drivers-Impact-on-Coverage-from-the-IRA-and-a-Drug-Price.html",
-      "published": "Tue, 25 Aug 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/967969280/0/drugchannels~REMS-Removed-Why-CART%e2%80%99s-Expansion-into-Community-Oncology-Could-Benefit-the-Big-Three-Wholesalers.html",
-      "headline": {
-        "en": "REMS Removed: Why CAR-T’s Expansion into Community Oncology Could Benefit the Big Three Wholesalers",
-        "es": "REMS Removed: Why CAR-T’s Expansion into Community Oncology Could Benefit the Big Three Wholesalers",
-        "zh": "REMS Removed: Why CAR-T’s Expansion into Community Oncology Could Benefit the Big Three Wholesalers",
-        "vi": "REMS Removed: Why CAR-T’s Expansion into Community Oncology Could Benefit the Big Three Wholesalers",
-        "ja": "REMS Removed: Why CAR-T’s Expansion into Community Oncology Could Benefit the Big Three Wholesalers"
-      },
-      "summary": {
-        "en": "By Greis Kapexhiu and Adam J. Fein, Ph.D. In June 2025, the FDA announced that CAR-T therapies would no longer be subject to a REMS program . The FDA’s removal of CAR-T REMS requirements eliminates one obstacle to expanding treatment beyond traditional academic medical centers. That change could dis",
-        "es": "By Greis Kapexhiu and Adam J. Fein, Ph.D. In June 2025, the FDA announced that CAR-T therapies would no longer be subject to a REMS program . The FDA’s removal of CAR-T REMS requirements eliminates one obstacle to expanding treatment beyond traditional academic medical centers. That change could dis",
-        "zh": "By Greis Kapexhiu and Adam J. Fein, Ph.D. In June 2025, the FDA announced that CAR-T therapies would no longer be subject to a REMS program . The FDA’s removal of CAR-T REMS requirements eliminates one obstacle to expanding treatment beyond traditional academic medical centers. That change could dis",
-        "vi": "By Greis Kapexhiu and Adam J. Fein, Ph.D. In June 2025, the FDA announced that CAR-T therapies would no longer be subject to a REMS program . The FDA’s removal of CAR-T REMS requirements eliminates one obstacle to expanding treatment beyond traditional academic medical centers. That change could dis",
-        "ja": "By Greis Kapexhiu and Adam J. Fein, Ph.D. In June 2025, the FDA announced that CAR-T therapies would no longer be subject to a REMS program . The FDA’s removal of CAR-T REMS requirements eliminates one obstacle to expanding treatment beyond traditional academic medical centers. That change could dis"
-      },
-      "category": "FDA",
-      "score": 45,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/967969280/0/drugchannels~REMS-Removed-Why-CART%e2%80%99s-Expansion-into-Community-Oncology-Could-Benefit-the-Big-Three-Wholesalers.html",
-      "published": "Tue, 18 Aug 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/967559789/0/drugchannels~Informa-Connect%e2%80%99s-Medicaid-Drug-Rebate-Program-Summit.html",
-      "headline": {
-        "en": "Informa Connect’s Medicaid Drug Rebate Program Summit",
-        "es": "Informa Connect’s Medicaid Drug Rebate Program Summit",
-        "zh": "Informa Connect’s Medicaid Drug Rebate Program Summit",
-        "vi": "Informa Connect’s Medicaid Drug Rebate Program Summit",
-        "ja": "Informa Connect’s Medicaid Drug Rebate Program Summit"
-      },
-      "summary": {
-        "en": "Informa Connect’s Medicaid Drug Rebate Program Summit October 5-7, 2026 | Chicago, IL Drug Channels readers save 10% with code 26DRCH10* View Agenda | Download Brochure The Medicaid Drug Rebate Program Summit returns to Chicago this October! Join 700 annual attendees and nearly 90 expert speakers to",
-        "es": "Informa Connect’s Medicaid Drug Rebate Program Summit October 5-7, 2026 | Chicago, IL Drug Channels readers save 10% with code 26DRCH10* View Agenda | Download Brochure The Medicaid Drug Rebate Program Summit returns to Chicago this October! Join 700 annual attendees and nearly 90 expert speakers to",
-        "zh": "Informa Connect’s Medicaid Drug Rebate Program Summit October 5-7, 2026 | Chicago, IL Drug Channels readers save 10% with code 26DRCH10* View Agenda | Download Brochure The Medicaid Drug Rebate Program Summit returns to Chicago this October! Join 700 annual attendees and nearly 90 expert speakers to",
-        "vi": "Informa Connect’s Medicaid Drug Rebate Program Summit October 5-7, 2026 | Chicago, IL Drug Channels readers save 10% with code 26DRCH10* View Agenda | Download Brochure The Medicaid Drug Rebate Program Summit returns to Chicago this October! Join 700 annual attendees and nearly 90 expert speakers to",
-        "ja": "Informa Connect’s Medicaid Drug Rebate Program Summit October 5-7, 2026 | Chicago, IL Drug Channels readers save 10% with code 26DRCH10* View Agenda | Download Brochure The Medicaid Drug Rebate Program Summit returns to Chicago this October! Join 700 annual attendees and nearly 90 expert speakers to"
-      },
-      "category": "PBM",
-      "score": 40,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/967559789/0/drugchannels~Informa-Connect%e2%80%99s-Medicaid-Drug-Rebate-Program-Summit.html",
-      "published": "Mon, 10 Aug 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/966196043/0/drugchannels~Who-Will-Pay-for-Prescription-Drugs-in-Medicares-Surprising-Rise-in-the-Latest-Government-Forecasts.html",
-      "headline": {
-        "en": "Who Will Pay for Prescription Drugs in 2034? Medicare's Surprising Rise in the Latest Government Forecasts",
-        "es": "Who Will Pay for Prescription Drugs in 2034? Medicare's Surprising Rise in the Latest Government Forecasts",
-        "zh": "Who Will Pay for Prescription Drugs in 2034? Medicare's Surprising Rise in the Latest Government Forecasts",
-        "vi": "Who Will Pay for Prescription Drugs in 2034? Medicare's Surprising Rise in the Latest Government Forecasts",
-        "ja": "Who Will Pay for Prescription Drugs in 2034? Medicare's Surprising Rise in the Latest Government Forecasts"
-      },
-      "summary": {
-        "en": "By Adam J. Fein, Ph.D. and Greis Kapexhiu In late June, the boffins at the Centers for Medicare &amp; Medicaid Services (CMS) released the latest projections for U.S. spending on healthcare. (See links below.) These data provide the latest official, nonpartisan look at the future of U.S. healthcare ",
-        "es": "By Adam J. Fein, Ph.D. and Greis Kapexhiu In late June, the boffins at the Centers for Medicare &amp; Medicaid Services (CMS) released the latest projections for U.S. spending on healthcare. (See links below.) These data provide the latest official, nonpartisan look at the future of U.S. healthcare ",
-        "zh": "By Adam J. Fein, Ph.D. and Greis Kapexhiu In late June, the boffins at the Centers for Medicare &amp; Medicaid Services (CMS) released the latest projections for U.S. spending on healthcare. (See links below.) These data provide the latest official, nonpartisan look at the future of U.S. healthcare ",
-        "vi": "By Adam J. Fein, Ph.D. and Greis Kapexhiu In late June, the boffins at the Centers for Medicare &amp; Medicaid Services (CMS) released the latest projections for U.S. spending on healthcare. (See links below.) These data provide the latest official, nonpartisan look at the future of U.S. healthcare ",
-        "ja": "By Adam J. Fein, Ph.D. and Greis Kapexhiu In late June, the boffins at the Centers for Medicare &amp; Medicaid Services (CMS) released the latest projections for U.S. spending on healthcare. (See links below.) These data provide the latest official, nonpartisan look at the future of U.S. healthcare "
-      },
-      "category": "Insurance",
-      "score": 40,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/966196043/0/drugchannels~Who-Will-Pay-for-Prescription-Drugs-in-Medicares-Surprising-Rise-in-the-Latest-Government-Forecasts.html",
-      "published": "Tue, 04 Aug 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/961224710/0/drugchannels~GrosstoNet-Realities-at-Eight-Top-Drugmakers-The-Net-Pricing-Drug-Channel-Emerges.html",
-      "headline": {
-        "en": "2025 Gross-to-Net Realities at Eight Top Drugmakers: The Net Pricing Drug Channel Emerges",
-        "es": "2025 Gross-to-Net Realities at Eight Top Drugmakers: The Net Pricing Drug Channel Emerges",
-        "zh": "2025 Gross-to-Net Realities at Eight Top Drugmakers: The Net Pricing Drug Channel Emerges",
-        "vi": "2025 Gross-to-Net Realities at Eight Top Drugmakers: The Net Pricing Drug Channel Emerges",
-        "ja": "2025 Gross-to-Net Realities at Eight Top Drugmakers: The Net Pricing Drug Channel Emerges"
-      },
-      "summary": {
-        "en": "By Adam J. Fein, Ph.D. Every year, Drug Channels reviews drug pricing trends at the largest pharmaceutical manufacturers. This year's disclosures provide early evidence that the economics of the U.S. drug channel—and the strategies manufacturers use to secure market access—are beginning to change. W",
-        "es": "By Adam J. Fein, Ph.D. Every year, Drug Channels reviews drug pricing trends at the largest pharmaceutical manufacturers. This year's disclosures provide early evidence that the economics of the U.S. drug channel—and the strategies manufacturers use to secure market access—are beginning to change. W",
-        "zh": "By Adam J. Fein, Ph.D. Every year, Drug Channels reviews drug pricing trends at the largest pharmaceutical manufacturers. This year's disclosures provide early evidence that the economics of the U.S. drug channel—and the strategies manufacturers use to secure market access—are beginning to change. W",
-        "vi": "By Adam J. Fein, Ph.D. Every year, Drug Channels reviews drug pricing trends at the largest pharmaceutical manufacturers. This year's disclosures provide early evidence that the economics of the U.S. drug channel—and the strategies manufacturers use to secure market access—are beginning to change. W",
-        "ja": "By Adam J. Fein, Ph.D. Every year, Drug Channels reviews drug pricing trends at the largest pharmaceutical manufacturers. This year's disclosures provide early evidence that the economics of the U.S. drug channel—and the strategies manufacturers use to secure market access—are beginning to change. W"
-      },
-      "category": "Pricing",
-      "score": 30,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/961224710/0/drugchannels~GrosstoNet-Realities-at-Eight-Top-Drugmakers-The-Net-Pricing-Drug-Channel-Emerges.html",
-      "published": "Tue, 21 Jul 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/960482429/0/drugchannels~The-B-Program-Hit-Billion-in-Has-It-Become-Too-Big-to-Reform.html",
-      "headline": {
-        "en": "The 340B Program Hit $100 Billion in 2025: Has It Become Too Big to Reform?",
-        "es": "The 340B Program Hit $100 Billion in 2025: Has It Become Too Big to Reform?",
-        "zh": "The 340B Program Hit $100 Billion in 2025: Has It Become Too Big to Reform?",
-        "vi": "The 340B Program Hit $100 Billion in 2025: Has It Become Too Big to Reform?",
-        "ja": "The 340B Program Hit $100 Billion in 2025: Has It Become Too Big to Reform?"
-      },
-      "summary": {
-        "en": "By Adam J. Fein, Ph.D. The 340B Drug Pricing Program continues to redefine the meaning of &quot;skyrocketing.&quot; For 2025, discounted purchases under the 340B program reached an astounding $100 billion—23% higher than in 2024. The gross-to-net difference between list prices and discounted 340B pu",
-        "es": "By Adam J. Fein, Ph.D. The 340B Drug Pricing Program continues to redefine the meaning of &quot;skyrocketing.&quot; For 2025, discounted purchases under the 340B program reached an astounding $100 billion—23% higher than in 2024. The gross-to-net difference between list prices and discounted 340B pu",
-        "zh": "By Adam J. Fein, Ph.D. The 340B Drug Pricing Program continues to redefine the meaning of &quot;skyrocketing.&quot; For 2025, discounted purchases under the 340B program reached an astounding $100 billion—23% higher than in 2024. The gross-to-net difference between list prices and discounted 340B pu",
-        "vi": "By Adam J. Fein, Ph.D. The 340B Drug Pricing Program continues to redefine the meaning of &quot;skyrocketing.&quot; For 2025, discounted purchases under the 340B program reached an astounding $100 billion—23% higher than in 2024. The gross-to-net difference between list prices and discounted 340B pu",
-        "ja": "By Adam J. Fein, Ph.D. The 340B Drug Pricing Program continues to redefine the meaning of &quot;skyrocketing.&quot; For 2025, discounted purchases under the 340B program reached an astounding $100 billion—23% higher than in 2024. The gross-to-net difference between list prices and discounted 340B pu"
-      },
-      "category": "Pricing",
-      "score": 30,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/960482429/0/drugchannels~The-B-Program-Hit-Billion-in-Has-It-Become-Too-Big-to-Reform.html",
-      "published": "Wed, 15 Jul 2026 10:30:00 +0000"
-    },
     {
       "id": "https://www.fiercepharma.com/premium/webinar/1383058",
       "headline": {
@@ -365,90 +29,6 @@
       },
       "link": "https://www.fiercepharma.com/premium/webinar/1383058",
       "published": "Mon, 10 Aug 2026 21:34:28 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/957977102/0/drugchannels~Minnesota%e2%80%99s-B-Hospitals-Make-One-Billion-More-From-B-Than-They-Spend-on-Uncompensated-Care-rerun.html",
-      "headline": {
-        "en": "Minnesota’s 340B Hospitals Make One Billion More From 340B Than They Spend on Uncompensated Care (rerun)",
-        "es": "Minnesota’s 340B Hospitals Make One Billion More From 340B Than They Spend on Uncompensated Care (rerun)",
-        "zh": "Minnesota’s 340B Hospitals Make One Billion More From 340B Than They Spend on Uncompensated Care (rerun)",
-        "vi": "Minnesota’s 340B Hospitals Make One Billion More From 340B Than They Spend on Uncompensated Care (rerun)",
-        "ja": "Minnesota’s 340B Hospitals Make One Billion More From 340B Than They Spend on Uncompensated Care (rerun)"
-      },
-      "summary": {
-        "en": "This week, we’re rerunning some popular posts while we prepare for today’s live video webinar: 340B in 2026: Market Shifts, Policy Battles, and What They Mean for Stakeholders . Click here to see the original post from April 2026. By Bryce Platt, PharmD Minnesota’s new 340B data reveal a growing dis",
-        "es": "This week, we’re rerunning some popular posts while we prepare for today’s live video webinar: 340B in 2026: Market Shifts, Policy Battles, and What They Mean for Stakeholders . Click here to see the original post from April 2026. By Bryce Platt, PharmD Minnesota’s new 340B data reveal a growing dis",
-        "zh": "This week, we’re rerunning some popular posts while we prepare for today’s live video webinar: 340B in 2026: Market Shifts, Policy Battles, and What They Mean for Stakeholders . Click here to see the original post from April 2026. By Bryce Platt, PharmD Minnesota’s new 340B data reveal a growing dis",
-        "vi": "This week, we’re rerunning some popular posts while we prepare for today’s live video webinar: 340B in 2026: Market Shifts, Policy Battles, and What They Mean for Stakeholders . Click here to see the original post from April 2026. By Bryce Platt, PharmD Minnesota’s new 340B data reveal a growing dis",
-        "ja": "This week, we’re rerunning some popular posts while we prepare for today’s live video webinar: 340B in 2026: Market Shifts, Policy Battles, and What They Mean for Stakeholders . Click here to see the original post from April 2026. By Bryce Platt, PharmD Minnesota’s new 340B data reveal a growing dis"
-      },
-      "category": "Pharma",
-      "score": 25,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/957977102/0/drugchannels~Minnesota%e2%80%99s-B-Hospitals-Make-One-Billion-More-From-B-Than-They-Spend-on-Uncompensated-Care-rerun.html",
-      "published": "Fri, 12 Jun 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/958115978/0/drugchannels~Drug-Channels-News-Roundup-MidJune-Biosimilar-Development-Barriers-Hospital-Specialty-Pharmacy-Growth-Medicaid-Incentives-Drug-Pricing-Tradeoffs-and-the.html",
-      "headline": {
-        "en": "Drug Channels News Roundup, Mid-June 2026: Biosimilar Development Barriers, Hospital Specialty Pharmacy Growth, Medicaid Incentives, Drug Pricing Tradeoffs, and the Prescription-Filling Process",
-        "es": "Drug Channels News Roundup, Mid-June 2026: Biosimilar Development Barriers, Hospital Specialty Pharmacy Growth, Medicaid Incentives, Drug Pricing Tradeoffs, and the Prescription-Filling Process",
-        "zh": "Drug Channels News Roundup, Mid-June 2026: Biosimilar Development Barriers, Hospital Specialty Pharmacy Growth, Medicaid Incentives, Drug Pricing Tradeoffs, and the Prescription-Filling Process",
-        "vi": "Drug Channels News Roundup, Mid-June 2026: Biosimilar Development Barriers, Hospital Specialty Pharmacy Growth, Medicaid Incentives, Drug Pricing Tradeoffs, and the Prescription-Filling Process",
-        "ja": "Drug Channels News Roundup, Mid-June 2026: Biosimilar Development Barriers, Hospital Specialty Pharmacy Growth, Medicaid Incentives, Drug Pricing Tradeoffs, and the Prescription-Filling Process"
-      },
-      "summary": {
-        "en": "By Bryce Platt, PharmD Summer officially starts this weekend! Consider doing a few of your lifting sets (or work meetings) outside. The healthier you are, the longer you’ll be able to read our news roundups, so everybody wins! In this issue: A Leaky Biosimilar Funnel Reasons for Growth in Hospital S",
-        "es": "By Bryce Platt, PharmD Summer officially starts this weekend! Consider doing a few of your lifting sets (or work meetings) outside. The healthier you are, the longer you’ll be able to read our news roundups, so everybody wins! In this issue: A Leaky Biosimilar Funnel Reasons for Growth in Hospital S",
-        "zh": "By Bryce Platt, PharmD Summer officially starts this weekend! Consider doing a few of your lifting sets (or work meetings) outside. The healthier you are, the longer you’ll be able to read our news roundups, so everybody wins! In this issue: A Leaky Biosimilar Funnel Reasons for Growth in Hospital S",
-        "vi": "By Bryce Platt, PharmD Summer officially starts this weekend! Consider doing a few of your lifting sets (or work meetings) outside. The healthier you are, the longer you’ll be able to read our news roundups, so everybody wins! In this issue: A Leaky Biosimilar Funnel Reasons for Growth in Hospital S",
-        "ja": "By Bryce Platt, PharmD Summer officially starts this weekend! Consider doing a few of your lifting sets (or work meetings) outside. The healthier you are, the longer you’ll be able to read our news roundups, so everybody wins! In this issue: A Leaky Biosimilar Funnel Reasons for Growth in Hospital S"
-      },
-      "category": "Insurance",
-      "score": 20,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/958115978/0/drugchannels~Drug-Channels-News-Roundup-MidJune-Biosimilar-Development-Barriers-Hospital-Specialty-Pharmacy-Growth-Medicaid-Incentives-Drug-Pricing-Tradeoffs-and-the.html",
-      "published": "Wed, 17 Jun 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/967665377/0/drugchannels~The-KShaped-Pharmacy-Shakeout-Consolidation-in-Cities-Lost-Access-in-Rural-America.html",
-      "headline": {
-        "en": "The K-Shaped Pharmacy Shakeout: Consolidation in Cities, Lost Access in Rural America",
-        "es": "The K-Shaped Pharmacy Shakeout: Consolidation in Cities, Lost Access in Rural America",
-        "zh": "The K-Shaped Pharmacy Shakeout: Consolidation in Cities, Lost Access in Rural America",
-        "vi": "The K-Shaped Pharmacy Shakeout: Consolidation in Cities, Lost Access in Rural America",
-        "ja": "The K-Shaped Pharmacy Shakeout: Consolidation in Cities, Lost Access in Rural America"
-      },
-      "summary": {
-        "en": "By Bryce Platt, PharmD The United States has almost 8,000 fewer retail pharmacies than it did in 2018, and more than 2,000 closed in 2025 alone. Rite Aid has liquidated. Walgreens is working through a multi-year plan to shutter hundreds of stores. CVS has trimmed hundreds more. Yet total U.S. prescr",
-        "es": "By Bryce Platt, PharmD The United States has almost 8,000 fewer retail pharmacies than it did in 2018, and more than 2,000 closed in 2025 alone. Rite Aid has liquidated. Walgreens is working through a multi-year plan to shutter hundreds of stores. CVS has trimmed hundreds more. Yet total U.S. prescr",
-        "zh": "By Bryce Platt, PharmD The United States has almost 8,000 fewer retail pharmacies than it did in 2018, and more than 2,000 closed in 2025 alone. Rite Aid has liquidated. Walgreens is working through a multi-year plan to shutter hundreds of stores. CVS has trimmed hundreds more. Yet total U.S. prescr",
-        "vi": "By Bryce Platt, PharmD The United States has almost 8,000 fewer retail pharmacies than it did in 2018, and more than 2,000 closed in 2025 alone. Rite Aid has liquidated. Walgreens is working through a multi-year plan to shutter hundreds of stores. CVS has trimmed hundreds more. Yet total U.S. prescr",
-        "ja": "By Bryce Platt, PharmD The United States has almost 8,000 fewer retail pharmacies than it did in 2018, and more than 2,000 closed in 2025 alone. Rite Aid has liquidated. Walgreens is working through a multi-year plan to shutter hundreds of stores. CVS has trimmed hundreds more. Yet total U.S. prescr"
-      },
-      "category": "Pharma",
-      "score": 10,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/967665377/0/drugchannels~The-KShaped-Pharmacy-Shakeout-Consolidation-in-Cities-Lost-Access-in-Rural-America.html",
-      "published": "Tue, 11 Aug 2026 10:30:00 +0000"
     },
     {
       "id": "https://www.fiercepharma.com/premium/webinar/1383303",
@@ -479,23 +59,23 @@
       "published": "Wed, 19 Aug 2026 17:51:59 +0000"
     },
     {
-      "id": "https://feeds.feedblitz.com/~/968084648/0/drugchannels~Invisible-Work-of-Rare-Pharmacy-Delivers-Highly-Visible-Patient-Outcomes.html",
+      "id": "https://www.fiercepharma.com/resource/q3-benchmark-report-state-patient-access-technology-life-sciences",
       "headline": {
-        "en": "Invisible Work of Rare Pharmacy Delivers Highly Visible Patient Outcomes",
-        "es": "Invisible Work of Rare Pharmacy Delivers Highly Visible Patient Outcomes",
-        "zh": "Invisible Work of Rare Pharmacy Delivers Highly Visible Patient Outcomes",
-        "vi": "Invisible Work of Rare Pharmacy Delivers Highly Visible Patient Outcomes",
-        "ja": "Invisible Work of Rare Pharmacy Delivers Highly Visible Patient Outcomes"
+        "en": "The Q3 Benchmark Report: The State of Patient Access Technology in Life Sciences",
+        "es": "The Q3 Benchmark Report: The State of Patient Access Technology in Life Sciences",
+        "zh": "The Q3 Benchmark Report: The State of Patient Access Technology in Life Sciences",
+        "vi": "The Q3 Benchmark Report: The State of Patient Access Technology in Life Sciences",
+        "ja": "The Q3 Benchmark Report: The State of Patient Access Technology in Life Sciences"
       },
       "summary": {
-        "en": "Today's guest post comes from Jay Weaver, VP, Payer Solutions at PANTHERx ® Rare. Jay describes the clinical and operational work that often happens behind the scenes at a Rare Pharmacy. He explains how these capabilities—including greater personalization, real-world evidence, and specialized clinic",
-        "es": "Today's guest post comes from Jay Weaver, VP, Payer Solutions at PANTHERx ® Rare. Jay describes the clinical and operational work that often happens behind the scenes at a Rare Pharmacy. He explains how these capabilities—including greater personalization, real-world evidence, and specialized clinic",
-        "zh": "Today's guest post comes from Jay Weaver, VP, Payer Solutions at PANTHERx ® Rare. Jay describes the clinical and operational work that often happens behind the scenes at a Rare Pharmacy. He explains how these capabilities—including greater personalization, real-world evidence, and specialized clinic",
-        "vi": "Today's guest post comes from Jay Weaver, VP, Payer Solutions at PANTHERx ® Rare. Jay describes the clinical and operational work that often happens behind the scenes at a Rare Pharmacy. He explains how these capabilities—including greater personalization, real-world evidence, and specialized clinic",
-        "ja": "Today's guest post comes from Jay Weaver, VP, Payer Solutions at PANTHERx ® Rare. Jay describes the clinical and operational work that often happens behind the scenes at a Rare Pharmacy. He explains how these capabilities—including greater personalization, real-world evidence, and specialized clinic"
+        "en": "The Q3 Benchmark Report: The State of Patient Access Technology in Life Sciences Patient access programs are under pressure to do more with increasingly complex workflows. This whitepaper explores how life sciences leaders are using automation and data to improve benefits verification, prior authori",
+        "es": "The Q3 Benchmark Report: The State of Patient Access Technology in Life Sciences Patient access programs are under pressure to do more with increasingly complex workflows. This whitepaper explores how life sciences leaders are using automation and data to improve benefits verification, prior authori",
+        "zh": "The Q3 Benchmark Report: The State of Patient Access Technology in Life Sciences Patient access programs are under pressure to do more with increasingly complex workflows. This whitepaper explores how life sciences leaders are using automation and data to improve benefits verification, prior authori",
+        "vi": "The Q3 Benchmark Report: The State of Patient Access Technology in Life Sciences Patient access programs are under pressure to do more with increasingly complex workflows. This whitepaper explores how life sciences leaders are using automation and data to improve benefits verification, prior authori",
+        "ja": "The Q3 Benchmark Report: The State of Patient Access Technology in Life Sciences Patient access programs are under pressure to do more with increasingly complex workflows. This whitepaper explores how life sciences leaders are using automation and data to improve benefits verification, prior authori"
       },
       "category": "Pharma",
-      "score": 0,
+      "score": -15,
       "patientImpact": {
         "en": "May affect drug access, coverage, or cost.",
         "es": "May affect drug access, coverage, or cost.",
@@ -503,27 +83,27 @@
         "vi": "May affect drug access, coverage, or cost.",
         "ja": "May affect drug access, coverage, or cost."
       },
-      "link": "https://feeds.feedblitz.com/~/968084648/0/drugchannels~Invisible-Work-of-Rare-Pharmacy-Delivers-Highly-Visible-Patient-Outcomes.html",
-      "published": "Fri, 21 Aug 2026 10:30:00 +0000"
+      "link": "https://www.fiercepharma.com/resource/q3-benchmark-report-state-patient-access-technology-life-sciences",
+      "published": "Thu, 20 Aug 2026 18:28:47 +0000"
     },
     {
-      "id": "https://feeds.feedblitz.com/~/967828754/0/drugchannels~Hub-Transitions-Need-Proven-Plans-Smart-ScaleUp.html",
+      "id": "https://www.fiercepharma.com/resource/6-principles-separate-first-launch-leaders-rest",
       "headline": {
-        "en": "Hub Transitions Need Proven Plans, Smart Scale-Up",
-        "es": "Hub Transitions Need Proven Plans, Smart Scale-Up",
-        "zh": "Hub Transitions Need Proven Plans, Smart Scale-Up",
-        "vi": "Hub Transitions Need Proven Plans, Smart Scale-Up",
-        "ja": "Hub Transitions Need Proven Plans, Smart Scale-Up"
+        "en": "6 principles that separate first-launch leaders from the rest",
+        "es": "6 principles that separate first-launch leaders from the rest",
+        "zh": "6 principles that separate first-launch leaders from the rest",
+        "vi": "6 principles that separate first-launch leaders from the rest",
+        "ja": "6 principles that separate first-launch leaders from the rest"
       },
       "summary": {
-        "en": "Today's guest post comes from Josh Marsh, Vice President and General Manager at Cardinal Health Sonexus™ Access and Patient Support. Josh examines the risks manufacturers take when transitioning a patient services hub from one vendor to another. He argues that scaling with a proven, flexible bluepri",
-        "es": "Today's guest post comes from Josh Marsh, Vice President and General Manager at Cardinal Health Sonexus™ Access and Patient Support. Josh examines the risks manufacturers take when transitioning a patient services hub from one vendor to another. He argues that scaling with a proven, flexible bluepri",
-        "zh": "Today's guest post comes from Josh Marsh, Vice President and General Manager at Cardinal Health Sonexus™ Access and Patient Support. Josh examines the risks manufacturers take when transitioning a patient services hub from one vendor to another. He argues that scaling with a proven, flexible bluepri",
-        "vi": "Today's guest post comes from Josh Marsh, Vice President and General Manager at Cardinal Health Sonexus™ Access and Patient Support. Josh examines the risks manufacturers take when transitioning a patient services hub from one vendor to another. He argues that scaling with a proven, flexible bluepri",
-        "ja": "Today's guest post comes from Josh Marsh, Vice President and General Manager at Cardinal Health Sonexus™ Access and Patient Support. Josh examines the risks manufacturers take when transitioning a patient services hub from one vendor to another. He argues that scaling with a proven, flexible bluepri"
+        "en": "6 principles that separate first-launch leaders from the rest Approval is too late to start building the commercial engine. Learn six principles that help first-launch biotech teams use the prelaunch window to build trusted AI, connected workflows and scalable commercial infrastructure before approv",
+        "es": "6 principles that separate first-launch leaders from the rest Approval is too late to start building the commercial engine. Learn six principles that help first-launch biotech teams use the prelaunch window to build trusted AI, connected workflows and scalable commercial infrastructure before approv",
+        "zh": "6 principles that separate first-launch leaders from the rest Approval is too late to start building the commercial engine. Learn six principles that help first-launch biotech teams use the prelaunch window to build trusted AI, connected workflows and scalable commercial infrastructure before approv",
+        "vi": "6 principles that separate first-launch leaders from the rest Approval is too late to start building the commercial engine. Learn six principles that help first-launch biotech teams use the prelaunch window to build trusted AI, connected workflows and scalable commercial infrastructure before approv",
+        "ja": "6 principles that separate first-launch leaders from the rest Approval is too late to start building the commercial engine. Learn six principles that help first-launch biotech teams use the prelaunch window to build trusted AI, connected workflows and scalable commercial infrastructure before approv"
       },
-      "category": "Pharma",
-      "score": 0,
+      "category": "FDA",
+      "score": -30,
       "patientImpact": {
         "en": "May affect drug access, coverage, or cost.",
         "es": "May affect drug access, coverage, or cost.",
@@ -531,176 +111,8 @@
         "vi": "May affect drug access, coverage, or cost.",
         "ja": "May affect drug access, coverage, or cost."
       },
-      "link": "https://feeds.feedblitz.com/~/967828754/0/drugchannels~Hub-Transitions-Need-Proven-Plans-Smart-ScaleUp.html",
-      "published": "Fri, 14 Aug 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/967219904/0/drugchannels~A-System-of-Record-or-a-System-of-Learning.html",
-      "headline": {
-        "en": "A System of Record, or a System of Learning?",
-        "es": "A System of Record, or a System of Learning?",
-        "zh": "A System of Record, or a System of Learning?",
-        "vi": "A System of Record, or a System of Learning?",
-        "ja": "A System of Record, or a System of Learning?"
-      },
-      "summary": {
-        "en": "Today's guest post comes from Scott Filosi, Chief Commercial Officer at Valeris. Scott explores how patient access organizations can move beyond simply tracking the patient journey to using real-time insights to improve it. He argues that connecting commercial strategy, market access, payer intellig",
-        "es": "Today's guest post comes from Scott Filosi, Chief Commercial Officer at Valeris. Scott explores how patient access organizations can move beyond simply tracking the patient journey to using real-time insights to improve it. He argues that connecting commercial strategy, market access, payer intellig",
-        "zh": "Today's guest post comes from Scott Filosi, Chief Commercial Officer at Valeris. Scott explores how patient access organizations can move beyond simply tracking the patient journey to using real-time insights to improve it. He argues that connecting commercial strategy, market access, payer intellig",
-        "vi": "Today's guest post comes from Scott Filosi, Chief Commercial Officer at Valeris. Scott explores how patient access organizations can move beyond simply tracking the patient journey to using real-time insights to improve it. He argues that connecting commercial strategy, market access, payer intellig",
-        "ja": "Today's guest post comes from Scott Filosi, Chief Commercial Officer at Valeris. Scott explores how patient access organizations can move beyond simply tracking the patient journey to using real-time insights to improve it. He argues that connecting commercial strategy, market access, payer intellig"
-      },
-      "category": "Pharma",
-      "score": 0,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/967219904/0/drugchannels~A-System-of-Record-or-a-System-of-Learning.html",
-      "published": "Fri, 07 Aug 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/964938914/0/drugchannels~The-Industry-Doesnt-Have-an-Access-Collaboration-Problem-It-Has-an-Accountability-Problem.html",
-      "headline": {
-        "en": "The Industry Doesn't Have an Access Collaboration Problem. It Has an Accountability Problem.",
-        "es": "The Industry Doesn't Have an Access Collaboration Problem. It Has an Accountability Problem.",
-        "zh": "The Industry Doesn't Have an Access Collaboration Problem. It Has an Accountability Problem.",
-        "vi": "The Industry Doesn't Have an Access Collaboration Problem. It Has an Accountability Problem.",
-        "ja": "The Industry Doesn't Have an Access Collaboration Problem. It Has an Accountability Problem."
-      },
-      "summary": {
-        "en": "Today's guest post comes from Jen Norton, President, Market Access &amp; Value at EVERSANA. Jen examines why fragmented ownership across development, regulatory, pricing, distribution, and field functions undermines access at launch. She argues that naming a single accountable owner for the access o",
-        "es": "Today's guest post comes from Jen Norton, President, Market Access &amp; Value at EVERSANA. Jen examines why fragmented ownership across development, regulatory, pricing, distribution, and field functions undermines access at launch. She argues that naming a single accountable owner for the access o",
-        "zh": "Today's guest post comes from Jen Norton, President, Market Access &amp; Value at EVERSANA. Jen examines why fragmented ownership across development, regulatory, pricing, distribution, and field functions undermines access at launch. She argues that naming a single accountable owner for the access o",
-        "vi": "Today's guest post comes from Jen Norton, President, Market Access &amp; Value at EVERSANA. Jen examines why fragmented ownership across development, regulatory, pricing, distribution, and field functions undermines access at launch. She argues that naming a single accountable owner for the access o",
-        "ja": "Today's guest post comes from Jen Norton, President, Market Access &amp; Value at EVERSANA. Jen examines why fragmented ownership across development, regulatory, pricing, distribution, and field functions undermines access at launch. She argues that naming a single accountable owner for the access o"
-      },
-      "category": "Pricing",
-      "score": 0,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/964938914/0/drugchannels~The-Industry-Doesnt-Have-an-Access-Collaboration-Problem-It-Has-an-Accountability-Problem.html",
-      "published": "Fri, 31 Jul 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/963872867/0/drugchannels~Drug-Channels-News-Roundup-July-Biosimilar-Launch-Strategy-Part-D-Spending-Trends-Rural-B-Hospitals-What-Employers-Can-Do-About-B-and-Drug-Channel-Villains.html",
-      "headline": {
-        "en": "Drug Channels News Roundup, July 2026: Biosimilar Launch Strategy, Part D Spending Trends, Rural 340B Hospitals, What Employers Can Do About 340B, and Drug Channel Villains",
-        "es": "Drug Channels News Roundup, July 2026: Biosimilar Launch Strategy, Part D Spending Trends, Rural 340B Hospitals, What Employers Can Do About 340B, and Drug Channel Villains",
-        "zh": "Drug Channels News Roundup, July 2026: Biosimilar Launch Strategy, Part D Spending Trends, Rural 340B Hospitals, What Employers Can Do About 340B, and Drug Channel Villains",
-        "vi": "Drug Channels News Roundup, July 2026: Biosimilar Launch Strategy, Part D Spending Trends, Rural 340B Hospitals, What Employers Can Do About 340B, and Drug Channel Villains",
-        "ja": "Drug Channels News Roundup, July 2026: Biosimilar Launch Strategy, Part D Spending Trends, Rural 340B Hospitals, What Employers Can Do About 340B, and Drug Channel Villains"
-      },
-      "summary": {
-        "en": "By Bryce Platt, PharmD Summer's in full swing, but the drug channel didn't take a break. What better way to spend the summer than reading about new pharmacy resources in the Drug Channels News Roundup? In this issue: The New Biosimilar Launch Playbook Factors Adding to Part D Cost Trends Rural vs. N",
-        "es": "By Bryce Platt, PharmD Summer's in full swing, but the drug channel didn't take a break. What better way to spend the summer than reading about new pharmacy resources in the Drug Channels News Roundup? In this issue: The New Biosimilar Launch Playbook Factors Adding to Part D Cost Trends Rural vs. N",
-        "zh": "By Bryce Platt, PharmD Summer's in full swing, but the drug channel didn't take a break. What better way to spend the summer than reading about new pharmacy resources in the Drug Channels News Roundup? In this issue: The New Biosimilar Launch Playbook Factors Adding to Part D Cost Trends Rural vs. N",
-        "vi": "By Bryce Platt, PharmD Summer's in full swing, but the drug channel didn't take a break. What better way to spend the summer than reading about new pharmacy resources in the Drug Channels News Roundup? In this issue: The New Biosimilar Launch Playbook Factors Adding to Part D Cost Trends Rural vs. N",
-        "ja": "By Bryce Platt, PharmD Summer's in full swing, but the drug channel didn't take a break. What better way to spend the summer than reading about new pharmacy resources in the Drug Channels News Roundup? In this issue: The New Biosimilar Launch Playbook Factors Adding to Part D Cost Trends Rural vs. N"
-      },
-      "category": "Pharma",
-      "score": 0,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/963872867/0/drugchannels~Drug-Channels-News-Roundup-July-Biosimilar-Launch-Strategy-Part-D-Spending-Trends-Rural-B-Hospitals-What-Employers-Can-Do-About-B-and-Drug-Channel-Villains.html",
-      "published": "Tue, 28 Jul 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/962535857/0/drugchannels~DirecttoPatient-Transforming-the-Manufacturer-Access-Model.html",
-      "headline": {
-        "en": "Direct-to-Patient: Transforming the Manufacturer Access Model",
-        "es": "Direct-to-Patient: Transforming the Manufacturer Access Model",
-        "zh": "Direct-to-Patient: Transforming the Manufacturer Access Model",
-        "vi": "Direct-to-Patient: Transforming the Manufacturer Access Model",
-        "ja": "Direct-to-Patient: Transforming the Manufacturer Access Model"
-      },
-      "summary": {
-        "en": "Today's guest post comes from Chip Parkinson, CEO at Gifthealth. Chip discusses how Direct-to-Patient (DTP) models can transform the manufacturer access model for prescription therapies. He argues that a tech-plus-touch, end-to-end approach can improve patient access, protect manufacturer economics,",
-        "es": "Today's guest post comes from Chip Parkinson, CEO at Gifthealth. Chip discusses how Direct-to-Patient (DTP) models can transform the manufacturer access model for prescription therapies. He argues that a tech-plus-touch, end-to-end approach can improve patient access, protect manufacturer economics,",
-        "zh": "Today's guest post comes from Chip Parkinson, CEO at Gifthealth. Chip discusses how Direct-to-Patient (DTP) models can transform the manufacturer access model for prescription therapies. He argues that a tech-plus-touch, end-to-end approach can improve patient access, protect manufacturer economics,",
-        "vi": "Today's guest post comes from Chip Parkinson, CEO at Gifthealth. Chip discusses how Direct-to-Patient (DTP) models can transform the manufacturer access model for prescription therapies. He argues that a tech-plus-touch, end-to-end approach can improve patient access, protect manufacturer economics,",
-        "ja": "Today's guest post comes from Chip Parkinson, CEO at Gifthealth. Chip discusses how Direct-to-Patient (DTP) models can transform the manufacturer access model for prescription therapies. He argues that a tech-plus-touch, end-to-end approach can improve patient access, protect manufacturer economics,"
-      },
-      "category": "Pharma",
-      "score": 0,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/962535857/0/drugchannels~DirecttoPatient-Transforming-the-Manufacturer-Access-Model.html",
-      "published": "Fri, 24 Jul 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/961224713/0/drugchannels~DirecttoConsumer-Shouldnt-Always-Mean-DirectToMailOrder-Why-Fulfillment-Choice-Matters.html",
-      "headline": {
-        "en": "Direct-to-Consumer Shouldn't Always Mean Direct-To-Mail-Order: Why Fulfillment Choice Matters",
-        "es": "Direct-to-Consumer Shouldn't Always Mean Direct-To-Mail-Order: Why Fulfillment Choice Matters",
-        "zh": "Direct-to-Consumer Shouldn't Always Mean Direct-To-Mail-Order: Why Fulfillment Choice Matters",
-        "vi": "Direct-to-Consumer Shouldn't Always Mean Direct-To-Mail-Order: Why Fulfillment Choice Matters",
-        "ja": "Direct-to-Consumer Shouldn't Always Mean Direct-To-Mail-Order: Why Fulfillment Choice Matters"
-      },
-      "summary": {
-        "en": "Today's guest post comes from Divya Iyer, SVP, Head of Revenue, Pharma Direct at GoodRx. Divya examines why direct-to-consumer strategies shouldn't default to mail-order as the endpoint for every program. She argues that preserving patient choice between retail pickup and home delivery can reduce fr",
-        "es": "Today's guest post comes from Divya Iyer, SVP, Head of Revenue, Pharma Direct at GoodRx. Divya examines why direct-to-consumer strategies shouldn't default to mail-order as the endpoint for every program. She argues that preserving patient choice between retail pickup and home delivery can reduce fr",
-        "zh": "Today's guest post comes from Divya Iyer, SVP, Head of Revenue, Pharma Direct at GoodRx. Divya examines why direct-to-consumer strategies shouldn't default to mail-order as the endpoint for every program. She argues that preserving patient choice between retail pickup and home delivery can reduce fr",
-        "vi": "Today's guest post comes from Divya Iyer, SVP, Head of Revenue, Pharma Direct at GoodRx. Divya examines why direct-to-consumer strategies shouldn't default to mail-order as the endpoint for every program. She argues that preserving patient choice between retail pickup and home delivery can reduce fr",
-        "ja": "Today's guest post comes from Divya Iyer, SVP, Head of Revenue, Pharma Direct at GoodRx. Divya examines why direct-to-consumer strategies shouldn't default to mail-order as the endpoint for every program. She argues that preserving patient choice between retail pickup and home delivery can reduce fr"
-      },
-      "category": "Pharma",
-      "score": 0,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/961224713/0/drugchannels~DirecttoConsumer-Shouldnt-Always-Mean-DirectToMailOrder-Why-Fulfillment-Choice-Matters.html",
-      "published": "Fri, 17 Jul 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/959724413/0/drugchannels~BlinkRx-Insights-The-Questions-Manufacturers-Wish-They-Had-Asked-Before-Selecting-a-Patient-Services-Partner.html",
-      "headline": {
-        "en": "BlinkRx Insights: The Questions Manufacturers Wish They Had Asked Before Selecting a Patient Services Partner",
-        "es": "BlinkRx Insights: The Questions Manufacturers Wish They Had Asked Before Selecting a Patient Services Partner",
-        "zh": "BlinkRx Insights: The Questions Manufacturers Wish They Had Asked Before Selecting a Patient Services Partner",
-        "vi": "BlinkRx Insights: The Questions Manufacturers Wish They Had Asked Before Selecting a Patient Services Partner",
-        "ja": "BlinkRx Insights: The Questions Manufacturers Wish They Had Asked Before Selecting a Patient Services Partner"
-      },
-      "summary": {
-        "en": "Today’s guest post comes from Geoffrey Chaiken and Matthew Chaiken, Co-founders of BlinkRx. Geoffrey and Matthew examine the important role of patient services providers. They suggest several questions manufacturers can ask when evaluating a patient services partner’s technology infrastructure, phar",
-        "es": "Today’s guest post comes from Geoffrey Chaiken and Matthew Chaiken, Co-founders of BlinkRx. Geoffrey and Matthew examine the important role of patient services providers. They suggest several questions manufacturers can ask when evaluating a patient services partner’s technology infrastructure, phar",
-        "zh": "Today’s guest post comes from Geoffrey Chaiken and Matthew Chaiken, Co-founders of BlinkRx. Geoffrey and Matthew examine the important role of patient services providers. They suggest several questions manufacturers can ask when evaluating a patient services partner’s technology infrastructure, phar",
-        "vi": "Today’s guest post comes from Geoffrey Chaiken and Matthew Chaiken, Co-founders of BlinkRx. Geoffrey and Matthew examine the important role of patient services providers. They suggest several questions manufacturers can ask when evaluating a patient services partner’s technology infrastructure, phar",
-        "ja": "Today’s guest post comes from Geoffrey Chaiken and Matthew Chaiken, Co-founders of BlinkRx. Geoffrey and Matthew examine the important role of patient services providers. They suggest several questions manufacturers can ask when evaluating a patient services partner’s technology infrastructure, phar"
-      },
-      "category": "Pharma",
-      "score": 0,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/959724413/0/drugchannels~BlinkRx-Insights-The-Questions-Manufacturers-Wish-They-Had-Asked-Before-Selecting-a-Patient-Services-Partner.html",
-      "published": "Fri, 26 Jun 2026 10:30:00 +0000"
+      "link": "https://www.fiercepharma.com/resource/6-principles-separate-first-launch-leaders-rest",
+      "published": "Thu, 13 Aug 2026 13:55:31 +0000"
     }
   ]
 }
