@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-31T12:50:33.528155Z",
+  "generatedAt": "2026-08-31T22:32:02.612609Z",
   "count": 25,
   "articles": [
     {
@@ -423,6 +423,34 @@
       "published": "Tue, 11 Aug 2026 10:30:00 +0000"
     },
     {
+      "id": "https://www.fiercepharma.com/sponsored/why-real-world-data-becoming-strategic-asset-drug-development",
+      "headline": {
+        "en": "Why real-world data is becoming a strategic asset in drug development",
+        "es": "Why real-world data is becoming a strategic asset in drug development",
+        "zh": "Why real-world data is becoming a strategic asset in drug development",
+        "vi": "Why real-world data is becoming a strategic asset in drug development",
+        "ja": "Why real-world data is becoming a strategic asset in drug development"
+      },
+      "summary": {
+        "en": "Why real-world data is becoming a strategic asset in drug development jpiatt Thu, 08/27/2026 - 09:03",
+        "es": "Why real-world data is becoming a strategic asset in drug development jpiatt Thu, 08/27/2026 - 09:03",
+        "zh": "Why real-world data is becoming a strategic asset in drug development jpiatt Thu, 08/27/2026 - 09:03",
+        "vi": "Why real-world data is becoming a strategic asset in drug development jpiatt Thu, 08/27/2026 - 09:03",
+        "ja": "Why real-world data is becoming a strategic asset in drug development jpiatt Thu, 08/27/2026 - 09:03"
+      },
+      "category": "Pharma",
+      "score": 0,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://www.fiercepharma.com/sponsored/why-real-world-data-becoming-strategic-asset-drug-development",
+      "published": "Thu, 27 Aug 2026 13:03:44 +0000"
+    },
+    {
       "id": "https://www.fiercepharma.com/premium/webinar/1383303",
       "headline": {
         "en": "Finding the Invisible: AI for Rare Disease Patient Identification",
@@ -673,34 +701,6 @@
       },
       "link": "https://feeds.feedblitz.com/~/959724413/0/drugchannels~BlinkRx-Insights-The-Questions-Manufacturers-Wish-They-Had-Asked-Before-Selecting-a-Patient-Services-Partner.html",
       "published": "Fri, 26 Jun 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/958318340/0/drugchannels~Pharmacist-Salaries-and-Employment-in-Retail-Declines-Hospital-Gains.html",
-      "headline": {
-        "en": "Pharmacist Salaries and Employment in 2025: Retail Declines, Hospital Gains",
-        "es": "Pharmacist Salaries and Employment in 2025: Retail Declines, Hospital Gains",
-        "zh": "Pharmacist Salaries and Employment in 2025: Retail Declines, Hospital Gains",
-        "vi": "Pharmacist Salaries and Employment in 2025: Retail Declines, Hospital Gains",
-        "ja": "Pharmacist Salaries and Employment in 2025: Retail Declines, Hospital Gains"
-      },
-      "summary": {
-        "en": "By Adam J. Fein, Ph.D. and Greis Kapexhiu It’s time for Drug Channels ’ annual look at pharmacist salaries and employment. The latest data might be a tough pill to swallow. As we predicted, the situation was grim for retail pharmacists. Employment in retail outpatient pharmacies fell by 8,200 positi",
-        "es": "By Adam J. Fein, Ph.D. and Greis Kapexhiu It’s time for Drug Channels ’ annual look at pharmacist salaries and employment. The latest data might be a tough pill to swallow. As we predicted, the situation was grim for retail pharmacists. Employment in retail outpatient pharmacies fell by 8,200 positi",
-        "zh": "By Adam J. Fein, Ph.D. and Greis Kapexhiu It’s time for Drug Channels ’ annual look at pharmacist salaries and employment. The latest data might be a tough pill to swallow. As we predicted, the situation was grim for retail pharmacists. Employment in retail outpatient pharmacies fell by 8,200 positi",
-        "vi": "By Adam J. Fein, Ph.D. and Greis Kapexhiu It’s time for Drug Channels ’ annual look at pharmacist salaries and employment. The latest data might be a tough pill to swallow. As we predicted, the situation was grim for retail pharmacists. Employment in retail outpatient pharmacies fell by 8,200 positi",
-        "ja": "By Adam J. Fein, Ph.D. and Greis Kapexhiu It’s time for Drug Channels ’ annual look at pharmacist salaries and employment. The latest data might be a tough pill to swallow. As we predicted, the situation was grim for retail pharmacists. Employment in retail outpatient pharmacies fell by 8,200 positi"
-      },
-      "category": "Pharma",
-      "score": 0,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/958318340/0/drugchannels~Pharmacist-Salaries-and-Employment-in-Retail-Declines-Hospital-Gains.html",
-      "published": "Tue, 23 Jun 2026 10:30:00 +0000"
     }
   ]
 }
