@@ -1,7 +1,35 @@
 {
-  "generatedAt": "2026-09-01T03:48:05.766056Z",
+  "generatedAt": "2026-09-01T11:11:18.941266Z",
   "count": 25,
   "articles": [
+    {
+      "id": "https://feeds.feedblitz.com/~/968482931/0/drugchannels~The-Private-Label-Biosimilar-Paradox-in-Medicare-Part-D.html",
+      "headline": {
+        "en": "The Private Label Biosimilar Paradox in Medicare Part D",
+        "es": "The Private Label Biosimilar Paradox in Medicare Part D",
+        "zh": "The Private Label Biosimilar Paradox in Medicare Part D",
+        "vi": "The Private Label Biosimilar Paradox in Medicare Part D",
+        "ja": "The Private Label Biosimilar Paradox in Medicare Part D"
+      },
+      "summary": {
+        "en": "By Tyler Novotny and Bryce Platt PBM-affiliated private label biosimilars would seem to have a built-in formulary advantage. But for ustekinumab, that advantage has not carried over to Medicare Part D. A recent JAMA Network Open study identified 12 ustekinumab products available for formulary covera",
+        "es": "By Tyler Novotny and Bryce Platt PBM-affiliated private label biosimilars would seem to have a built-in formulary advantage. But for ustekinumab, that advantage has not carried over to Medicare Part D. A recent JAMA Network Open study identified 12 ustekinumab products available for formulary covera",
+        "zh": "By Tyler Novotny and Bryce Platt PBM-affiliated private label biosimilars would seem to have a built-in formulary advantage. But for ustekinumab, that advantage has not carried over to Medicare Part D. A recent JAMA Network Open study identified 12 ustekinumab products available for formulary covera",
+        "vi": "By Tyler Novotny and Bryce Platt PBM-affiliated private label biosimilars would seem to have a built-in formulary advantage. But for ustekinumab, that advantage has not carried over to Medicare Part D. A recent JAMA Network Open study identified 12 ustekinumab products available for formulary covera",
+        "ja": "By Tyler Novotny and Bryce Platt PBM-affiliated private label biosimilars would seem to have a built-in formulary advantage. But for ustekinumab, that advantage has not carried over to Medicare Part D. A recent JAMA Network Open study identified 12 ustekinumab products available for formulary covera"
+      },
+      "category": "PBM",
+      "score": 100,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://feeds.feedblitz.com/~/968482931/0/drugchannels~The-Private-Label-Biosimilar-Paradox-in-Medicare-Part-D.html",
+      "published": "Tue, 01 Sep 2026 10:30:00 +0000"
+    },
     {
       "id": "https://feeds.feedblitz.com/~/958085078/0/drugchannels~The-IRA-Fixed-One-Medicare-Part-D-Distortion%e2%80%94But-Patients-Now-Face-New-Tradeoffs.html",
       "headline": {
@@ -337,34 +365,6 @@
       },
       "link": "https://feeds.feedblitz.com/~/960482429/0/drugchannels~The-B-Program-Hit-Billion-in-Has-It-Become-Too-Big-to-Reform.html",
       "published": "Wed, 15 Jul 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/957977102/0/drugchannels~Minnesota%e2%80%99s-B-Hospitals-Make-One-Billion-More-From-B-Than-They-Spend-on-Uncompensated-Care-rerun.html",
-      "headline": {
-        "en": "Minnesota’s 340B Hospitals Make One Billion More From 340B Than They Spend on Uncompensated Care (rerun)",
-        "es": "Minnesota’s 340B Hospitals Make One Billion More From 340B Than They Spend on Uncompensated Care (rerun)",
-        "zh": "Minnesota’s 340B Hospitals Make One Billion More From 340B Than They Spend on Uncompensated Care (rerun)",
-        "vi": "Minnesota’s 340B Hospitals Make One Billion More From 340B Than They Spend on Uncompensated Care (rerun)",
-        "ja": "Minnesota’s 340B Hospitals Make One Billion More From 340B Than They Spend on Uncompensated Care (rerun)"
-      },
-      "summary": {
-        "en": "This week, we’re rerunning some popular posts while we prepare for today’s live video webinar: 340B in 2026: Market Shifts, Policy Battles, and What They Mean for Stakeholders . Click here to see the original post from April 2026. By Bryce Platt, PharmD Minnesota’s new 340B data reveal a growing dis",
-        "es": "This week, we’re rerunning some popular posts while we prepare for today’s live video webinar: 340B in 2026: Market Shifts, Policy Battles, and What They Mean for Stakeholders . Click here to see the original post from April 2026. By Bryce Platt, PharmD Minnesota’s new 340B data reveal a growing dis",
-        "zh": "This week, we’re rerunning some popular posts while we prepare for today’s live video webinar: 340B in 2026: Market Shifts, Policy Battles, and What They Mean for Stakeholders . Click here to see the original post from April 2026. By Bryce Platt, PharmD Minnesota’s new 340B data reveal a growing dis",
-        "vi": "This week, we’re rerunning some popular posts while we prepare for today’s live video webinar: 340B in 2026: Market Shifts, Policy Battles, and What They Mean for Stakeholders . Click here to see the original post from April 2026. By Bryce Platt, PharmD Minnesota’s new 340B data reveal a growing dis",
-        "ja": "This week, we’re rerunning some popular posts while we prepare for today’s live video webinar: 340B in 2026: Market Shifts, Policy Battles, and What They Mean for Stakeholders . Click here to see the original post from April 2026. By Bryce Platt, PharmD Minnesota’s new 340B data reveal a growing dis"
-      },
-      "category": "Pharma",
-      "score": 25,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/957977102/0/drugchannels~Minnesota%e2%80%99s-B-Hospitals-Make-One-Billion-More-From-B-Than-They-Spend-on-Uncompensated-Care-rerun.html",
-      "published": "Fri, 12 Jun 2026 10:30:00 +0000"
     },
     {
       "id": "https://feeds.feedblitz.com/~/958115978/0/drugchannels~Drug-Channels-News-Roundup-MidJune-Biosimilar-Development-Barriers-Hospital-Specialty-Pharmacy-Growth-Medicaid-Incentives-Drug-Pricing-Tradeoffs-and-the.html",
