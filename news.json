@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T16:02:26.034487Z",
+  "generatedAt": "2026-09-02T20:34:21.562670Z",
   "count": 25,
   "articles": [
     {
@@ -423,6 +423,34 @@
       "published": "Tue, 11 Aug 2026 10:30:00 +0000"
     },
     {
+      "id": "https://www.fiercepharma.com/premium/webinar/1383479",
+      "headline": {
+        "en": "Beyond Competitive Intelligence: Predicting Commercial Success Earlier in Drug Development",
+        "es": "Beyond Competitive Intelligence: Predicting Commercial Success Earlier in Drug Development",
+        "zh": "Beyond Competitive Intelligence: Predicting Commercial Success Earlier in Drug Development",
+        "vi": "Beyond Competitive Intelligence: Predicting Commercial Success Earlier in Drug Development",
+        "ja": "Beyond Competitive Intelligence: Predicting Commercial Success Earlier in Drug Development"
+      },
+      "summary": {
+        "en": "Beyond Competitive Intelligence: Predicting Commercial Success Earlier in Drug Development jpiatt Thu, 08/27/2026 - 12:00 Thu, 10/15/2026 - 12:00 Resource Type Webinar Promotion End Tue, 03/02/2027 - 10:32 Pharma companies spend significant time and resources monitoring competitors and analyzing wha",
+        "es": "Beyond Competitive Intelligence: Predicting Commercial Success Earlier in Drug Development jpiatt Thu, 08/27/2026 - 12:00 Thu, 10/15/2026 - 12:00 Resource Type Webinar Promotion End Tue, 03/02/2027 - 10:32 Pharma companies spend significant time and resources monitoring competitors and analyzing wha",
+        "zh": "Beyond Competitive Intelligence: Predicting Commercial Success Earlier in Drug Development jpiatt Thu, 08/27/2026 - 12:00 Thu, 10/15/2026 - 12:00 Resource Type Webinar Promotion End Tue, 03/02/2027 - 10:32 Pharma companies spend significant time and resources monitoring competitors and analyzing wha",
+        "vi": "Beyond Competitive Intelligence: Predicting Commercial Success Earlier in Drug Development jpiatt Thu, 08/27/2026 - 12:00 Thu, 10/15/2026 - 12:00 Resource Type Webinar Promotion End Tue, 03/02/2027 - 10:32 Pharma companies spend significant time and resources monitoring competitors and analyzing wha",
+        "ja": "Beyond Competitive Intelligence: Predicting Commercial Success Earlier in Drug Development jpiatt Thu, 08/27/2026 - 12:00 Thu, 10/15/2026 - 12:00 Resource Type Webinar Promotion End Tue, 03/02/2027 - 10:32 Pharma companies spend significant time and resources monitoring competitors and analyzing wha"
+      },
+      "category": "Pharma",
+      "score": 0,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://www.fiercepharma.com/premium/webinar/1383479",
+      "published": "Thu, 27 Aug 2026 16:00:52 +0000"
+    },
+    {
       "id": "https://www.fiercepharma.com/sponsored/why-real-world-data-becoming-strategic-asset-drug-development",
       "headline": {
         "en": "Why real-world data is becoming a strategic asset in drug development",
@@ -673,34 +701,6 @@
       },
       "link": "https://feeds.feedblitz.com/~/961224713/0/drugchannels~DirecttoConsumer-Shouldnt-Always-Mean-DirectToMailOrder-Why-Fulfillment-Choice-Matters.html",
       "published": "Fri, 17 Jul 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/959724413/0/drugchannels~BlinkRx-Insights-The-Questions-Manufacturers-Wish-They-Had-Asked-Before-Selecting-a-Patient-Services-Partner.html",
-      "headline": {
-        "en": "BlinkRx Insights: The Questions Manufacturers Wish They Had Asked Before Selecting a Patient Services Partner",
-        "es": "BlinkRx Insights: The Questions Manufacturers Wish They Had Asked Before Selecting a Patient Services Partner",
-        "zh": "BlinkRx Insights: The Questions Manufacturers Wish They Had Asked Before Selecting a Patient Services Partner",
-        "vi": "BlinkRx Insights: The Questions Manufacturers Wish They Had Asked Before Selecting a Patient Services Partner",
-        "ja": "BlinkRx Insights: The Questions Manufacturers Wish They Had Asked Before Selecting a Patient Services Partner"
-      },
-      "summary": {
-        "en": "Today’s guest post comes from Geoffrey Chaiken and Matthew Chaiken, Co-founders of BlinkRx. Geoffrey and Matthew examine the important role of patient services providers. They suggest several questions manufacturers can ask when evaluating a patient services partner’s technology infrastructure, phar",
-        "es": "Today’s guest post comes from Geoffrey Chaiken and Matthew Chaiken, Co-founders of BlinkRx. Geoffrey and Matthew examine the important role of patient services providers. They suggest several questions manufacturers can ask when evaluating a patient services partner’s technology infrastructure, phar",
-        "zh": "Today’s guest post comes from Geoffrey Chaiken and Matthew Chaiken, Co-founders of BlinkRx. Geoffrey and Matthew examine the important role of patient services providers. They suggest several questions manufacturers can ask when evaluating a patient services partner’s technology infrastructure, phar",
-        "vi": "Today’s guest post comes from Geoffrey Chaiken and Matthew Chaiken, Co-founders of BlinkRx. Geoffrey and Matthew examine the important role of patient services providers. They suggest several questions manufacturers can ask when evaluating a patient services partner’s technology infrastructure, phar",
-        "ja": "Today’s guest post comes from Geoffrey Chaiken and Matthew Chaiken, Co-founders of BlinkRx. Geoffrey and Matthew examine the important role of patient services providers. They suggest several questions manufacturers can ask when evaluating a patient services partner’s technology infrastructure, phar"
-      },
-      "category": "Pharma",
-      "score": 0,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/959724413/0/drugchannels~BlinkRx-Insights-The-Questions-Manufacturers-Wish-They-Had-Asked-Before-Selecting-a-Patient-Services-Partner.html",
-      "published": "Fri, 26 Jun 2026 10:30:00 +0000"
     }
   ]
 }
