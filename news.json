@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T03:10:07.188745Z",
+  "generatedAt": "2026-09-03T10:45:03.539304Z",
   "count": 25,
   "articles": [
     {
@@ -29,34 +29,6 @@
       },
       "link": "https://feeds.feedblitz.com/~/968482931/0/drugchannels~The-Private-Label-Biosimilar-Paradox-in-Medicare-Part-D.html",
       "published": "Tue, 01 Sep 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/958085078/0/drugchannels~The-IRA-Fixed-One-Medicare-Part-D-Distortion%e2%80%94But-Patients-Now-Face-New-Tradeoffs.html",
-      "headline": {
-        "en": "The IRA Fixed One Medicare Part D Distortion—But Patients Now Face New Tradeoffs",
-        "es": "The IRA Fixed One Medicare Part D Distortion—But Patients Now Face New Tradeoffs",
-        "zh": "The IRA Fixed One Medicare Part D Distortion—But Patients Now Face New Tradeoffs",
-        "vi": "The IRA Fixed One Medicare Part D Distortion—But Patients Now Face New Tradeoffs",
-        "ja": "The IRA Fixed One Medicare Part D Distortion—But Patients Now Face New Tradeoffs"
-      },
-      "summary": {
-        "en": "By Bryce Platt, PharmD For years, Medicare Part D plans often preferred high-list/high-rebate branded multiple sclerosis (MS) drugs over lower-cost generics. That was rational behavior inside an irrational system. The Inflation Reduction Act (IRA) offers one example of how incentives can change beha",
-        "es": "By Bryce Platt, PharmD For years, Medicare Part D plans often preferred high-list/high-rebate branded multiple sclerosis (MS) drugs over lower-cost generics. That was rational behavior inside an irrational system. The Inflation Reduction Act (IRA) offers one example of how incentives can change beha",
-        "zh": "By Bryce Platt, PharmD For years, Medicare Part D plans often preferred high-list/high-rebate branded multiple sclerosis (MS) drugs over lower-cost generics. That was rational behavior inside an irrational system. The Inflation Reduction Act (IRA) offers one example of how incentives can change beha",
-        "vi": "By Bryce Platt, PharmD For years, Medicare Part D plans often preferred high-list/high-rebate branded multiple sclerosis (MS) drugs over lower-cost generics. That was rational behavior inside an irrational system. The Inflation Reduction Act (IRA) offers one example of how incentives can change beha",
-        "ja": "By Bryce Platt, PharmD For years, Medicare Part D plans often preferred high-list/high-rebate branded multiple sclerosis (MS) drugs over lower-cost generics. That was rational behavior inside an irrational system. The Inflation Reduction Act (IRA) offers one example of how incentives can change beha"
-      },
-      "category": "PBM",
-      "score": 90,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/958085078/0/drugchannels~The-IRA-Fixed-One-Medicare-Part-D-Distortion%e2%80%94But-Patients-Now-Face-New-Tradeoffs.html",
-      "published": "Tue, 16 Jun 2026 10:30:00 +0000"
     },
     {
       "id": "https://feeds.feedblitz.com/~/959724410/0/drugchannels~The-Hidden-Cost-of-B-for-Employers-and-Health-Plans.html",
@@ -311,6 +283,34 @@
       "published": "Tue, 04 Aug 2026 10:30:00 +0000"
     },
     {
+      "id": "https://www.fiercepharma.com/premium/webinar/1383480",
+      "headline": {
+        "en": "The Hub Transition Tightrope: Balancing Risk, Continuity and Growth",
+        "es": "The Hub Transition Tightrope: Balancing Risk, Continuity and Growth",
+        "zh": "The Hub Transition Tightrope: Balancing Risk, Continuity and Growth",
+        "vi": "The Hub Transition Tightrope: Balancing Risk, Continuity and Growth",
+        "ja": "The Hub Transition Tightrope: Balancing Risk, Continuity and Growth"
+      },
+      "summary": {
+        "en": "The Hub Transition Tightrope: Balancing Risk, Continuity and Growth scox Thu, 08/27/2026 - 12:45 Thu, 10/08/2026 - 12:00 Resource Type Webinar Derek Todd Susanne Orth Bo Jeon, PharmD Sunia Khatri Promotion End Wed, 03/03/2027 - 20:13 No manufacturer initiates a hub transition lightly. &nbsp; As mark",
+        "es": "The Hub Transition Tightrope: Balancing Risk, Continuity and Growth scox Thu, 08/27/2026 - 12:45 Thu, 10/08/2026 - 12:00 Resource Type Webinar Derek Todd Susanne Orth Bo Jeon, PharmD Sunia Khatri Promotion End Wed, 03/03/2027 - 20:13 No manufacturer initiates a hub transition lightly. &nbsp; As mark",
+        "zh": "The Hub Transition Tightrope: Balancing Risk, Continuity and Growth scox Thu, 08/27/2026 - 12:45 Thu, 10/08/2026 - 12:00 Resource Type Webinar Derek Todd Susanne Orth Bo Jeon, PharmD Sunia Khatri Promotion End Wed, 03/03/2027 - 20:13 No manufacturer initiates a hub transition lightly. &nbsp; As mark",
+        "vi": "The Hub Transition Tightrope: Balancing Risk, Continuity and Growth scox Thu, 08/27/2026 - 12:45 Thu, 10/08/2026 - 12:00 Resource Type Webinar Derek Todd Susanne Orth Bo Jeon, PharmD Sunia Khatri Promotion End Wed, 03/03/2027 - 20:13 No manufacturer initiates a hub transition lightly. &nbsp; As mark",
+        "ja": "The Hub Transition Tightrope: Balancing Risk, Continuity and Growth scox Thu, 08/27/2026 - 12:45 Thu, 10/08/2026 - 12:00 Resource Type Webinar Derek Todd Susanne Orth Bo Jeon, PharmD Sunia Khatri Promotion End Wed, 03/03/2027 - 20:13 No manufacturer initiates a hub transition lightly. &nbsp; As mark"
+      },
+      "category": "Pharma",
+      "score": 30,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://www.fiercepharma.com/premium/webinar/1383480",
+      "published": "Thu, 27 Aug 2026 16:45:30 +0000"
+    },
+    {
       "id": "https://feeds.feedblitz.com/~/961224710/0/drugchannels~GrosstoNet-Realities-at-Eight-Top-Drugmakers-The-Net-Pricing-Drug-Channel-Emerges.html",
       "headline": {
         "en": "2025 Gross-to-Net Realities at Eight Top Drugmakers: The Net Pricing Drug Channel Emerges",
@@ -479,20 +479,20 @@
       "published": "Thu, 27 Aug 2026 13:03:44 +0000"
     },
     {
-      "id": "https://www.fiercepharma.com/premium/webinar/1383303",
+      "id": "https://feeds.feedblitz.com/~/968519744/0/drugchannels~BlinkRx-Insights-Beyond-the-Hub-Rethinking-the-Prescription-Journey.html",
       "headline": {
-        "en": "Finding the Invisible: AI for Rare Disease Patient Identification",
-        "es": "Finding the Invisible: AI for Rare Disease Patient Identification",
-        "zh": "Finding the Invisible: AI for Rare Disease Patient Identification",
-        "vi": "Finding the Invisible: AI for Rare Disease Patient Identification",
-        "ja": "Finding the Invisible: AI for Rare Disease Patient Identification"
+        "en": "BlinkRx Insights: Beyond the Hub - Rethinking the Prescription Journey",
+        "es": "BlinkRx Insights: Beyond the Hub - Rethinking the Prescription Journey",
+        "zh": "BlinkRx Insights: Beyond the Hub - Rethinking the Prescription Journey",
+        "vi": "BlinkRx Insights: Beyond the Hub - Rethinking the Prescription Journey",
+        "ja": "BlinkRx Insights: Beyond the Hub - Rethinking the Prescription Journey"
       },
       "summary": {
-        "en": "Finding the Invisible: AI for Rare Disease Patient Identification pesurya Wed, 08/19/2026 - 13:51 Thu, 09/24/2026 - 11:00 Resource Type Webinar Melissa Bojorquez Tim Jones Promotion Start Mon, 08/24/2026 - 12:08 Promotion End Wed, 02/24/2027 - 12:08 Rare disease patients often face lengthy diagnosti",
-        "es": "Finding the Invisible: AI for Rare Disease Patient Identification pesurya Wed, 08/19/2026 - 13:51 Thu, 09/24/2026 - 11:00 Resource Type Webinar Melissa Bojorquez Tim Jones Promotion Start Mon, 08/24/2026 - 12:08 Promotion End Wed, 02/24/2027 - 12:08 Rare disease patients often face lengthy diagnosti",
-        "zh": "Finding the Invisible: AI for Rare Disease Patient Identification pesurya Wed, 08/19/2026 - 13:51 Thu, 09/24/2026 - 11:00 Resource Type Webinar Melissa Bojorquez Tim Jones Promotion Start Mon, 08/24/2026 - 12:08 Promotion End Wed, 02/24/2027 - 12:08 Rare disease patients often face lengthy diagnosti",
-        "vi": "Finding the Invisible: AI for Rare Disease Patient Identification pesurya Wed, 08/19/2026 - 13:51 Thu, 09/24/2026 - 11:00 Resource Type Webinar Melissa Bojorquez Tim Jones Promotion Start Mon, 08/24/2026 - 12:08 Promotion End Wed, 02/24/2027 - 12:08 Rare disease patients often face lengthy diagnosti",
-        "ja": "Finding the Invisible: AI for Rare Disease Patient Identification pesurya Wed, 08/19/2026 - 13:51 Thu, 09/24/2026 - 11:00 Resource Type Webinar Melissa Bojorquez Tim Jones Promotion Start Mon, 08/24/2026 - 12:08 Promotion End Wed, 02/24/2027 - 12:08 Rare disease patients often face lengthy diagnosti"
+        "en": "Today's guest post comes from Geoffrey Chaiken and Matthew Chaiken, Co-founders of BlinkRx. Geoffrey and Matthew examine how efforts to improve patient access have contributed to an increasingly fragmented prescription journey. They suggest that a more integrated approach can reduce complexity, impr",
+        "es": "Today's guest post comes from Geoffrey Chaiken and Matthew Chaiken, Co-founders of BlinkRx. Geoffrey and Matthew examine how efforts to improve patient access have contributed to an increasingly fragmented prescription journey. They suggest that a more integrated approach can reduce complexity, impr",
+        "zh": "Today's guest post comes from Geoffrey Chaiken and Matthew Chaiken, Co-founders of BlinkRx. Geoffrey and Matthew examine how efforts to improve patient access have contributed to an increasingly fragmented prescription journey. They suggest that a more integrated approach can reduce complexity, impr",
+        "vi": "Today's guest post comes from Geoffrey Chaiken and Matthew Chaiken, Co-founders of BlinkRx. Geoffrey and Matthew examine how efforts to improve patient access have contributed to an increasingly fragmented prescription journey. They suggest that a more integrated approach can reduce complexity, impr",
+        "ja": "Today's guest post comes from Geoffrey Chaiken and Matthew Chaiken, Co-founders of BlinkRx. Geoffrey and Matthew examine how efforts to improve patient access have contributed to an increasingly fragmented prescription journey. They suggest that a more integrated approach can reduce complexity, impr"
       },
       "category": "Pharma",
       "score": 0,
@@ -503,8 +503,8 @@
         "vi": "May affect drug access, coverage, or cost.",
         "ja": "May affect drug access, coverage, or cost."
       },
-      "link": "https://www.fiercepharma.com/premium/webinar/1383303",
-      "published": "Wed, 19 Aug 2026 17:51:59 +0000"
+      "link": "https://feeds.feedblitz.com/~/968519744/0/drugchannels~BlinkRx-Insights-Beyond-the-Hub-Rethinking-the-Prescription-Journey.html",
+      "published": "Thu, 03 Sep 2026 10:30:00 +0000"
     },
     {
       "id": "https://feeds.feedblitz.com/~/968084648/0/drugchannels~Invisible-Work-of-Rare-Pharmacy-Delivers-Highly-Visible-Patient-Outcomes.html",
