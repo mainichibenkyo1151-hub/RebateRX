@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-08T16:04:40.837423Z",
+  "generatedAt": "2026-09-08T20:46:37.718336Z",
   "count": 25,
   "articles": [
     {
@@ -423,6 +423,34 @@
       "published": "Tue, 11 Aug 2026 10:30:00 +0000"
     },
     {
+      "id": "https://www.fiercepharma.com/premium/webinar/1383645",
+      "headline": {
+        "en": "Unlocking KATs as Cancer Drug Targets: From Inhibitor Discovery to Translational Epigenomics",
+        "es": "Unlocking KATs as Cancer Drug Targets: From Inhibitor Discovery to Translational Epigenomics",
+        "zh": "Unlocking KATs as Cancer Drug Targets: From Inhibitor Discovery to Translational Epigenomics",
+        "vi": "Unlocking KATs as Cancer Drug Targets: From Inhibitor Discovery to Translational Epigenomics",
+        "ja": "Unlocking KATs as Cancer Drug Targets: From Inhibitor Discovery to Translational Epigenomics"
+      },
+      "summary": {
+        "en": "Unlocking KATs as Cancer Drug Targets: From Inhibitor Discovery to Translational Epigenomics jpiatt Thu, 09/03/2026 - 07:48 Wed, 10/14/2026 - 13:00 Resource Type Webinar Thomas Paul, Ph.D. Lysine acetyltransferases (KATs) are a family of enzymes involved in the epigenetic regulation of gene expressi",
+        "es": "Unlocking KATs as Cancer Drug Targets: From Inhibitor Discovery to Translational Epigenomics jpiatt Thu, 09/03/2026 - 07:48 Wed, 10/14/2026 - 13:00 Resource Type Webinar Thomas Paul, Ph.D. Lysine acetyltransferases (KATs) are a family of enzymes involved in the epigenetic regulation of gene expressi",
+        "zh": "Unlocking KATs as Cancer Drug Targets: From Inhibitor Discovery to Translational Epigenomics jpiatt Thu, 09/03/2026 - 07:48 Wed, 10/14/2026 - 13:00 Resource Type Webinar Thomas Paul, Ph.D. Lysine acetyltransferases (KATs) are a family of enzymes involved in the epigenetic regulation of gene expressi",
+        "vi": "Unlocking KATs as Cancer Drug Targets: From Inhibitor Discovery to Translational Epigenomics jpiatt Thu, 09/03/2026 - 07:48 Wed, 10/14/2026 - 13:00 Resource Type Webinar Thomas Paul, Ph.D. Lysine acetyltransferases (KATs) are a family of enzymes involved in the epigenetic regulation of gene expressi",
+        "ja": "Unlocking KATs as Cancer Drug Targets: From Inhibitor Discovery to Translational Epigenomics jpiatt Thu, 09/03/2026 - 07:48 Wed, 10/14/2026 - 13:00 Resource Type Webinar Thomas Paul, Ph.D. Lysine acetyltransferases (KATs) are a family of enzymes involved in the epigenetic regulation of gene expressi"
+      },
+      "category": "Pharma",
+      "score": 0,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://www.fiercepharma.com/premium/webinar/1383645",
+      "published": "Thu, 03 Sep 2026 11:48:15 +0000"
+    },
+    {
       "id": "https://www.fiercepharma.com/premium/webinar/1383479",
       "headline": {
         "en": "Beyond Competitive Intelligence: Predicting Commercial Success Earlier in Drug Development",
@@ -673,34 +701,6 @@
       },
       "link": "https://feeds.feedblitz.com/~/962535857/0/drugchannels~DirecttoPatient-Transforming-the-Manufacturer-Access-Model.html",
       "published": "Fri, 24 Jul 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/961224713/0/drugchannels~DirecttoConsumer-Shouldnt-Always-Mean-DirectToMailOrder-Why-Fulfillment-Choice-Matters.html",
-      "headline": {
-        "en": "Direct-to-Consumer Shouldn't Always Mean Direct-To-Mail-Order: Why Fulfillment Choice Matters",
-        "es": "Direct-to-Consumer Shouldn't Always Mean Direct-To-Mail-Order: Why Fulfillment Choice Matters",
-        "zh": "Direct-to-Consumer Shouldn't Always Mean Direct-To-Mail-Order: Why Fulfillment Choice Matters",
-        "vi": "Direct-to-Consumer Shouldn't Always Mean Direct-To-Mail-Order: Why Fulfillment Choice Matters",
-        "ja": "Direct-to-Consumer Shouldn't Always Mean Direct-To-Mail-Order: Why Fulfillment Choice Matters"
-      },
-      "summary": {
-        "en": "Today's guest post comes from Divya Iyer, SVP, Head of Revenue, Pharma Direct at GoodRx. Divya examines why direct-to-consumer strategies shouldn't default to mail-order as the endpoint for every program. She argues that preserving patient choice between retail pickup and home delivery can reduce fr",
-        "es": "Today's guest post comes from Divya Iyer, SVP, Head of Revenue, Pharma Direct at GoodRx. Divya examines why direct-to-consumer strategies shouldn't default to mail-order as the endpoint for every program. She argues that preserving patient choice between retail pickup and home delivery can reduce fr",
-        "zh": "Today's guest post comes from Divya Iyer, SVP, Head of Revenue, Pharma Direct at GoodRx. Divya examines why direct-to-consumer strategies shouldn't default to mail-order as the endpoint for every program. She argues that preserving patient choice between retail pickup and home delivery can reduce fr",
-        "vi": "Today's guest post comes from Divya Iyer, SVP, Head of Revenue, Pharma Direct at GoodRx. Divya examines why direct-to-consumer strategies shouldn't default to mail-order as the endpoint for every program. She argues that preserving patient choice between retail pickup and home delivery can reduce fr",
-        "ja": "Today's guest post comes from Divya Iyer, SVP, Head of Revenue, Pharma Direct at GoodRx. Divya examines why direct-to-consumer strategies shouldn't default to mail-order as the endpoint for every program. She argues that preserving patient choice between retail pickup and home delivery can reduce fr"
-      },
-      "category": "Pharma",
-      "score": 0,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/961224713/0/drugchannels~DirecttoConsumer-Shouldnt-Always-Mean-DirectToMailOrder-Why-Fulfillment-Choice-Matters.html",
-      "published": "Fri, 17 Jul 2026 10:30:00 +0000"
     }
   ]
 }
