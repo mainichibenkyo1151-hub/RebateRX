@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T15:59:59.948563Z",
+  "generatedAt": "2026-09-09T20:30:41.128968Z",
   "count": 25,
   "articles": [
     {
@@ -423,6 +423,34 @@
       "published": "Tue, 11 Aug 2026 10:30:00 +0000"
     },
     {
+      "id": "https://www.fiercepharma.com/premium/webinar/1383673",
+      "headline": {
+        "en": "Integrated Development and Manufacturing for Complex Bioconjugation",
+        "es": "Integrated Development and Manufacturing for Complex Bioconjugation",
+        "zh": "Integrated Development and Manufacturing for Complex Bioconjugation",
+        "vi": "Integrated Development and Manufacturing for Complex Bioconjugation",
+        "ja": "Integrated Development and Manufacturing for Complex Bioconjugation"
+      },
+      "summary": {
+        "en": "Integrated Development and Manufacturing for Complex Bioconjugation scox Thu, 09/03/2026 - 16:51 Wed, 09/30/2026 - 11:00 Resource Type Webinar Jaeook James Kim Promotion End Tue, 03/09/2027 - 10:56 As bioconjugation expands beyond conventional antibody-drug conjugates into increasingly complex modal",
+        "es": "Integrated Development and Manufacturing for Complex Bioconjugation scox Thu, 09/03/2026 - 16:51 Wed, 09/30/2026 - 11:00 Resource Type Webinar Jaeook James Kim Promotion End Tue, 03/09/2027 - 10:56 As bioconjugation expands beyond conventional antibody-drug conjugates into increasingly complex modal",
+        "zh": "Integrated Development and Manufacturing for Complex Bioconjugation scox Thu, 09/03/2026 - 16:51 Wed, 09/30/2026 - 11:00 Resource Type Webinar Jaeook James Kim Promotion End Tue, 03/09/2027 - 10:56 As bioconjugation expands beyond conventional antibody-drug conjugates into increasingly complex modal",
+        "vi": "Integrated Development and Manufacturing for Complex Bioconjugation scox Thu, 09/03/2026 - 16:51 Wed, 09/30/2026 - 11:00 Resource Type Webinar Jaeook James Kim Promotion End Tue, 03/09/2027 - 10:56 As bioconjugation expands beyond conventional antibody-drug conjugates into increasingly complex modal",
+        "ja": "Integrated Development and Manufacturing for Complex Bioconjugation scox Thu, 09/03/2026 - 16:51 Wed, 09/30/2026 - 11:00 Resource Type Webinar Jaeook James Kim Promotion End Tue, 03/09/2027 - 10:56 As bioconjugation expands beyond conventional antibody-drug conjugates into increasingly complex modal"
+      },
+      "category": "Pharma",
+      "score": 0,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://www.fiercepharma.com/premium/webinar/1383673",
+      "published": "Thu, 03 Sep 2026 20:51:05 +0000"
+    },
+    {
       "id": "https://www.fiercepharma.com/premium/webinar/1383645",
       "headline": {
         "en": "Unlocking KATs as Cancer Drug Targets: From Inhibitor Discovery to Translational Epigenomics",
@@ -477,34 +505,6 @@
       },
       "link": "https://www.fiercepharma.com/premium/webinar/1383479",
       "published": "Thu, 27 Aug 2026 16:00:52 +0000"
-    },
-    {
-      "id": "https://www.fiercepharma.com/premium/webinar/1383303",
-      "headline": {
-        "en": "Finding the Invisible: AI for Rare Disease Patient Identification",
-        "es": "Finding the Invisible: AI for Rare Disease Patient Identification",
-        "zh": "Finding the Invisible: AI for Rare Disease Patient Identification",
-        "vi": "Finding the Invisible: AI for Rare Disease Patient Identification",
-        "ja": "Finding the Invisible: AI for Rare Disease Patient Identification"
-      },
-      "summary": {
-        "en": "Finding the Invisible: AI for Rare Disease Patient Identification pesurya Wed, 08/19/2026 - 13:51 Thu, 09/24/2026 - 11:00 Resource Type Webinar Melissa Bojorquez Tim Jones Promotion Start Mon, 08/24/2026 - 12:08 Promotion End Wed, 02/24/2027 - 12:08 Rare disease patients often face lengthy diagnosti",
-        "es": "Finding the Invisible: AI for Rare Disease Patient Identification pesurya Wed, 08/19/2026 - 13:51 Thu, 09/24/2026 - 11:00 Resource Type Webinar Melissa Bojorquez Tim Jones Promotion Start Mon, 08/24/2026 - 12:08 Promotion End Wed, 02/24/2027 - 12:08 Rare disease patients often face lengthy diagnosti",
-        "zh": "Finding the Invisible: AI for Rare Disease Patient Identification pesurya Wed, 08/19/2026 - 13:51 Thu, 09/24/2026 - 11:00 Resource Type Webinar Melissa Bojorquez Tim Jones Promotion Start Mon, 08/24/2026 - 12:08 Promotion End Wed, 02/24/2027 - 12:08 Rare disease patients often face lengthy diagnosti",
-        "vi": "Finding the Invisible: AI for Rare Disease Patient Identification pesurya Wed, 08/19/2026 - 13:51 Thu, 09/24/2026 - 11:00 Resource Type Webinar Melissa Bojorquez Tim Jones Promotion Start Mon, 08/24/2026 - 12:08 Promotion End Wed, 02/24/2027 - 12:08 Rare disease patients often face lengthy diagnosti",
-        "ja": "Finding the Invisible: AI for Rare Disease Patient Identification pesurya Wed, 08/19/2026 - 13:51 Thu, 09/24/2026 - 11:00 Resource Type Webinar Melissa Bojorquez Tim Jones Promotion Start Mon, 08/24/2026 - 12:08 Promotion End Wed, 02/24/2027 - 12:08 Rare disease patients often face lengthy diagnosti"
-      },
-      "category": "Pharma",
-      "score": 0,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://www.fiercepharma.com/premium/webinar/1383303",
-      "published": "Wed, 19 Aug 2026 17:51:59 +0000"
     },
     {
       "id": "https://feeds.feedblitz.com/~/968519744/0/drugchannels~BlinkRx-Insights-Beyond-the-Hub-Rethinking-the-Prescription-Journey.html",
