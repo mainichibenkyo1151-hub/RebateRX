@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T15:54:59.976186Z",
+  "generatedAt": "2026-09-10T20:28:23.727286Z",
   "count": 25,
   "articles": [
     {
@@ -197,6 +197,34 @@
       },
       "link": "https://feeds.feedblitz.com/~/968206538/0/drugchannels~Drug-Channels-News-Roundup-August-B-Rebate-Model-v-Patients-Feeling-Drug-Costs-Specialty-Drug-Spending-Drivers-Impact-on-Coverage-from-the-IRA-and-a-Drug-Price.html",
       "published": "Tue, 25 Aug 2026 10:30:00 +0000"
+    },
+    {
+      "id": "https://www.fiercepharma.com/premium/webinar/1383557",
+      "headline": {
+        "en": "The Next Pricing Frontier: What IRA, MFN and Policy Reform Mean for Biopharma",
+        "es": "The Next Pricing Frontier: What IRA, MFN and Policy Reform Mean for Biopharma",
+        "zh": "The Next Pricing Frontier: What IRA, MFN and Policy Reform Mean for Biopharma",
+        "vi": "The Next Pricing Frontier: What IRA, MFN and Policy Reform Mean for Biopharma",
+        "ja": "The Next Pricing Frontier: What IRA, MFN and Policy Reform Mean for Biopharma"
+      },
+      "summary": {
+        "en": "The Next Pricing Frontier: What IRA, MFN and Policy Reform Mean for Biopharma scox Mon, 08/31/2026 - 16:54 Wed, 10/14/2026 - 11:00 Resource Type Webinar Jennifer Snow Jayson Slotnik, J.D., M.P.H. Paul Battaglia Dee Chaudhary Matthew Arnold Mannat Sharma​ Drug pricing policy is rapidly shifting as el",
+        "es": "The Next Pricing Frontier: What IRA, MFN and Policy Reform Mean for Biopharma scox Mon, 08/31/2026 - 16:54 Wed, 10/14/2026 - 11:00 Resource Type Webinar Jennifer Snow Jayson Slotnik, J.D., M.P.H. Paul Battaglia Dee Chaudhary Matthew Arnold Mannat Sharma​ Drug pricing policy is rapidly shifting as el",
+        "zh": "The Next Pricing Frontier: What IRA, MFN and Policy Reform Mean for Biopharma scox Mon, 08/31/2026 - 16:54 Wed, 10/14/2026 - 11:00 Resource Type Webinar Jennifer Snow Jayson Slotnik, J.D., M.P.H. Paul Battaglia Dee Chaudhary Matthew Arnold Mannat Sharma​ Drug pricing policy is rapidly shifting as el",
+        "vi": "The Next Pricing Frontier: What IRA, MFN and Policy Reform Mean for Biopharma scox Mon, 08/31/2026 - 16:54 Wed, 10/14/2026 - 11:00 Resource Type Webinar Jennifer Snow Jayson Slotnik, J.D., M.P.H. Paul Battaglia Dee Chaudhary Matthew Arnold Mannat Sharma​ Drug pricing policy is rapidly shifting as el",
+        "ja": "The Next Pricing Frontier: What IRA, MFN and Policy Reform Mean for Biopharma scox Mon, 08/31/2026 - 16:54 Wed, 10/14/2026 - 11:00 Resource Type Webinar Jennifer Snow Jayson Slotnik, J.D., M.P.H. Paul Battaglia Dee Chaudhary Matthew Arnold Mannat Sharma​ Drug pricing policy is rapidly shifting as el"
+      },
+      "category": "Pricing",
+      "score": 55,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://www.fiercepharma.com/premium/webinar/1383557",
+      "published": "Mon, 31 Aug 2026 20:54:09 +0000"
     },
     {
       "id": "https://feeds.feedblitz.com/~/967969280/0/drugchannels~REMS-Removed-Why-CART%e2%80%99s-Expansion-into-Community-Oncology-Could-Benefit-the-Big-Three-Wholesalers.html",
@@ -673,34 +701,6 @@
       },
       "link": "https://feeds.feedblitz.com/~/963872867/0/drugchannels~Drug-Channels-News-Roundup-July-Biosimilar-Launch-Strategy-Part-D-Spending-Trends-Rural-B-Hospitals-What-Employers-Can-Do-About-B-and-Drug-Channel-Villains.html",
       "published": "Tue, 28 Jul 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/962535857/0/drugchannels~DirecttoPatient-Transforming-the-Manufacturer-Access-Model.html",
-      "headline": {
-        "en": "Direct-to-Patient: Transforming the Manufacturer Access Model",
-        "es": "Direct-to-Patient: Transforming the Manufacturer Access Model",
-        "zh": "Direct-to-Patient: Transforming the Manufacturer Access Model",
-        "vi": "Direct-to-Patient: Transforming the Manufacturer Access Model",
-        "ja": "Direct-to-Patient: Transforming the Manufacturer Access Model"
-      },
-      "summary": {
-        "en": "Today's guest post comes from Chip Parkinson, CEO at Gifthealth. Chip discusses how Direct-to-Patient (DTP) models can transform the manufacturer access model for prescription therapies. He argues that a tech-plus-touch, end-to-end approach can improve patient access, protect manufacturer economics,",
-        "es": "Today's guest post comes from Chip Parkinson, CEO at Gifthealth. Chip discusses how Direct-to-Patient (DTP) models can transform the manufacturer access model for prescription therapies. He argues that a tech-plus-touch, end-to-end approach can improve patient access, protect manufacturer economics,",
-        "zh": "Today's guest post comes from Chip Parkinson, CEO at Gifthealth. Chip discusses how Direct-to-Patient (DTP) models can transform the manufacturer access model for prescription therapies. He argues that a tech-plus-touch, end-to-end approach can improve patient access, protect manufacturer economics,",
-        "vi": "Today's guest post comes from Chip Parkinson, CEO at Gifthealth. Chip discusses how Direct-to-Patient (DTP) models can transform the manufacturer access model for prescription therapies. He argues that a tech-plus-touch, end-to-end approach can improve patient access, protect manufacturer economics,",
-        "ja": "Today's guest post comes from Chip Parkinson, CEO at Gifthealth. Chip discusses how Direct-to-Patient (DTP) models can transform the manufacturer access model for prescription therapies. He argues that a tech-plus-touch, end-to-end approach can improve patient access, protect manufacturer economics,"
-      },
-      "category": "Pharma",
-      "score": 0,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/962535857/0/drugchannels~DirecttoPatient-Transforming-the-Manufacturer-Access-Model.html",
-      "published": "Fri, 24 Jul 2026 10:30:00 +0000"
     }
   ]
 }
