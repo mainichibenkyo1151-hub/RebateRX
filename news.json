@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T03:34:07.491970Z",
+  "generatedAt": "2026-09-16T10:55:36.608209Z",
   "count": 25,
   "articles": [
     {
@@ -311,34 +311,6 @@
       "published": "Tue, 04 Aug 2026 10:30:00 +0000"
     },
     {
-      "id": "https://www.fiercepharma.com/premium/webinar/1383796",
-      "headline": {
-        "en": "When Access Trails Innovation: A New Calculus for Global Oncology Launches",
-        "es": "When Access Trails Innovation: A New Calculus for Global Oncology Launches",
-        "zh": "When Access Trails Innovation: A New Calculus for Global Oncology Launches",
-        "vi": "When Access Trails Innovation: A New Calculus for Global Oncology Launches",
-        "ja": "When Access Trails Innovation: A New Calculus for Global Oncology Launches"
-      },
-      "summary": {
-        "en": "When Access Trails Innovation: A New Calculus for Global Oncology Launches pesurya Thu, 09/10/2026 - 11:10 Tue, 10/13/2026 - 11:00 Resource Type Webinar Oncology's science has never moved faster — and its medicines have never been less certain to arrive on time, in order, or on the terms companies p",
-        "es": "When Access Trails Innovation: A New Calculus for Global Oncology Launches pesurya Thu, 09/10/2026 - 11:10 Tue, 10/13/2026 - 11:00 Resource Type Webinar Oncology's science has never moved faster — and its medicines have never been less certain to arrive on time, in order, or on the terms companies p",
-        "zh": "When Access Trails Innovation: A New Calculus for Global Oncology Launches pesurya Thu, 09/10/2026 - 11:10 Tue, 10/13/2026 - 11:00 Resource Type Webinar Oncology's science has never moved faster — and its medicines have never been less certain to arrive on time, in order, or on the terms companies p",
-        "vi": "When Access Trails Innovation: A New Calculus for Global Oncology Launches pesurya Thu, 09/10/2026 - 11:10 Tue, 10/13/2026 - 11:00 Resource Type Webinar Oncology's science has never moved faster — and its medicines have never been less certain to arrive on time, in order, or on the terms companies p",
-        "ja": "When Access Trails Innovation: A New Calculus for Global Oncology Launches pesurya Thu, 09/10/2026 - 11:10 Tue, 10/13/2026 - 11:00 Resource Type Webinar Oncology's science has never moved faster — and its medicines have never been less certain to arrive on time, in order, or on the terms companies p"
-      },
-      "category": "Pharma",
-      "score": 35,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://www.fiercepharma.com/premium/webinar/1383796",
-      "published": "Thu, 10 Sep 2026 15:10:21 +0000"
-    },
-    {
       "id": "https://feeds.feedblitz.com/~/961224710/0/drugchannels~GrosstoNet-Realities-at-Eight-Top-Drugmakers-The-Net-Pricing-Drug-Channel-Emerges.html",
       "headline": {
         "en": "2025 Gross-to-Net Realities at Eight Top Drugmakers: The Net Pricing Drug Channel Emerges",
@@ -393,6 +365,34 @@
       },
       "link": "https://feeds.feedblitz.com/~/960482429/0/drugchannels~The-B-Program-Hit-Billion-in-Has-It-Become-Too-Big-to-Reform.html",
       "published": "Wed, 15 Jul 2026 10:30:00 +0000"
+    },
+    {
+      "id": "https://www.fiercepharma.com/premium/webinar/1383796",
+      "headline": {
+        "en": "When Access Trails Innovation: A New Calculus for Global Oncology Launches",
+        "es": "When Access Trails Innovation: A New Calculus for Global Oncology Launches",
+        "zh": "When Access Trails Innovation: A New Calculus for Global Oncology Launches",
+        "vi": "When Access Trails Innovation: A New Calculus for Global Oncology Launches",
+        "ja": "When Access Trails Innovation: A New Calculus for Global Oncology Launches"
+      },
+      "summary": {
+        "en": "When Access Trails Innovation: A New Calculus for Global Oncology Launches pesurya Thu, 09/10/2026 - 11:10 Tue, 10/13/2026 - 11:00 Resource Type Webinar Oncology's science has never moved faster — and its medicines have never been less certain to arrive on time, in the order companies planned, or th",
+        "es": "When Access Trails Innovation: A New Calculus for Global Oncology Launches pesurya Thu, 09/10/2026 - 11:10 Tue, 10/13/2026 - 11:00 Resource Type Webinar Oncology's science has never moved faster — and its medicines have never been less certain to arrive on time, in the order companies planned, or th",
+        "zh": "When Access Trails Innovation: A New Calculus for Global Oncology Launches pesurya Thu, 09/10/2026 - 11:10 Tue, 10/13/2026 - 11:00 Resource Type Webinar Oncology's science has never moved faster — and its medicines have never been less certain to arrive on time, in the order companies planned, or th",
+        "vi": "When Access Trails Innovation: A New Calculus for Global Oncology Launches pesurya Thu, 09/10/2026 - 11:10 Tue, 10/13/2026 - 11:00 Resource Type Webinar Oncology's science has never moved faster — and its medicines have never been less certain to arrive on time, in the order companies planned, or th",
+        "ja": "When Access Trails Innovation: A New Calculus for Global Oncology Launches pesurya Thu, 09/10/2026 - 11:10 Tue, 10/13/2026 - 11:00 Resource Type Webinar Oncology's science has never moved faster — and its medicines have never been less certain to arrive on time, in the order companies planned, or th"
+      },
+      "category": "Pharma",
+      "score": 20,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://www.fiercepharma.com/premium/webinar/1383796",
+      "published": "Thu, 10 Sep 2026 15:10:21 +0000"
     },
     {
       "id": "https://feeds.feedblitz.com/~/968867510/0/drugchannels~Drug-Channels-Leadership-Forum-Antonio-Ciaccia-to-Serve-as-Moderator.html",
