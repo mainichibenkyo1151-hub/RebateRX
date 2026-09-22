@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T03:32:32.379714Z",
+  "generatedAt": "2026-09-22T11:03:15.076791Z",
   "count": 25,
   "articles": [
     {
@@ -29,34 +29,6 @@
       },
       "link": "https://feeds.feedblitz.com/~/968482931/0/drugchannels~The-Private-Label-Biosimilar-Paradox-in-Medicare-Part-D.html",
       "published": "Tue, 01 Sep 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/959724410/0/drugchannels~The-Hidden-Cost-of-B-for-Employers-and-Health-Plans.html",
-      "headline": {
-        "en": "The Hidden Cost of 340B for Employers and Health Plans",
-        "es": "The Hidden Cost of 340B for Employers and Health Plans",
-        "zh": "The Hidden Cost of 340B for Employers and Health Plans",
-        "vi": "The Hidden Cost of 340B for Employers and Health Plans",
-        "ja": "The Hidden Cost of 340B for Employers and Health Plans"
-      },
-      "summary": {
-        "en": "By Adam J. Fein, Ph.D. For years, the controversy surrounding the 340B Drug Pricing Program has centered on hospitals, manufacturers, and contract pharmacies. But employers and health plans have become major participants in the program's economics—even though many don't realize it. The short video b",
-        "es": "By Adam J. Fein, Ph.D. For years, the controversy surrounding the 340B Drug Pricing Program has centered on hospitals, manufacturers, and contract pharmacies. But employers and health plans have become major participants in the program's economics—even though many don't realize it. The short video b",
-        "zh": "By Adam J. Fein, Ph.D. For years, the controversy surrounding the 340B Drug Pricing Program has centered on hospitals, manufacturers, and contract pharmacies. But employers and health plans have become major participants in the program's economics—even though many don't realize it. The short video b",
-        "vi": "By Adam J. Fein, Ph.D. For years, the controversy surrounding the 340B Drug Pricing Program has centered on hospitals, manufacturers, and contract pharmacies. But employers and health plans have become major participants in the program's economics—even though many don't realize it. The short video b",
-        "ja": "By Adam J. Fein, Ph.D. For years, the controversy surrounding the 340B Drug Pricing Program has centered on hospitals, manufacturers, and contract pharmacies. But employers and health plans have become major participants in the program's economics—even though many don't realize it. The short video b"
-      },
-      "category": "Pricing",
-      "score": 85,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/959724410/0/drugchannels~The-Hidden-Cost-of-B-for-Employers-and-Health-Plans.html",
-      "published": "Wed, 08 Jul 2026 10:30:00 +0000"
     },
     {
       "id": "https://feeds.feedblitz.com/~/960482432/0/drugchannels~Medicare-Embraces-SiteNeutral-Payments-Why-Havent-Employers.html",
@@ -421,6 +393,34 @@
       },
       "link": "https://feeds.feedblitz.com/~/967665377/0/drugchannels~The-KShaped-Pharmacy-Shakeout-Consolidation-in-Cities-Lost-Access-in-Rural-America.html",
       "published": "Tue, 11 Aug 2026 10:30:00 +0000"
+    },
+    {
+      "id": "https://feeds.feedblitz.com/~/969467816/0/drugchannels~The-Spinoff-How-Biosimilars-Are-Becoming-Wholesalers-Next-Hit-Show.html",
+      "headline": {
+        "en": "The Spinoff: How Biosimilars Are Becoming Wholesalers' Next Hit Show",
+        "es": "The Spinoff: How Biosimilars Are Becoming Wholesalers' Next Hit Show",
+        "zh": "The Spinoff: How Biosimilars Are Becoming Wholesalers' Next Hit Show",
+        "vi": "The Spinoff: How Biosimilars Are Becoming Wholesalers' Next Hit Show",
+        "ja": "The Spinoff: How Biosimilars Are Becoming Wholesalers' Next Hit Show"
+      },
+      "summary": {
+        "en": "By Bryce Platt, PharmD For more than a decade, the answer to “Where do drug wholesalers make their money?” has been generic drugs. Although wholesaler revenues are linked most closely to sales of brand-name drugs, the majority of wholesalers’ gross profits comes from generic drugs. We estimate that ",
+        "es": "By Bryce Platt, PharmD For more than a decade, the answer to “Where do drug wholesalers make their money?” has been generic drugs. Although wholesaler revenues are linked most closely to sales of brand-name drugs, the majority of wholesalers’ gross profits comes from generic drugs. We estimate that ",
+        "zh": "By Bryce Platt, PharmD For more than a decade, the answer to “Where do drug wholesalers make their money?” has been generic drugs. Although wholesaler revenues are linked most closely to sales of brand-name drugs, the majority of wholesalers’ gross profits comes from generic drugs. We estimate that ",
+        "vi": "By Bryce Platt, PharmD For more than a decade, the answer to “Where do drug wholesalers make their money?” has been generic drugs. Although wholesaler revenues are linked most closely to sales of brand-name drugs, the majority of wholesalers’ gross profits comes from generic drugs. We estimate that ",
+        "ja": "By Bryce Platt, PharmD For more than a decade, the answer to “Where do drug wholesalers make their money?” has been generic drugs. Although wholesaler revenues are linked most closely to sales of brand-name drugs, the majority of wholesalers’ gross profits comes from generic drugs. We estimate that "
+      },
+      "category": "Pharma",
+      "score": 0,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://feeds.feedblitz.com/~/969467816/0/drugchannels~The-Spinoff-How-Biosimilars-Are-Becoming-Wholesalers-Next-Hit-Show.html",
+      "published": "Tue, 22 Sep 2026 10:00:00 +0000"
     },
     {
       "id": "https://feeds.feedblitz.com/~/969257132/0/drugchannels~Fixing-the-Front-Door-Isn%e2%80%99t-the-Same-as-Fixing-Time-to-Therapy.html",
