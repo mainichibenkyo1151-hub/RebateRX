@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T11:12:11.351425Z",
+  "generatedAt": "2026-09-24T16:35:30.879989Z",
   "count": 25,
   "articles": [
     {
@@ -309,34 +309,6 @@
       },
       "link": "https://feeds.feedblitz.com/~/960482429/0/drugchannels~The-B-Program-Hit-Billion-in-Has-It-Become-Too-Big-to-Reform.html",
       "published": "Wed, 15 Jul 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://www.fiercepharma.com/premium/webinar/1383796",
-      "headline": {
-        "en": "When Access Trails Innovation: A New Calculus for Global Oncology Launches",
-        "es": "When Access Trails Innovation: A New Calculus for Global Oncology Launches",
-        "zh": "When Access Trails Innovation: A New Calculus for Global Oncology Launches",
-        "vi": "When Access Trails Innovation: A New Calculus for Global Oncology Launches",
-        "ja": "When Access Trails Innovation: A New Calculus for Global Oncology Launches"
-      },
-      "summary": {
-        "en": "When Access Trails Innovation: A New Calculus for Global Oncology Launches pesurya Thu, 09/10/2026 - 11:10 Tue, 10/13/2026 - 11:00 Resource Type Webinar Ujwal Pyati, PhD Paolo Tarantino, MD, PhD David Harland, PhD, SVP Oncology's science has never moved faster — and its medicines have never been les",
-        "es": "When Access Trails Innovation: A New Calculus for Global Oncology Launches pesurya Thu, 09/10/2026 - 11:10 Tue, 10/13/2026 - 11:00 Resource Type Webinar Ujwal Pyati, PhD Paolo Tarantino, MD, PhD David Harland, PhD, SVP Oncology's science has never moved faster — and its medicines have never been les",
-        "zh": "When Access Trails Innovation: A New Calculus for Global Oncology Launches pesurya Thu, 09/10/2026 - 11:10 Tue, 10/13/2026 - 11:00 Resource Type Webinar Ujwal Pyati, PhD Paolo Tarantino, MD, PhD David Harland, PhD, SVP Oncology's science has never moved faster — and its medicines have never been les",
-        "vi": "When Access Trails Innovation: A New Calculus for Global Oncology Launches pesurya Thu, 09/10/2026 - 11:10 Tue, 10/13/2026 - 11:00 Resource Type Webinar Ujwal Pyati, PhD Paolo Tarantino, MD, PhD David Harland, PhD, SVP Oncology's science has never moved faster — and its medicines have never been les",
-        "ja": "When Access Trails Innovation: A New Calculus for Global Oncology Launches pesurya Thu, 09/10/2026 - 11:10 Tue, 10/13/2026 - 11:00 Resource Type Webinar Ujwal Pyati, PhD Paolo Tarantino, MD, PhD David Harland, PhD, SVP Oncology's science has never moved faster — and its medicines have never been les"
-      },
-      "category": "Pharma",
-      "score": 20,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://www.fiercepharma.com/premium/webinar/1383796",
-      "published": "Thu, 10 Sep 2026 15:10:21 +0000"
     },
     {
       "id": "https://feeds.feedblitz.com/~/968867510/0/drugchannels~Drug-Channels-Leadership-Forum-Antonio-Ciaccia-to-Serve-as-Moderator.html",
@@ -701,6 +673,34 @@
       },
       "link": "https://feeds.feedblitz.com/~/969412136/0/drugchannels~Keep-Your-Patient-Program-at-the-Forefront-of-Innovation-at-Patient-Pathways-The-Copay-and-Patient-Services-Congress.html",
       "published": "Mon, 21 Sep 2026 10:30:00 +0000"
+    },
+    {
+      "id": "https://www.fiercepharma.com/resource/navigating-major-inflection-points-ind-approval",
+      "headline": {
+        "en": "Navigating Major Inflection Points from IND to Approval",
+        "es": "Navigating Major Inflection Points from IND to Approval",
+        "zh": "Navigating Major Inflection Points from IND to Approval",
+        "vi": "Navigating Major Inflection Points from IND to Approval",
+        "ja": "Navigating Major Inflection Points from IND to Approval"
+      },
+      "summary": {
+        "en": "Navigating Major Inflection Points from IND to Approval Learn how biotech and biopharma teams can successfully navigate the critical development milestones that shape a therapy's path from IND to approval. This white paper explores strategies for aligning regulatory planning, translational science, ",
+        "es": "Navigating Major Inflection Points from IND to Approval Learn how biotech and biopharma teams can successfully navigate the critical development milestones that shape a therapy's path from IND to approval. This white paper explores strategies for aligning regulatory planning, translational science, ",
+        "zh": "Navigating Major Inflection Points from IND to Approval Learn how biotech and biopharma teams can successfully navigate the critical development milestones that shape a therapy's path from IND to approval. This white paper explores strategies for aligning regulatory planning, translational science, ",
+        "vi": "Navigating Major Inflection Points from IND to Approval Learn how biotech and biopharma teams can successfully navigate the critical development milestones that shape a therapy's path from IND to approval. This white paper explores strategies for aligning regulatory planning, translational science, ",
+        "ja": "Navigating Major Inflection Points from IND to Approval Learn how biotech and biopharma teams can successfully navigate the critical development milestones that shape a therapy's path from IND to approval. This white paper explores strategies for aligning regulatory planning, translational science, "
+      },
+      "category": "FDA",
+      "score": -30,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://www.fiercepharma.com/resource/navigating-major-inflection-points-ind-approval",
+      "published": "Thu, 24 Sep 2026 14:23:00 +0000"
     }
   ]
 }
