@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T03:39:55.842557Z",
+  "generatedAt": "2026-09-25T11:16:24.844226Z",
   "count": 25,
   "articles": [
     {
@@ -85,34 +85,6 @@
       },
       "link": "https://feeds.feedblitz.com/~/968367749/0/drugchannels~Medicare-Medicaid-and-Reverification-What-Patient-Support-Programs-Need-to-Know-Before-January.html",
       "published": "Fri, 28 Aug 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/960482435/0/drugchannels~When-Access-Tightens-Prior-Authorization-Execution-Becomes-the-Differentiator.html",
-      "headline": {
-        "en": "When Access Tightens, Prior Authorization Execution Becomes the Differentiator",
-        "es": "When Access Tightens, Prior Authorization Execution Becomes the Differentiator",
-        "zh": "When Access Tightens, Prior Authorization Execution Becomes the Differentiator",
-        "vi": "When Access Tightens, Prior Authorization Execution Becomes the Differentiator",
-        "ja": "When Access Tightens, Prior Authorization Execution Becomes the Differentiator"
-      },
-      "summary": {
-        "en": "Today's guest post comes from Megan Wetzel, Vice President of Product, Access and Affordability at CoverMyMeds. Megan examines how prior authorization execution has become a strategic differentiator for biopharma brands as formulary changes and expanding utilization management put more pressure on a",
-        "es": "Today's guest post comes from Megan Wetzel, Vice President of Product, Access and Affordability at CoverMyMeds. Megan examines how prior authorization execution has become a strategic differentiator for biopharma brands as formulary changes and expanding utilization management put more pressure on a",
-        "zh": "Today's guest post comes from Megan Wetzel, Vice President of Product, Access and Affordability at CoverMyMeds. Megan examines how prior authorization execution has become a strategic differentiator for biopharma brands as formulary changes and expanding utilization management put more pressure on a",
-        "vi": "Today's guest post comes from Megan Wetzel, Vice President of Product, Access and Affordability at CoverMyMeds. Megan examines how prior authorization execution has become a strategic differentiator for biopharma brands as formulary changes and expanding utilization management put more pressure on a",
-        "ja": "Today's guest post comes from Megan Wetzel, Vice President of Product, Access and Affordability at CoverMyMeds. Megan examines how prior authorization execution has become a strategic differentiator for biopharma brands as formulary changes and expanding utilization management put more pressure on a"
-      },
-      "category": "Pharma",
-      "score": 65,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/960482435/0/drugchannels~When-Access-Tightens-Prior-Authorization-Execution-Becomes-the-Differentiator.html",
-      "published": "Fri, 10 Jul 2026 10:30:00 +0000"
     },
     {
       "id": "https://feeds.feedblitz.com/~/968206538/0/drugchannels~Drug-Channels-News-Roundup-August-B-Rebate-Model-v-Patients-Feeling-Drug-Costs-Specialty-Drug-Spending-Drivers-Impact-on-Coverage-from-the-IRA-and-a-Drug-Price.html",
@@ -365,6 +337,34 @@
       },
       "link": "https://feeds.feedblitz.com/~/967665377/0/drugchannels~The-KShaped-Pharmacy-Shakeout-Consolidation-in-Cities-Lost-Access-in-Rural-America.html",
       "published": "Tue, 11 Aug 2026 10:30:00 +0000"
+    },
+    {
+      "id": "https://feeds.feedblitz.com/~/970098986/0/drugchannels~Why-GoodRx-Is-Built-for-the-AIDriven-Patient-Journey.html",
+      "headline": {
+        "en": "Why GoodRx Is Built for the AI-Driven Patient Journey",
+        "es": "Why GoodRx Is Built for the AI-Driven Patient Journey",
+        "zh": "Why GoodRx Is Built for the AI-Driven Patient Journey",
+        "vi": "Why GoodRx Is Built for the AI-Driven Patient Journey",
+        "ja": "Why GoodRx Is Built for the AI-Driven Patient Journey"
+      },
+      "summary": {
+        "en": "Today's guest post comes from Divya Iyer, SVP, Head of Revenue, Pharma Direct at GoodRx. Divya examines how AI-powered search and conversational tools are reshaping the way patients research treatments and prescription costs before ever reaching a brand's website. She argues that pharmaceutical manu",
+        "es": "Today's guest post comes from Divya Iyer, SVP, Head of Revenue, Pharma Direct at GoodRx. Divya examines how AI-powered search and conversational tools are reshaping the way patients research treatments and prescription costs before ever reaching a brand's website. She argues that pharmaceutical manu",
+        "zh": "Today's guest post comes from Divya Iyer, SVP, Head of Revenue, Pharma Direct at GoodRx. Divya examines how AI-powered search and conversational tools are reshaping the way patients research treatments and prescription costs before ever reaching a brand's website. She argues that pharmaceutical manu",
+        "vi": "Today's guest post comes from Divya Iyer, SVP, Head of Revenue, Pharma Direct at GoodRx. Divya examines how AI-powered search and conversational tools are reshaping the way patients research treatments and prescription costs before ever reaching a brand's website. She argues that pharmaceutical manu",
+        "ja": "Today's guest post comes from Divya Iyer, SVP, Head of Revenue, Pharma Direct at GoodRx. Divya examines how AI-powered search and conversational tools are reshaping the way patients research treatments and prescription costs before ever reaching a brand's website. She argues that pharmaceutical manu"
+      },
+      "category": "Pharma",
+      "score": 0,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://feeds.feedblitz.com/~/970098986/0/drugchannels~Why-GoodRx-Is-Built-for-the-AIDriven-Patient-Journey.html",
+      "published": "Fri, 25 Sep 2026 10:30:00 +0000"
     },
     {
       "id": "https://feeds.feedblitz.com/~/969467816/0/drugchannels~The-Spinoff-How-Biosimilars-Are-Becoming-Wholesalers-Next-Hit-Show.html",
