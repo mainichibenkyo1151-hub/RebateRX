@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T03:46:00.629685Z",
+  "generatedAt": "2026-09-26T10:54:03.907444Z",
   "count": 25,
   "articles": [
     {
@@ -339,6 +339,34 @@
       "published": "Tue, 11 Aug 2026 10:30:00 +0000"
     },
     {
+      "id": "https://www.fiercepharma.com/premium/webinar/1383842",
+      "headline": {
+        "en": "Beyond Program Metrics: Using Connected Data to Prove the Value of Patient Services",
+        "es": "Beyond Program Metrics: Using Connected Data to Prove the Value of Patient Services",
+        "zh": "Beyond Program Metrics: Using Connected Data to Prove the Value of Patient Services",
+        "vi": "Beyond Program Metrics: Using Connected Data to Prove the Value of Patient Services",
+        "ja": "Beyond Program Metrics: Using Connected Data to Prove the Value of Patient Services"
+      },
+      "summary": {
+        "en": "Beyond Program Metrics: Using Connected Data to Prove the Value of Patient Services scox Fri, 09/11/2026 - 11:54 Thu, 10/15/2026 - 12:00 Resource Type Webinar Chris Savage Jack Beard Promotion End Fri, 04/16/2027 - 12:54 Patient services programs have more data than ever. But when budgets tighten an",
+        "es": "Beyond Program Metrics: Using Connected Data to Prove the Value of Patient Services scox Fri, 09/11/2026 - 11:54 Thu, 10/15/2026 - 12:00 Resource Type Webinar Chris Savage Jack Beard Promotion End Fri, 04/16/2027 - 12:54 Patient services programs have more data than ever. But when budgets tighten an",
+        "zh": "Beyond Program Metrics: Using Connected Data to Prove the Value of Patient Services scox Fri, 09/11/2026 - 11:54 Thu, 10/15/2026 - 12:00 Resource Type Webinar Chris Savage Jack Beard Promotion End Fri, 04/16/2027 - 12:54 Patient services programs have more data than ever. But when budgets tighten an",
+        "vi": "Beyond Program Metrics: Using Connected Data to Prove the Value of Patient Services scox Fri, 09/11/2026 - 11:54 Thu, 10/15/2026 - 12:00 Resource Type Webinar Chris Savage Jack Beard Promotion End Fri, 04/16/2027 - 12:54 Patient services programs have more data than ever. But when budgets tighten an",
+        "ja": "Beyond Program Metrics: Using Connected Data to Prove the Value of Patient Services scox Fri, 09/11/2026 - 11:54 Thu, 10/15/2026 - 12:00 Resource Type Webinar Chris Savage Jack Beard Promotion End Fri, 04/16/2027 - 12:54 Patient services programs have more data than ever. But when budgets tighten an"
+      },
+      "category": "Pharma",
+      "score": 0,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://www.fiercepharma.com/premium/webinar/1383842",
+      "published": "Fri, 11 Sep 2026 15:54:27 +0000"
+    },
+    {
       "id": "https://feeds.feedblitz.com/~/970098986/0/drugchannels~Why-GoodRx-Is-Built-for-the-AIDriven-Patient-Journey.html",
       "headline": {
         "en": "Why GoodRx Is Built for the AI-Driven Patient Journey",
@@ -673,34 +701,6 @@
       },
       "link": "https://feeds.feedblitz.com/~/969412136/0/drugchannels~Keep-Your-Patient-Program-at-the-Forefront-of-Innovation-at-Patient-Pathways-The-Copay-and-Patient-Services-Congress.html",
       "published": "Mon, 21 Sep 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://www.fiercepharma.com/resource/navigating-major-inflection-points-ind-approval",
-      "headline": {
-        "en": "Navigating Major Inflection Points from IND to Approval",
-        "es": "Navigating Major Inflection Points from IND to Approval",
-        "zh": "Navigating Major Inflection Points from IND to Approval",
-        "vi": "Navigating Major Inflection Points from IND to Approval",
-        "ja": "Navigating Major Inflection Points from IND to Approval"
-      },
-      "summary": {
-        "en": "Navigating Major Inflection Points from IND to Approval Learn how biotech and biopharma teams can successfully navigate the critical development milestones that shape a therapy's path from IND to approval. This white paper explores strategies for aligning regulatory planning, translational science, ",
-        "es": "Navigating Major Inflection Points from IND to Approval Learn how biotech and biopharma teams can successfully navigate the critical development milestones that shape a therapy's path from IND to approval. This white paper explores strategies for aligning regulatory planning, translational science, ",
-        "zh": "Navigating Major Inflection Points from IND to Approval Learn how biotech and biopharma teams can successfully navigate the critical development milestones that shape a therapy's path from IND to approval. This white paper explores strategies for aligning regulatory planning, translational science, ",
-        "vi": "Navigating Major Inflection Points from IND to Approval Learn how biotech and biopharma teams can successfully navigate the critical development milestones that shape a therapy's path from IND to approval. This white paper explores strategies for aligning regulatory planning, translational science, ",
-        "ja": "Navigating Major Inflection Points from IND to Approval Learn how biotech and biopharma teams can successfully navigate the critical development milestones that shape a therapy's path from IND to approval. This white paper explores strategies for aligning regulatory planning, translational science, "
-      },
-      "category": "FDA",
-      "score": -30,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://www.fiercepharma.com/resource/navigating-major-inflection-points-ind-approval",
-      "published": "Thu, 24 Sep 2026 14:23:00 +0000"
     }
   ]
 }
