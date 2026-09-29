@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T12:13:14.372787Z",
+  "generatedAt": "2026-09-29T21:56:05.532193Z",
   "count": 25,
   "articles": [
     {
@@ -339,6 +339,34 @@
       "published": "Tue, 11 Aug 2026 10:30:00 +0000"
     },
     {
+      "id": "https://www.fiercepharma.com/premium/webinar/1384281",
+      "headline": {
+        "en": "From Phenotypic Hit to an Orally Active Zika Antiviral",
+        "es": "From Phenotypic Hit to an Orally Active Zika Antiviral",
+        "zh": "From Phenotypic Hit to an Orally Active Zika Antiviral",
+        "vi": "From Phenotypic Hit to an Orally Active Zika Antiviral",
+        "ja": "From Phenotypic Hit to an Orally Active Zika Antiviral"
+      },
+      "summary": {
+        "en": "From Phenotypic Hit to an Orally Active Zika Antiviral jpiatt Fri, 09/25/2026 - 15:04 Thu, 10/29/2026 - 11:30 Resource Type Webinar Dr. Esther Torrente de Haro Lauren Drowley This webinar is designed for medicinal chemists, virologists, structural and molecular biologists, DMPK and pharmacology scie",
+        "es": "From Phenotypic Hit to an Orally Active Zika Antiviral jpiatt Fri, 09/25/2026 - 15:04 Thu, 10/29/2026 - 11:30 Resource Type Webinar Dr. Esther Torrente de Haro Lauren Drowley This webinar is designed for medicinal chemists, virologists, structural and molecular biologists, DMPK and pharmacology scie",
+        "zh": "From Phenotypic Hit to an Orally Active Zika Antiviral jpiatt Fri, 09/25/2026 - 15:04 Thu, 10/29/2026 - 11:30 Resource Type Webinar Dr. Esther Torrente de Haro Lauren Drowley This webinar is designed for medicinal chemists, virologists, structural and molecular biologists, DMPK and pharmacology scie",
+        "vi": "From Phenotypic Hit to an Orally Active Zika Antiviral jpiatt Fri, 09/25/2026 - 15:04 Thu, 10/29/2026 - 11:30 Resource Type Webinar Dr. Esther Torrente de Haro Lauren Drowley This webinar is designed for medicinal chemists, virologists, structural and molecular biologists, DMPK and pharmacology scie",
+        "ja": "From Phenotypic Hit to an Orally Active Zika Antiviral jpiatt Fri, 09/25/2026 - 15:04 Thu, 10/29/2026 - 11:30 Resource Type Webinar Dr. Esther Torrente de Haro Lauren Drowley This webinar is designed for medicinal chemists, virologists, structural and molecular biologists, DMPK and pharmacology scie"
+      },
+      "category": "Pharma",
+      "score": 0,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://www.fiercepharma.com/premium/webinar/1384281",
+      "published": "Fri, 25 Sep 2026 19:04:18 +0000"
+    },
+    {
       "id": "https://feeds.feedblitz.com/~/970098986/0/drugchannels~Why-GoodRx-Is-Built-for-the-AIDriven-Patient-Journey.html",
       "headline": {
         "en": "Why GoodRx Is Built for the AI-Driven Patient Journey",
@@ -673,34 +701,6 @@
       },
       "link": "https://feeds.feedblitz.com/~/969412136/0/drugchannels~Keep-Your-Patient-Program-at-the-Forefront-of-Innovation-at-Patient-Pathways-The-Copay-and-Patient-Services-Congress.html",
       "published": "Mon, 21 Sep 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://www.fiercepharma.com/resource/navigating-major-inflection-points-ind-approval",
-      "headline": {
-        "en": "Navigating Major Inflection Points from IND to Approval",
-        "es": "Navigating Major Inflection Points from IND to Approval",
-        "zh": "Navigating Major Inflection Points from IND to Approval",
-        "vi": "Navigating Major Inflection Points from IND to Approval",
-        "ja": "Navigating Major Inflection Points from IND to Approval"
-      },
-      "summary": {
-        "en": "Navigating Major Inflection Points from IND to Approval Learn how biotech and biopharma teams can successfully navigate the critical development milestones that shape a therapy's path from IND to approval. This white paper explores strategies for aligning regulatory planning, translational science, ",
-        "es": "Navigating Major Inflection Points from IND to Approval Learn how biotech and biopharma teams can successfully navigate the critical development milestones that shape a therapy's path from IND to approval. This white paper explores strategies for aligning regulatory planning, translational science, ",
-        "zh": "Navigating Major Inflection Points from IND to Approval Learn how biotech and biopharma teams can successfully navigate the critical development milestones that shape a therapy's path from IND to approval. This white paper explores strategies for aligning regulatory planning, translational science, ",
-        "vi": "Navigating Major Inflection Points from IND to Approval Learn how biotech and biopharma teams can successfully navigate the critical development milestones that shape a therapy's path from IND to approval. This white paper explores strategies for aligning regulatory planning, translational science, ",
-        "ja": "Navigating Major Inflection Points from IND to Approval Learn how biotech and biopharma teams can successfully navigate the critical development milestones that shape a therapy's path from IND to approval. This white paper explores strategies for aligning regulatory planning, translational science, "
-      },
-      "category": "FDA",
-      "score": -30,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://www.fiercepharma.com/resource/navigating-major-inflection-points-ind-approval",
-      "published": "Thu, 24 Sep 2026 14:23:00 +0000"
     }
   ]
 }
