@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T12:32:29.960954Z",
+  "generatedAt": "2026-10-01T22:23:32.127068Z",
   "count": 25,
   "articles": [
     {
@@ -367,6 +367,34 @@
       "published": "Fri, 25 Sep 2026 19:04:18 +0000"
     },
     {
+      "id": "https://www.fiercepharma.com/premium/webinar/1384223",
+      "headline": {
+        "en": "Beyond Protein Counts: Evaluating Depth, Robustness, and Biological Interpretability in Plasma Proteomics",
+        "es": "Beyond Protein Counts: Evaluating Depth, Robustness, and Biological Interpretability in Plasma Proteomics",
+        "zh": "Beyond Protein Counts: Evaluating Depth, Robustness, and Biological Interpretability in Plasma Proteomics",
+        "vi": "Beyond Protein Counts: Evaluating Depth, Robustness, and Biological Interpretability in Plasma Proteomics",
+        "ja": "Beyond Protein Counts: Evaluating Depth, Robustness, and Biological Interpretability in Plasma Proteomics"
+      },
+      "summary": {
+        "en": "Beyond Protein Counts: Evaluating Depth, Robustness, and Biological Interpretability in Plasma Proteomics scox Thu, 09/24/2026 - 13:23 Wed, 11/04/2026 - 11:00 Resource Type Webinar Prashant Kaushik Human plasma proteomics offers significant potential for biomarker discovery and translational researc",
+        "es": "Beyond Protein Counts: Evaluating Depth, Robustness, and Biological Interpretability in Plasma Proteomics scox Thu, 09/24/2026 - 13:23 Wed, 11/04/2026 - 11:00 Resource Type Webinar Prashant Kaushik Human plasma proteomics offers significant potential for biomarker discovery and translational researc",
+        "zh": "Beyond Protein Counts: Evaluating Depth, Robustness, and Biological Interpretability in Plasma Proteomics scox Thu, 09/24/2026 - 13:23 Wed, 11/04/2026 - 11:00 Resource Type Webinar Prashant Kaushik Human plasma proteomics offers significant potential for biomarker discovery and translational researc",
+        "vi": "Beyond Protein Counts: Evaluating Depth, Robustness, and Biological Interpretability in Plasma Proteomics scox Thu, 09/24/2026 - 13:23 Wed, 11/04/2026 - 11:00 Resource Type Webinar Prashant Kaushik Human plasma proteomics offers significant potential for biomarker discovery and translational researc",
+        "ja": "Beyond Protein Counts: Evaluating Depth, Robustness, and Biological Interpretability in Plasma Proteomics scox Thu, 09/24/2026 - 13:23 Wed, 11/04/2026 - 11:00 Resource Type Webinar Prashant Kaushik Human plasma proteomics offers significant potential for biomarker discovery and translational researc"
+      },
+      "category": "Pharma",
+      "score": 0,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://www.fiercepharma.com/premium/webinar/1384223",
+      "published": "Thu, 24 Sep 2026 17:23:55 +0000"
+    },
+    {
       "id": "https://feeds.feedblitz.com/~/970098986/0/drugchannels~Why-GoodRx-Is-Built-for-the-AIDriven-Patient-Journey.html",
       "headline": {
         "en": "Why GoodRx Is Built for the AI-Driven Patient Journey",
@@ -673,34 +701,6 @@
       },
       "link": "https://feeds.feedblitz.com/~/961224713/0/drugchannels~DirecttoConsumer-Shouldnt-Always-Mean-DirectToMailOrder-Why-Fulfillment-Choice-Matters.html",
       "published": "Fri, 17 Jul 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/969412136/0/drugchannels~Keep-Your-Patient-Program-at-the-Forefront-of-Innovation-at-Patient-Pathways-The-Copay-and-Patient-Services-Congress.html",
-      "headline": {
-        "en": "Keep Your Patient Program at the Forefront of Innovation at Patient Pathways: The Copay and Patient Services Congress",
-        "es": "Keep Your Patient Program at the Forefront of Innovation at Patient Pathways: The Copay and Patient Services Congress",
-        "zh": "Keep Your Patient Program at the Forefront of Innovation at Patient Pathways: The Copay and Patient Services Congress",
-        "vi": "Keep Your Patient Program at the Forefront of Innovation at Patient Pathways: The Copay and Patient Services Congress",
-        "ja": "Keep Your Patient Program at the Forefront of Innovation at Patient Pathways: The Copay and Patient Services Congress"
-      },
-      "summary": {
-        "en": "Keep Your Patient Program at the Forefront of Innovation at Patient Pathways: The Copay and Patient Services Congress November 17-20, 2026 | Sheraton Downtown Philadelphia Exclusive Offer – Use promo code 26DC10 to save 10% on your registration* Patient need is at an all-time high and the healthcare",
-        "es": "Keep Your Patient Program at the Forefront of Innovation at Patient Pathways: The Copay and Patient Services Congress November 17-20, 2026 | Sheraton Downtown Philadelphia Exclusive Offer – Use promo code 26DC10 to save 10% on your registration* Patient need is at an all-time high and the healthcare",
-        "zh": "Keep Your Patient Program at the Forefront of Innovation at Patient Pathways: The Copay and Patient Services Congress November 17-20, 2026 | Sheraton Downtown Philadelphia Exclusive Offer – Use promo code 26DC10 to save 10% on your registration* Patient need is at an all-time high and the healthcare",
-        "vi": "Keep Your Patient Program at the Forefront of Innovation at Patient Pathways: The Copay and Patient Services Congress November 17-20, 2026 | Sheraton Downtown Philadelphia Exclusive Offer – Use promo code 26DC10 to save 10% on your registration* Patient need is at an all-time high and the healthcare",
-        "ja": "Keep Your Patient Program at the Forefront of Innovation at Patient Pathways: The Copay and Patient Services Congress November 17-20, 2026 | Sheraton Downtown Philadelphia Exclusive Offer – Use promo code 26DC10 to save 10% on your registration* Patient need is at an all-time high and the healthcare"
-      },
-      "category": "Access",
-      "score": -15,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/969412136/0/drugchannels~Keep-Your-Patient-Program-at-the-Forefront-of-Innovation-at-Patient-Pathways-The-Copay-and-Patient-Services-Congress.html",
-      "published": "Mon, 21 Sep 2026 10:30:00 +0000"
     }
   ]
 }
