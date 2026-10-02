@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T04:17:34.332979Z",
+  "generatedAt": "2026-10-02T11:58:20.254458Z",
   "count": 25,
   "articles": [
     {
@@ -227,34 +227,6 @@
       "published": "Tue, 21 Jul 2026 10:30:00 +0000"
     },
     {
-      "id": "https://feeds.feedblitz.com/~/960482429/0/drugchannels~The-B-Program-Hit-Billion-in-Has-It-Become-Too-Big-to-Reform.html",
-      "headline": {
-        "en": "The 340B Program Hit $100 Billion in 2025: Has It Become Too Big to Reform?",
-        "es": "The 340B Program Hit $100 Billion in 2025: Has It Become Too Big to Reform?",
-        "zh": "The 340B Program Hit $100 Billion in 2025: Has It Become Too Big to Reform?",
-        "vi": "The 340B Program Hit $100 Billion in 2025: Has It Become Too Big to Reform?",
-        "ja": "The 340B Program Hit $100 Billion in 2025: Has It Become Too Big to Reform?"
-      },
-      "summary": {
-        "en": "By Adam J. Fein, Ph.D. The 340B Drug Pricing Program continues to redefine the meaning of &quot;skyrocketing.&quot; For 2025, discounted purchases under the 340B program reached an astounding $100 billion—23% higher than in 2024. The gross-to-net difference between list prices and discounted 340B pu",
-        "es": "By Adam J. Fein, Ph.D. The 340B Drug Pricing Program continues to redefine the meaning of &quot;skyrocketing.&quot; For 2025, discounted purchases under the 340B program reached an astounding $100 billion—23% higher than in 2024. The gross-to-net difference between list prices and discounted 340B pu",
-        "zh": "By Adam J. Fein, Ph.D. The 340B Drug Pricing Program continues to redefine the meaning of &quot;skyrocketing.&quot; For 2025, discounted purchases under the 340B program reached an astounding $100 billion—23% higher than in 2024. The gross-to-net difference between list prices and discounted 340B pu",
-        "vi": "By Adam J. Fein, Ph.D. The 340B Drug Pricing Program continues to redefine the meaning of &quot;skyrocketing.&quot; For 2025, discounted purchases under the 340B program reached an astounding $100 billion—23% higher than in 2024. The gross-to-net difference between list prices and discounted 340B pu",
-        "ja": "By Adam J. Fein, Ph.D. The 340B Drug Pricing Program continues to redefine the meaning of &quot;skyrocketing.&quot; For 2025, discounted purchases under the 340B program reached an astounding $100 billion—23% higher than in 2024. The gross-to-net difference between list prices and discounted 340B pu"
-      },
-      "category": "Pricing",
-      "score": 30,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/960482429/0/drugchannels~The-B-Program-Hit-Billion-in-Has-It-Become-Too-Big-to-Reform.html",
-      "published": "Wed, 15 Jul 2026 10:30:00 +0000"
-    },
-    {
       "id": "https://feeds.feedblitz.com/~/970750814/0/drugchannels~Drug-Channels-News-Roundup-September-The-B-Margin-Squeeze-Economics-of-Cutting-List-Price-Patient-Adherence-from-Copay-Cards-Negative-Part-D-Premiums-and-Drug.html",
       "headline": {
         "en": "Drug Channels News Roundup, September 2026: The 340B Margin Squeeze, Economics of Cutting List Price, Patient Adherence from Copay Cards, Negative Part D Premiums, and Drug Channel Dating Profiles",
@@ -393,6 +365,34 @@
       },
       "link": "https://www.fiercepharma.com/premium/webinar/1384223",
       "published": "Thu, 24 Sep 2026 17:23:55 +0000"
+    },
+    {
+      "id": "https://feeds.feedblitz.com/~/970892330/0/drugchannels~Patient-Support-Strategy-by-Lifecycle-Stage-Launch-Growth-Maturity-and-Loss-of-Exclusivity.html",
+      "headline": {
+        "en": "Patient Support Strategy by Lifecycle Stage: Launch, Growth, Maturity, and Loss of Exclusivity",
+        "es": "Patient Support Strategy by Lifecycle Stage: Launch, Growth, Maturity, and Loss of Exclusivity",
+        "zh": "Patient Support Strategy by Lifecycle Stage: Launch, Growth, Maturity, and Loss of Exclusivity",
+        "vi": "Patient Support Strategy by Lifecycle Stage: Launch, Growth, Maturity, and Loss of Exclusivity",
+        "ja": "Patient Support Strategy by Lifecycle Stage: Launch, Growth, Maturity, and Loss of Exclusivity"
+      },
+      "summary": {
+        "en": "Today's guest post comes from Kristen Magee, Vice President of Methodology &amp; Enablement at AssistRx. Kristen explains why patient support programs (PSPs) need to evolve as products move from launch through growth, maturity, and loss of exclusivity. She outlines how manufacturers can recalibrate ",
+        "es": "Today's guest post comes from Kristen Magee, Vice President of Methodology &amp; Enablement at AssistRx. Kristen explains why patient support programs (PSPs) need to evolve as products move from launch through growth, maturity, and loss of exclusivity. She outlines how manufacturers can recalibrate ",
+        "zh": "Today's guest post comes from Kristen Magee, Vice President of Methodology &amp; Enablement at AssistRx. Kristen explains why patient support programs (PSPs) need to evolve as products move from launch through growth, maturity, and loss of exclusivity. She outlines how manufacturers can recalibrate ",
+        "vi": "Today's guest post comes from Kristen Magee, Vice President of Methodology &amp; Enablement at AssistRx. Kristen explains why patient support programs (PSPs) need to evolve as products move from launch through growth, maturity, and loss of exclusivity. She outlines how manufacturers can recalibrate ",
+        "ja": "Today's guest post comes from Kristen Magee, Vice President of Methodology &amp; Enablement at AssistRx. Kristen explains why patient support programs (PSPs) need to evolve as products move from launch through growth, maturity, and loss of exclusivity. She outlines how manufacturers can recalibrate "
+      },
+      "category": "Pharma",
+      "score": 0,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://feeds.feedblitz.com/~/970892330/0/drugchannels~Patient-Support-Strategy-by-Lifecycle-Stage-Launch-Growth-Maturity-and-Loss-of-Exclusivity.html",
+      "published": "Fri, 02 Oct 2026 10:30:00 +0000"
     },
     {
       "id": "https://feeds.feedblitz.com/~/970098986/0/drugchannels~Why-GoodRx-Is-Built-for-the-AIDriven-Patient-Journey.html",
