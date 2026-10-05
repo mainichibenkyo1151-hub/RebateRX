@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T04:18:41.061339Z",
+  "generatedAt": "2026-10-05T13:44:19.506709Z",
   "count": 25,
   "articles": [
     {
@@ -199,6 +199,34 @@
       "published": "Tue, 04 Aug 2026 10:30:00 +0000"
     },
     {
+      "id": "https://feeds.feedblitz.com/~/971003609/0/drugchannels~Informa%e2%80%99s-PBM-Contracting-Summit.html",
+      "headline": {
+        "en": "Informa’s PBM Contracting Summit",
+        "es": "Informa’s PBM Contracting Summit",
+        "zh": "Informa’s PBM Contracting Summit",
+        "vi": "Informa’s PBM Contracting Summit",
+        "ja": "Informa’s PBM Contracting Summit"
+      },
+      "summary": {
+        "en": "Informa’s PBM Contracting Summit December 8-9, 2026 | Chicago, IL Drug Channels readers save 10% with code 26DRCH10* The PBM Contracting Summit returns to Chicago this December! Join the industry as expert speakers navigate the complex PBM landscape, gaining unparalleled strategies to enhance patien",
+        "es": "Informa’s PBM Contracting Summit December 8-9, 2026 | Chicago, IL Drug Channels readers save 10% with code 26DRCH10* The PBM Contracting Summit returns to Chicago this December! Join the industry as expert speakers navigate the complex PBM landscape, gaining unparalleled strategies to enhance patien",
+        "zh": "Informa’s PBM Contracting Summit December 8-9, 2026 | Chicago, IL Drug Channels readers save 10% with code 26DRCH10* The PBM Contracting Summit returns to Chicago this December! Join the industry as expert speakers navigate the complex PBM landscape, gaining unparalleled strategies to enhance patien",
+        "vi": "Informa’s PBM Contracting Summit December 8-9, 2026 | Chicago, IL Drug Channels readers save 10% with code 26DRCH10* The PBM Contracting Summit returns to Chicago this December! Join the industry as expert speakers navigate the complex PBM landscape, gaining unparalleled strategies to enhance patien",
+        "ja": "Informa’s PBM Contracting Summit December 8-9, 2026 | Chicago, IL Drug Channels readers save 10% with code 26DRCH10* The PBM Contracting Summit returns to Chicago this December! Join the industry as expert speakers navigate the complex PBM landscape, gaining unparalleled strategies to enhance patien"
+      },
+      "category": "PBM",
+      "score": 35,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://feeds.feedblitz.com/~/971003609/0/drugchannels~Informa%e2%80%99s-PBM-Contracting-Summit.html",
+      "published": "Mon, 05 Oct 2026 10:30:00 +0000"
+    },
+    {
       "id": "https://feeds.feedblitz.com/~/961224710/0/drugchannels~GrosstoNet-Realities-at-Eight-Top-Drugmakers-The-Net-Pricing-Drug-Channel-Emerges.html",
       "headline": {
         "en": "2025 Gross-to-Net Realities at Eight Top Drugmakers: The Net Pricing Drug Channel Emerges",
@@ -337,34 +365,6 @@
       },
       "link": "https://www.fiercepharma.com/premium/webinar/1384281",
       "published": "Fri, 25 Sep 2026 19:04:18 +0000"
-    },
-    {
-      "id": "https://www.fiercepharma.com/premium/webinar/1384223",
-      "headline": {
-        "en": "Beyond Protein Counts: Evaluating Depth, Robustness, and Biological Interpretability in Plasma Proteomics",
-        "es": "Beyond Protein Counts: Evaluating Depth, Robustness, and Biological Interpretability in Plasma Proteomics",
-        "zh": "Beyond Protein Counts: Evaluating Depth, Robustness, and Biological Interpretability in Plasma Proteomics",
-        "vi": "Beyond Protein Counts: Evaluating Depth, Robustness, and Biological Interpretability in Plasma Proteomics",
-        "ja": "Beyond Protein Counts: Evaluating Depth, Robustness, and Biological Interpretability in Plasma Proteomics"
-      },
-      "summary": {
-        "en": "Beyond Protein Counts: Evaluating Depth, Robustness, and Biological Interpretability in Plasma Proteomics scox Thu, 09/24/2026 - 13:23 Wed, 11/04/2026 - 11:00 Resource Type Webinar Prashant Kaushik Human plasma proteomics offers significant potential for biomarker discovery and translational researc",
-        "es": "Beyond Protein Counts: Evaluating Depth, Robustness, and Biological Interpretability in Plasma Proteomics scox Thu, 09/24/2026 - 13:23 Wed, 11/04/2026 - 11:00 Resource Type Webinar Prashant Kaushik Human plasma proteomics offers significant potential for biomarker discovery and translational researc",
-        "zh": "Beyond Protein Counts: Evaluating Depth, Robustness, and Biological Interpretability in Plasma Proteomics scox Thu, 09/24/2026 - 13:23 Wed, 11/04/2026 - 11:00 Resource Type Webinar Prashant Kaushik Human plasma proteomics offers significant potential for biomarker discovery and translational researc",
-        "vi": "Beyond Protein Counts: Evaluating Depth, Robustness, and Biological Interpretability in Plasma Proteomics scox Thu, 09/24/2026 - 13:23 Wed, 11/04/2026 - 11:00 Resource Type Webinar Prashant Kaushik Human plasma proteomics offers significant potential for biomarker discovery and translational researc",
-        "ja": "Beyond Protein Counts: Evaluating Depth, Robustness, and Biological Interpretability in Plasma Proteomics scox Thu, 09/24/2026 - 13:23 Wed, 11/04/2026 - 11:00 Resource Type Webinar Prashant Kaushik Human plasma proteomics offers significant potential for biomarker discovery and translational researc"
-      },
-      "category": "Pharma",
-      "score": 0,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://www.fiercepharma.com/premium/webinar/1384223",
-      "published": "Thu, 24 Sep 2026 17:23:55 +0000"
     },
     {
       "id": "https://feeds.feedblitz.com/~/970892330/0/drugchannels~Patient-Support-Strategy-by-Lifecycle-Stage-Launch-Growth-Maturity-and-Loss-of-Exclusivity.html",
@@ -675,23 +675,23 @@
       "published": "Fri, 24 Jul 2026 10:30:00 +0000"
     },
     {
-      "id": "https://feeds.feedblitz.com/~/961224713/0/drugchannels~DirecttoConsumer-Shouldnt-Always-Mean-DirectToMailOrder-Why-Fulfillment-Choice-Matters.html",
+      "id": "https://feeds.feedblitz.com/~/969412136/0/drugchannels~Keep-Your-Patient-Program-at-the-Forefront-of-Innovation-at-Patient-Pathways-The-Copay-and-Patient-Services-Congress.html",
       "headline": {
-        "en": "Direct-to-Consumer Shouldn't Always Mean Direct-To-Mail-Order: Why Fulfillment Choice Matters",
-        "es": "Direct-to-Consumer Shouldn't Always Mean Direct-To-Mail-Order: Why Fulfillment Choice Matters",
-        "zh": "Direct-to-Consumer Shouldn't Always Mean Direct-To-Mail-Order: Why Fulfillment Choice Matters",
-        "vi": "Direct-to-Consumer Shouldn't Always Mean Direct-To-Mail-Order: Why Fulfillment Choice Matters",
-        "ja": "Direct-to-Consumer Shouldn't Always Mean Direct-To-Mail-Order: Why Fulfillment Choice Matters"
+        "en": "Keep Your Patient Program at the Forefront of Innovation at Patient Pathways: The Copay and Patient Services Congress",
+        "es": "Keep Your Patient Program at the Forefront of Innovation at Patient Pathways: The Copay and Patient Services Congress",
+        "zh": "Keep Your Patient Program at the Forefront of Innovation at Patient Pathways: The Copay and Patient Services Congress",
+        "vi": "Keep Your Patient Program at the Forefront of Innovation at Patient Pathways: The Copay and Patient Services Congress",
+        "ja": "Keep Your Patient Program at the Forefront of Innovation at Patient Pathways: The Copay and Patient Services Congress"
       },
       "summary": {
-        "en": "Today's guest post comes from Divya Iyer, SVP, Head of Revenue, Pharma Direct at GoodRx. Divya examines why direct-to-consumer strategies shouldn't default to mail-order as the endpoint for every program. She argues that preserving patient choice between retail pickup and home delivery can reduce fr",
-        "es": "Today's guest post comes from Divya Iyer, SVP, Head of Revenue, Pharma Direct at GoodRx. Divya examines why direct-to-consumer strategies shouldn't default to mail-order as the endpoint for every program. She argues that preserving patient choice between retail pickup and home delivery can reduce fr",
-        "zh": "Today's guest post comes from Divya Iyer, SVP, Head of Revenue, Pharma Direct at GoodRx. Divya examines why direct-to-consumer strategies shouldn't default to mail-order as the endpoint for every program. She argues that preserving patient choice between retail pickup and home delivery can reduce fr",
-        "vi": "Today's guest post comes from Divya Iyer, SVP, Head of Revenue, Pharma Direct at GoodRx. Divya examines why direct-to-consumer strategies shouldn't default to mail-order as the endpoint for every program. She argues that preserving patient choice between retail pickup and home delivery can reduce fr",
-        "ja": "Today's guest post comes from Divya Iyer, SVP, Head of Revenue, Pharma Direct at GoodRx. Divya examines why direct-to-consumer strategies shouldn't default to mail-order as the endpoint for every program. She argues that preserving patient choice between retail pickup and home delivery can reduce fr"
+        "en": "Keep Your Patient Program at the Forefront of Innovation at Patient Pathways: The Copay and Patient Services Congress November 17-20, 2026 | Sheraton Downtown Philadelphia Exclusive Offer – Use promo code 26DC10 to save 10% on your registration* Patient need is at an all-time high and the healthcare",
+        "es": "Keep Your Patient Program at the Forefront of Innovation at Patient Pathways: The Copay and Patient Services Congress November 17-20, 2026 | Sheraton Downtown Philadelphia Exclusive Offer – Use promo code 26DC10 to save 10% on your registration* Patient need is at an all-time high and the healthcare",
+        "zh": "Keep Your Patient Program at the Forefront of Innovation at Patient Pathways: The Copay and Patient Services Congress November 17-20, 2026 | Sheraton Downtown Philadelphia Exclusive Offer – Use promo code 26DC10 to save 10% on your registration* Patient need is at an all-time high and the healthcare",
+        "vi": "Keep Your Patient Program at the Forefront of Innovation at Patient Pathways: The Copay and Patient Services Congress November 17-20, 2026 | Sheraton Downtown Philadelphia Exclusive Offer – Use promo code 26DC10 to save 10% on your registration* Patient need is at an all-time high and the healthcare",
+        "ja": "Keep Your Patient Program at the Forefront of Innovation at Patient Pathways: The Copay and Patient Services Congress November 17-20, 2026 | Sheraton Downtown Philadelphia Exclusive Offer – Use promo code 26DC10 to save 10% on your registration* Patient need is at an all-time high and the healthcare"
       },
-      "category": "Pharma",
-      "score": 0,
+      "category": "Access",
+      "score": -15,
       "patientImpact": {
         "en": "May affect drug access, coverage, or cost.",
         "es": "May affect drug access, coverage, or cost.",
@@ -699,8 +699,8 @@
         "vi": "May affect drug access, coverage, or cost.",
         "ja": "May affect drug access, coverage, or cost."
       },
-      "link": "https://feeds.feedblitz.com/~/961224713/0/drugchannels~DirecttoConsumer-Shouldnt-Always-Mean-DirectToMailOrder-Why-Fulfillment-Choice-Matters.html",
-      "published": "Fri, 17 Jul 2026 10:30:00 +0000"
+      "link": "https://feeds.feedblitz.com/~/969412136/0/drugchannels~Keep-Your-Patient-Program-at-the-Forefront-of-Innovation-at-Patient-Pathways-The-Copay-and-Patient-Services-Congress.html",
+      "published": "Mon, 21 Sep 2026 10:30:00 +0000"
     }
   ]
 }
