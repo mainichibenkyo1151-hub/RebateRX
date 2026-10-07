@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T04:33:21.059562Z",
+  "generatedAt": "2026-10-07T12:44:42.454033Z",
   "count": 25,
   "articles": [
     {
@@ -225,6 +225,34 @@
       },
       "link": "https://feeds.feedblitz.com/~/971003609/0/drugchannels~Informa%e2%80%99s-PBM-Contracting-Summit.html",
       "published": "Mon, 05 Oct 2026 10:30:00 +0000"
+    },
+    {
+      "id": "https://feeds.feedblitz.com/~/971091122/0/drugchannels~GrosstoNet-Realities-at-Eight-Top-Drugmakers-The-Net-Pricing-Drug-Channel-Emerges-rerun.html",
+      "headline": {
+        "en": "2025 Gross-to-Net Realities at Eight Top Drugmakers: The Net Pricing Drug Channel Emerges (rerun)",
+        "es": "2025 Gross-to-Net Realities at Eight Top Drugmakers: The Net Pricing Drug Channel Emerges (rerun)",
+        "zh": "2025 Gross-to-Net Realities at Eight Top Drugmakers: The Net Pricing Drug Channel Emerges (rerun)",
+        "vi": "2025 Gross-to-Net Realities at Eight Top Drugmakers: The Net Pricing Drug Channel Emerges (rerun)",
+        "ja": "2025 Gross-to-Net Realities at Eight Top Drugmakers: The Net Pricing Drug Channel Emerges (rerun)"
+      },
+      "summary": {
+        "en": "This week, we're rerunning some popular posts while we put the finishing touches on DCI’s 2026-27 Economic Report on Pharmaceutical Wholesalers and Specialty Distributors . Click here to see the original post from July 2026. By Adam J. Fein, Ph.D. Every year, Drug Channels reviews drug pricing trend",
+        "es": "This week, we're rerunning some popular posts while we put the finishing touches on DCI’s 2026-27 Economic Report on Pharmaceutical Wholesalers and Specialty Distributors . Click here to see the original post from July 2026. By Adam J. Fein, Ph.D. Every year, Drug Channels reviews drug pricing trend",
+        "zh": "This week, we're rerunning some popular posts while we put the finishing touches on DCI’s 2026-27 Economic Report on Pharmaceutical Wholesalers and Specialty Distributors . Click here to see the original post from July 2026. By Adam J. Fein, Ph.D. Every year, Drug Channels reviews drug pricing trend",
+        "vi": "This week, we're rerunning some popular posts while we put the finishing touches on DCI’s 2026-27 Economic Report on Pharmaceutical Wholesalers and Specialty Distributors . Click here to see the original post from July 2026. By Adam J. Fein, Ph.D. Every year, Drug Channels reviews drug pricing trend",
+        "ja": "This week, we're rerunning some popular posts while we put the finishing touches on DCI’s 2026-27 Economic Report on Pharmaceutical Wholesalers and Specialty Distributors . Click here to see the original post from July 2026. By Adam J. Fein, Ph.D. Every year, Drug Channels reviews drug pricing trend"
+      },
+      "category": "Pricing",
+      "score": 30,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://feeds.feedblitz.com/~/971091122/0/drugchannels~GrosstoNet-Realities-at-Eight-Top-Drugmakers-The-Net-Pricing-Drug-Channel-Emerges-rerun.html",
+      "published": "Wed, 07 Oct 2026 09:30:00 +0000"
     },
     {
       "id": "https://feeds.feedblitz.com/~/970750814/0/drugchannels~Drug-Channels-News-Roundup-September-The-B-Margin-Squeeze-Economics-of-Cutting-List-Price-Patient-Adherence-from-Copay-Cards-Negative-Part-D-Premiums-and-Drug.html",
@@ -645,34 +673,6 @@
       },
       "link": "https://feeds.feedblitz.com/~/963872867/0/drugchannels~Drug-Channels-News-Roundup-July-Biosimilar-Launch-Strategy-Part-D-Spending-Trends-Rural-B-Hospitals-What-Employers-Can-Do-About-B-and-Drug-Channel-Villains.html",
       "published": "Tue, 28 Jul 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/962535857/0/drugchannels~DirecttoPatient-Transforming-the-Manufacturer-Access-Model.html",
-      "headline": {
-        "en": "Direct-to-Patient: Transforming the Manufacturer Access Model",
-        "es": "Direct-to-Patient: Transforming the Manufacturer Access Model",
-        "zh": "Direct-to-Patient: Transforming the Manufacturer Access Model",
-        "vi": "Direct-to-Patient: Transforming the Manufacturer Access Model",
-        "ja": "Direct-to-Patient: Transforming the Manufacturer Access Model"
-      },
-      "summary": {
-        "en": "Today's guest post comes from Chip Parkinson, CEO at Gifthealth. Chip discusses how Direct-to-Patient (DTP) models can transform the manufacturer access model for prescription therapies. He argues that a tech-plus-touch, end-to-end approach can improve patient access, protect manufacturer economics,",
-        "es": "Today's guest post comes from Chip Parkinson, CEO at Gifthealth. Chip discusses how Direct-to-Patient (DTP) models can transform the manufacturer access model for prescription therapies. He argues that a tech-plus-touch, end-to-end approach can improve patient access, protect manufacturer economics,",
-        "zh": "Today's guest post comes from Chip Parkinson, CEO at Gifthealth. Chip discusses how Direct-to-Patient (DTP) models can transform the manufacturer access model for prescription therapies. He argues that a tech-plus-touch, end-to-end approach can improve patient access, protect manufacturer economics,",
-        "vi": "Today's guest post comes from Chip Parkinson, CEO at Gifthealth. Chip discusses how Direct-to-Patient (DTP) models can transform the manufacturer access model for prescription therapies. He argues that a tech-plus-touch, end-to-end approach can improve patient access, protect manufacturer economics,",
-        "ja": "Today's guest post comes from Chip Parkinson, CEO at Gifthealth. Chip discusses how Direct-to-Patient (DTP) models can transform the manufacturer access model for prescription therapies. He argues that a tech-plus-touch, end-to-end approach can improve patient access, protect manufacturer economics,"
-      },
-      "category": "Pharma",
-      "score": 0,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/962535857/0/drugchannels~DirecttoPatient-Transforming-the-Manufacturer-Access-Model.html",
-      "published": "Fri, 24 Jul 2026 10:30:00 +0000"
     },
     {
       "id": "https://feeds.feedblitz.com/~/969412136/0/drugchannels~Keep-Your-Patient-Program-at-the-Forefront-of-Innovation-at-Patient-Pathways-The-Copay-and-Patient-Services-Congress.html",
