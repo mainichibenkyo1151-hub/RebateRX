@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T04:47:45.116803Z",
+  "generatedAt": "2026-10-09T12:39:21.035462Z",
   "count": 25,
   "articles": [
     {
@@ -395,6 +395,34 @@
       "published": "Mon, 05 Oct 2026 18:28:27 +0000"
     },
     {
+      "id": "https://feeds.feedblitz.com/~/971175902/0/drugchannels~Transparency-is-No-Longer-a-Compliance-Issue.html",
+      "headline": {
+        "en": "Transparency is No Longer a Compliance Issue",
+        "es": "Transparency is No Longer a Compliance Issue",
+        "zh": "Transparency is No Longer a Compliance Issue",
+        "vi": "Transparency is No Longer a Compliance Issue",
+        "ja": "Transparency is No Longer a Compliance Issue"
+      },
+      "summary": {
+        "en": "Today's guest post comes from Meghal Patel, Chief Product Officer for Truzo at Model N. Meghal examines why claims-level transparency has become increasingly important as manufacturers navigate the growing complexity of 340B and other drug pricing programs. He argues that greater visibility into pri",
+        "es": "Today's guest post comes from Meghal Patel, Chief Product Officer for Truzo at Model N. Meghal examines why claims-level transparency has become increasingly important as manufacturers navigate the growing complexity of 340B and other drug pricing programs. He argues that greater visibility into pri",
+        "zh": "Today's guest post comes from Meghal Patel, Chief Product Officer for Truzo at Model N. Meghal examines why claims-level transparency has become increasingly important as manufacturers navigate the growing complexity of 340B and other drug pricing programs. He argues that greater visibility into pri",
+        "vi": "Today's guest post comes from Meghal Patel, Chief Product Officer for Truzo at Model N. Meghal examines why claims-level transparency has become increasingly important as manufacturers navigate the growing complexity of 340B and other drug pricing programs. He argues that greater visibility into pri",
+        "ja": "Today's guest post comes from Meghal Patel, Chief Product Officer for Truzo at Model N. Meghal examines why claims-level transparency has become increasingly important as manufacturers navigate the growing complexity of 340B and other drug pricing programs. He argues that greater visibility into pri"
+      },
+      "category": "Pricing",
+      "score": 0,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://feeds.feedblitz.com/~/971175902/0/drugchannels~Transparency-is-No-Longer-a-Compliance-Issue.html",
+      "published": "Fri, 09 Oct 2026 10:30:00 +0000"
+    },
+    {
       "id": "https://feeds.feedblitz.com/~/971042027/0/drugchannels~Pharmacist-Salaries-and-Employment-in-Retail-Declines-Hospital-Gains-rerun.html",
       "headline": {
         "en": "Pharmacist Salaries and Employment in 2025: Retail Declines, Hospital Gains (rerun)",
@@ -645,34 +673,6 @@
       },
       "link": "https://feeds.feedblitz.com/~/967219904/0/drugchannels~A-System-of-Record-or-a-System-of-Learning.html",
       "published": "Fri, 07 Aug 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/964938914/0/drugchannels~The-Industry-Doesnt-Have-an-Access-Collaboration-Problem-It-Has-an-Accountability-Problem.html",
-      "headline": {
-        "en": "The Industry Doesn't Have an Access Collaboration Problem. It Has an Accountability Problem.",
-        "es": "The Industry Doesn't Have an Access Collaboration Problem. It Has an Accountability Problem.",
-        "zh": "The Industry Doesn't Have an Access Collaboration Problem. It Has an Accountability Problem.",
-        "vi": "The Industry Doesn't Have an Access Collaboration Problem. It Has an Accountability Problem.",
-        "ja": "The Industry Doesn't Have an Access Collaboration Problem. It Has an Accountability Problem."
-      },
-      "summary": {
-        "en": "Today's guest post comes from Jen Norton, President, Market Access &amp; Value at EVERSANA. Jen examines why fragmented ownership across development, regulatory, pricing, distribution, and field functions undermines access at launch. She argues that naming a single accountable owner for the access o",
-        "es": "Today's guest post comes from Jen Norton, President, Market Access &amp; Value at EVERSANA. Jen examines why fragmented ownership across development, regulatory, pricing, distribution, and field functions undermines access at launch. She argues that naming a single accountable owner for the access o",
-        "zh": "Today's guest post comes from Jen Norton, President, Market Access &amp; Value at EVERSANA. Jen examines why fragmented ownership across development, regulatory, pricing, distribution, and field functions undermines access at launch. She argues that naming a single accountable owner for the access o",
-        "vi": "Today's guest post comes from Jen Norton, President, Market Access &amp; Value at EVERSANA. Jen examines why fragmented ownership across development, regulatory, pricing, distribution, and field functions undermines access at launch. She argues that naming a single accountable owner for the access o",
-        "ja": "Today's guest post comes from Jen Norton, President, Market Access &amp; Value at EVERSANA. Jen examines why fragmented ownership across development, regulatory, pricing, distribution, and field functions undermines access at launch. She argues that naming a single accountable owner for the access o"
-      },
-      "category": "Pricing",
-      "score": 0,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/964938914/0/drugchannels~The-Industry-Doesnt-Have-an-Access-Collaboration-Problem-It-Has-an-Accountability-Problem.html",
-      "published": "Fri, 31 Jul 2026 10:30:00 +0000"
     },
     {
       "id": "https://feeds.feedblitz.com/~/969412136/0/drugchannels~Keep-Your-Patient-Program-at-the-Forefront-of-Innovation-at-Patient-Pathways-The-Copay-and-Patient-Services-Congress.html",
