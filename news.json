@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T17:17:30.737107Z",
+  "generatedAt": "2026-10-10T21:13:40.768428Z",
   "count": 25,
   "articles": [
     {
@@ -395,6 +395,34 @@
       "published": "Mon, 05 Oct 2026 18:28:27 +0000"
     },
     {
+      "id": "https://www.fiercepharma.com/premium/webinar/1384281",
+      "headline": {
+        "en": "From Phenotypic Hit to an Orally Active Zika Antiviral",
+        "es": "From Phenotypic Hit to an Orally Active Zika Antiviral",
+        "zh": "From Phenotypic Hit to an Orally Active Zika Antiviral",
+        "vi": "From Phenotypic Hit to an Orally Active Zika Antiviral",
+        "ja": "From Phenotypic Hit to an Orally Active Zika Antiviral"
+      },
+      "summary": {
+        "en": "From Phenotypic Hit to an Orally Active Zika Antiviral jpiatt Fri, 09/25/2026 - 15:04 Thu, 10/29/2026 - 11:30 Resource Type Webinar Dr. Esther Torrente de Haro This webinar is designed for medicinal chemists, virologists, structural and molecular biologists, DMPK and pharmacology scientists, drug-di",
+        "es": "From Phenotypic Hit to an Orally Active Zika Antiviral jpiatt Fri, 09/25/2026 - 15:04 Thu, 10/29/2026 - 11:30 Resource Type Webinar Dr. Esther Torrente de Haro This webinar is designed for medicinal chemists, virologists, structural and molecular biologists, DMPK and pharmacology scientists, drug-di",
+        "zh": "From Phenotypic Hit to an Orally Active Zika Antiviral jpiatt Fri, 09/25/2026 - 15:04 Thu, 10/29/2026 - 11:30 Resource Type Webinar Dr. Esther Torrente de Haro This webinar is designed for medicinal chemists, virologists, structural and molecular biologists, DMPK and pharmacology scientists, drug-di",
+        "vi": "From Phenotypic Hit to an Orally Active Zika Antiviral jpiatt Fri, 09/25/2026 - 15:04 Thu, 10/29/2026 - 11:30 Resource Type Webinar Dr. Esther Torrente de Haro This webinar is designed for medicinal chemists, virologists, structural and molecular biologists, DMPK and pharmacology scientists, drug-di",
+        "ja": "From Phenotypic Hit to an Orally Active Zika Antiviral jpiatt Fri, 09/25/2026 - 15:04 Thu, 10/29/2026 - 11:30 Resource Type Webinar Dr. Esther Torrente de Haro This webinar is designed for medicinal chemists, virologists, structural and molecular biologists, DMPK and pharmacology scientists, drug-di"
+      },
+      "category": "Pharma",
+      "score": 0,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://www.fiercepharma.com/premium/webinar/1384281",
+      "published": "Fri, 25 Sep 2026 19:04:18 +0000"
+    },
+    {
       "id": "https://feeds.feedblitz.com/~/971175902/0/drugchannels~Transparency-is-No-Longer-a-Compliance-Issue.html",
       "headline": {
         "en": "Transparency is No Longer a Compliance Issue",
@@ -673,34 +701,6 @@
       },
       "link": "https://feeds.feedblitz.com/~/967219904/0/drugchannels~A-System-of-Record-or-a-System-of-Learning.html",
       "published": "Fri, 07 Aug 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/969412136/0/drugchannels~Keep-Your-Patient-Program-at-the-Forefront-of-Innovation-at-Patient-Pathways-The-Copay-and-Patient-Services-Congress.html",
-      "headline": {
-        "en": "Keep Your Patient Program at the Forefront of Innovation at Patient Pathways: The Copay and Patient Services Congress",
-        "es": "Keep Your Patient Program at the Forefront of Innovation at Patient Pathways: The Copay and Patient Services Congress",
-        "zh": "Keep Your Patient Program at the Forefront of Innovation at Patient Pathways: The Copay and Patient Services Congress",
-        "vi": "Keep Your Patient Program at the Forefront of Innovation at Patient Pathways: The Copay and Patient Services Congress",
-        "ja": "Keep Your Patient Program at the Forefront of Innovation at Patient Pathways: The Copay and Patient Services Congress"
-      },
-      "summary": {
-        "en": "Keep Your Patient Program at the Forefront of Innovation at Patient Pathways: The Copay and Patient Services Congress November 17-20, 2026 | Sheraton Downtown Philadelphia Exclusive Offer – Use promo code 26DC10 to save 10% on your registration* Patient need is at an all-time high and the healthcare",
-        "es": "Keep Your Patient Program at the Forefront of Innovation at Patient Pathways: The Copay and Patient Services Congress November 17-20, 2026 | Sheraton Downtown Philadelphia Exclusive Offer – Use promo code 26DC10 to save 10% on your registration* Patient need is at an all-time high and the healthcare",
-        "zh": "Keep Your Patient Program at the Forefront of Innovation at Patient Pathways: The Copay and Patient Services Congress November 17-20, 2026 | Sheraton Downtown Philadelphia Exclusive Offer – Use promo code 26DC10 to save 10% on your registration* Patient need is at an all-time high and the healthcare",
-        "vi": "Keep Your Patient Program at the Forefront of Innovation at Patient Pathways: The Copay and Patient Services Congress November 17-20, 2026 | Sheraton Downtown Philadelphia Exclusive Offer – Use promo code 26DC10 to save 10% on your registration* Patient need is at an all-time high and the healthcare",
-        "ja": "Keep Your Patient Program at the Forefront of Innovation at Patient Pathways: The Copay and Patient Services Congress November 17-20, 2026 | Sheraton Downtown Philadelphia Exclusive Offer – Use promo code 26DC10 to save 10% on your registration* Patient need is at an all-time high and the healthcare"
-      },
-      "category": "Access",
-      "score": -15,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/969412136/0/drugchannels~Keep-Your-Patient-Program-at-the-Forefront-of-Innovation-at-Patient-Pathways-The-Copay-and-Patient-Services-Congress.html",
-      "published": "Mon, 21 Sep 2026 10:30:00 +0000"
     }
   ]
 }
