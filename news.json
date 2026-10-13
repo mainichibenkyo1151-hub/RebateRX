@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T13:39:40.739272Z",
+  "generatedAt": "2026-10-13T22:20:40.133889Z",
   "count": 25,
   "articles": [
     {
@@ -367,6 +367,34 @@
       "published": "Tue, 11 Aug 2026 10:30:00 +0000"
     },
     {
+      "id": "https://www.fiercepharma.com/premium/webinar/1384712",
+      "headline": {
+        "en": "Signal or Noise? Building Confidence in Launch Decisions Through Trusted Data",
+        "es": "Signal or Noise? Building Confidence in Launch Decisions Through Trusted Data",
+        "zh": "Signal or Noise? Building Confidence in Launch Decisions Through Trusted Data",
+        "vi": "Signal or Noise? Building Confidence in Launch Decisions Through Trusted Data",
+        "ja": "Signal or Noise? Building Confidence in Launch Decisions Through Trusted Data"
+      },
+      "summary": {
+        "en": "Signal or Noise? Building Confidence in Launch Decisions Through Trusted Data scox Mon, 10/12/2026 - 12:37 Tue, 12/08/2026 - 13:00 Resource Type Webinar Melanie Conboy, PharmD, MPH Even the most carefully developed launch strategy is built on assumptions. As new clinical evidence emerges, market con",
+        "es": "Signal or Noise? Building Confidence in Launch Decisions Through Trusted Data scox Mon, 10/12/2026 - 12:37 Tue, 12/08/2026 - 13:00 Resource Type Webinar Melanie Conboy, PharmD, MPH Even the most carefully developed launch strategy is built on assumptions. As new clinical evidence emerges, market con",
+        "zh": "Signal or Noise? Building Confidence in Launch Decisions Through Trusted Data scox Mon, 10/12/2026 - 12:37 Tue, 12/08/2026 - 13:00 Resource Type Webinar Melanie Conboy, PharmD, MPH Even the most carefully developed launch strategy is built on assumptions. As new clinical evidence emerges, market con",
+        "vi": "Signal or Noise? Building Confidence in Launch Decisions Through Trusted Data scox Mon, 10/12/2026 - 12:37 Tue, 12/08/2026 - 13:00 Resource Type Webinar Melanie Conboy, PharmD, MPH Even the most carefully developed launch strategy is built on assumptions. As new clinical evidence emerges, market con",
+        "ja": "Signal or Noise? Building Confidence in Launch Decisions Through Trusted Data scox Mon, 10/12/2026 - 12:37 Tue, 12/08/2026 - 13:00 Resource Type Webinar Melanie Conboy, PharmD, MPH Even the most carefully developed launch strategy is built on assumptions. As new clinical evidence emerges, market con"
+      },
+      "category": "Pharma",
+      "score": 0,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://www.fiercepharma.com/premium/webinar/1384712",
+      "published": "Mon, 12 Oct 2026 16:37:07 +0000"
+    },
+    {
       "id": "https://www.fiercepharma.com/premium/webinar/1384506",
       "headline": {
         "en": "\"The Next Signal\": Where Commercial Pharma Data Is Headed",
@@ -673,34 +701,6 @@
       },
       "link": "https://feeds.feedblitz.com/~/967219904/0/drugchannels~A-System-of-Record-or-a-System-of-Learning.html",
       "published": "Fri, 07 Aug 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/969412136/0/drugchannels~Keep-Your-Patient-Program-at-the-Forefront-of-Innovation-at-Patient-Pathways-The-Copay-and-Patient-Services-Congress.html",
-      "headline": {
-        "en": "Keep Your Patient Program at the Forefront of Innovation at Patient Pathways: The Copay and Patient Services Congress",
-        "es": "Keep Your Patient Program at the Forefront of Innovation at Patient Pathways: The Copay and Patient Services Congress",
-        "zh": "Keep Your Patient Program at the Forefront of Innovation at Patient Pathways: The Copay and Patient Services Congress",
-        "vi": "Keep Your Patient Program at the Forefront of Innovation at Patient Pathways: The Copay and Patient Services Congress",
-        "ja": "Keep Your Patient Program at the Forefront of Innovation at Patient Pathways: The Copay and Patient Services Congress"
-      },
-      "summary": {
-        "en": "Keep Your Patient Program at the Forefront of Innovation at Patient Pathways: The Copay and Patient Services Congress November 17-20, 2026 | Sheraton Downtown Philadelphia Exclusive Offer – Use promo code 26DC10 to save 10% on your registration* Patient need is at an all-time high and the healthcare",
-        "es": "Keep Your Patient Program at the Forefront of Innovation at Patient Pathways: The Copay and Patient Services Congress November 17-20, 2026 | Sheraton Downtown Philadelphia Exclusive Offer – Use promo code 26DC10 to save 10% on your registration* Patient need is at an all-time high and the healthcare",
-        "zh": "Keep Your Patient Program at the Forefront of Innovation at Patient Pathways: The Copay and Patient Services Congress November 17-20, 2026 | Sheraton Downtown Philadelphia Exclusive Offer – Use promo code 26DC10 to save 10% on your registration* Patient need is at an all-time high and the healthcare",
-        "vi": "Keep Your Patient Program at the Forefront of Innovation at Patient Pathways: The Copay and Patient Services Congress November 17-20, 2026 | Sheraton Downtown Philadelphia Exclusive Offer – Use promo code 26DC10 to save 10% on your registration* Patient need is at an all-time high and the healthcare",
-        "ja": "Keep Your Patient Program at the Forefront of Innovation at Patient Pathways: The Copay and Patient Services Congress November 17-20, 2026 | Sheraton Downtown Philadelphia Exclusive Offer – Use promo code 26DC10 to save 10% on your registration* Patient need is at an all-time high and the healthcare"
-      },
-      "category": "Access",
-      "score": -15,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/969412136/0/drugchannels~Keep-Your-Patient-Program-at-the-Forefront-of-Innovation-at-Patient-Pathways-The-Copay-and-Patient-Services-Congress.html",
-      "published": "Mon, 21 Sep 2026 10:30:00 +0000"
     }
   ]
 }
