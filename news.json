@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T00:13:10.373885Z",
+  "generatedAt": "2026-10-13T13:39:40.739272Z",
   "count": 25,
   "articles": [
     {
@@ -115,6 +115,34 @@
       "published": "Tue, 25 Aug 2026 10:30:00 +0000"
     },
     {
+      "id": "https://feeds.feedblitz.com/~/971355740/0/drugchannels~NOW-AVAILABLE-DCI%e2%80%99s-New-Economic-Report-on-Pharmaceutical-Wholesalers-and-Specialty-Distributors.html",
+      "headline": {
+        "en": "NOW AVAILABLE: DCI’s New 2026-27 Economic Report on Pharmaceutical Wholesalers and Specialty Distributors",
+        "es": "NOW AVAILABLE: DCI’s New 2026-27 Economic Report on Pharmaceutical Wholesalers and Specialty Distributors",
+        "zh": "NOW AVAILABLE: DCI’s New 2026-27 Economic Report on Pharmaceutical Wholesalers and Specialty Distributors",
+        "vi": "NOW AVAILABLE: DCI’s New 2026-27 Economic Report on Pharmaceutical Wholesalers and Specialty Distributors",
+        "ja": "NOW AVAILABLE: DCI’s New 2026-27 Economic Report on Pharmaceutical Wholesalers and Specialty Distributors"
+      },
+      "summary": {
+        "en": "Drug Channels Institute is pleased to announce the availability of our 2026-27 Economic Report on Pharmaceutical Wholesalers and Specialty Distributors . The U.S. prescription drug market continues to expand, even as the foundations of the drug channel are shifting. Legislative intervention, pricing",
+        "es": "Drug Channels Institute is pleased to announce the availability of our 2026-27 Economic Report on Pharmaceutical Wholesalers and Specialty Distributors . The U.S. prescription drug market continues to expand, even as the foundations of the drug channel are shifting. Legislative intervention, pricing",
+        "zh": "Drug Channels Institute is pleased to announce the availability of our 2026-27 Economic Report on Pharmaceutical Wholesalers and Specialty Distributors . The U.S. prescription drug market continues to expand, even as the foundations of the drug channel are shifting. Legislative intervention, pricing",
+        "vi": "Drug Channels Institute is pleased to announce the availability of our 2026-27 Economic Report on Pharmaceutical Wholesalers and Specialty Distributors . The U.S. prescription drug market continues to expand, even as the foundations of the drug channel are shifting. Legislative intervention, pricing",
+        "ja": "Drug Channels Institute is pleased to announce the availability of our 2026-27 Economic Report on Pharmaceutical Wholesalers and Specialty Distributors . The U.S. prescription drug market continues to expand, even as the foundations of the drug channel are shifting. Legislative intervention, pricing"
+      },
+      "category": "Pricing",
+      "score": 50,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://feeds.feedblitz.com/~/971355740/0/drugchannels~NOW-AVAILABLE-DCI%e2%80%99s-New-Economic-Report-on-Pharmaceutical-Wholesalers-and-Specialty-Distributors.html",
+      "published": "Tue, 13 Oct 2026 10:30:00 +0000"
+    },
+    {
       "id": "https://feeds.feedblitz.com/~/967969280/0/drugchannels~REMS-Removed-Why-CART%e2%80%99s-Expansion-into-Community-Oncology-Could-Benefit-the-Big-Three-Wholesalers.html",
       "headline": {
         "en": "REMS Removed: Why CAR-T’s Expansion into Community Oncology Could Benefit the Big Three Wholesalers",
@@ -197,34 +225,6 @@
       },
       "link": "https://feeds.feedblitz.com/~/967559789/0/drugchannels~Informa-Connect%e2%80%99s-Medicaid-Drug-Rebate-Program-Summit.html",
       "published": "Mon, 10 Aug 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/966196043/0/drugchannels~Who-Will-Pay-for-Prescription-Drugs-in-Medicares-Surprising-Rise-in-the-Latest-Government-Forecasts.html",
-      "headline": {
-        "en": "Who Will Pay for Prescription Drugs in 2034? Medicare's Surprising Rise in the Latest Government Forecasts",
-        "es": "Who Will Pay for Prescription Drugs in 2034? Medicare's Surprising Rise in the Latest Government Forecasts",
-        "zh": "Who Will Pay for Prescription Drugs in 2034? Medicare's Surprising Rise in the Latest Government Forecasts",
-        "vi": "Who Will Pay for Prescription Drugs in 2034? Medicare's Surprising Rise in the Latest Government Forecasts",
-        "ja": "Who Will Pay for Prescription Drugs in 2034? Medicare's Surprising Rise in the Latest Government Forecasts"
-      },
-      "summary": {
-        "en": "By Adam J. Fein, Ph.D. and Greis Kapexhiu In late June, the boffins at the Centers for Medicare &amp; Medicaid Services (CMS) released the latest projections for U.S. spending on healthcare. (See links below.) These data provide the latest official, nonpartisan look at the future of U.S. healthcare ",
-        "es": "By Adam J. Fein, Ph.D. and Greis Kapexhiu In late June, the boffins at the Centers for Medicare &amp; Medicaid Services (CMS) released the latest projections for U.S. spending on healthcare. (See links below.) These data provide the latest official, nonpartisan look at the future of U.S. healthcare ",
-        "zh": "By Adam J. Fein, Ph.D. and Greis Kapexhiu In late June, the boffins at the Centers for Medicare &amp; Medicaid Services (CMS) released the latest projections for U.S. spending on healthcare. (See links below.) These data provide the latest official, nonpartisan look at the future of U.S. healthcare ",
-        "vi": "By Adam J. Fein, Ph.D. and Greis Kapexhiu In late June, the boffins at the Centers for Medicare &amp; Medicaid Services (CMS) released the latest projections for U.S. spending on healthcare. (See links below.) These data provide the latest official, nonpartisan look at the future of U.S. healthcare ",
-        "ja": "By Adam J. Fein, Ph.D. and Greis Kapexhiu In late June, the boffins at the Centers for Medicare &amp; Medicaid Services (CMS) released the latest projections for U.S. spending on healthcare. (See links below.) These data provide the latest official, nonpartisan look at the future of U.S. healthcare "
-      },
-      "category": "Insurance",
-      "score": 40,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/966196043/0/drugchannels~Who-Will-Pay-for-Prescription-Drugs-in-Medicares-Surprising-Rise-in-the-Latest-Government-Forecasts.html",
-      "published": "Tue, 04 Aug 2026 10:30:00 +0000"
     },
     {
       "id": "https://feeds.feedblitz.com/~/971003609/0/drugchannels~Informa%e2%80%99s-PBM-Contracting-Summit.html",
