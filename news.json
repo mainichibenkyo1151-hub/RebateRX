@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T11:18:25.401059Z",
+  "generatedAt": "2026-10-14T16:39:04.378094Z",
   "count": 25,
   "articles": [
     {
@@ -423,6 +423,34 @@
       "published": "Mon, 05 Oct 2026 18:28:27 +0000"
     },
     {
+      "id": "https://feeds.feedblitz.com/~/971497205/0/drugchannels~Crucial-Trends-Facing-US-Drug-Wholesalers-in-and-Beyond.html",
+      "headline": {
+        "en": "10 Crucial Trends Facing U.S. Drug Wholesalers in 2026 and Beyond",
+        "es": "10 Crucial Trends Facing U.S. Drug Wholesalers in 2026 and Beyond",
+        "zh": "10 Crucial Trends Facing U.S. Drug Wholesalers in 2026 and Beyond",
+        "vi": "10 Crucial Trends Facing U.S. Drug Wholesalers in 2026 and Beyond",
+        "ja": "10 Crucial Trends Facing U.S. Drug Wholesalers in 2026 and Beyond"
+      },
+      "summary": {
+        "en": "By Adam J. Fein, Ph.D. As regular readers of Drug Channels know, U.S. distribution and dispensing channels for prescription drugs are undergoing significant evolution and consolidation as the changing economics of pharmaceuticals challenge conventional business models. During this period of volatili",
+        "es": "By Adam J. Fein, Ph.D. As regular readers of Drug Channels know, U.S. distribution and dispensing channels for prescription drugs are undergoing significant evolution and consolidation as the changing economics of pharmaceuticals challenge conventional business models. During this period of volatili",
+        "zh": "By Adam J. Fein, Ph.D. As regular readers of Drug Channels know, U.S. distribution and dispensing channels for prescription drugs are undergoing significant evolution and consolidation as the changing economics of pharmaceuticals challenge conventional business models. During this period of volatili",
+        "vi": "By Adam J. Fein, Ph.D. As regular readers of Drug Channels know, U.S. distribution and dispensing channels for prescription drugs are undergoing significant evolution and consolidation as the changing economics of pharmaceuticals challenge conventional business models. During this period of volatili",
+        "ja": "By Adam J. Fein, Ph.D. As regular readers of Drug Channels know, U.S. distribution and dispensing channels for prescription drugs are undergoing significant evolution and consolidation as the changing economics of pharmaceuticals challenge conventional business models. During this period of volatili"
+      },
+      "category": "Pharma",
+      "score": 0,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://feeds.feedblitz.com/~/971497205/0/drugchannels~Crucial-Trends-Facing-US-Drug-Wholesalers-in-and-Beyond.html",
+      "published": "Wed, 14 Oct 2026 10:30:00 +0000"
+    },
+    {
       "id": "https://feeds.feedblitz.com/~/971175902/0/drugchannels~Transparency-is-No-Longer-a-Compliance-Issue.html",
       "headline": {
         "en": "Transparency is No Longer a Compliance Issue",
@@ -673,34 +701,6 @@
       },
       "link": "https://feeds.feedblitz.com/~/967828754/0/drugchannels~Hub-Transitions-Need-Proven-Plans-Smart-ScaleUp.html",
       "published": "Fri, 14 Aug 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/967219904/0/drugchannels~A-System-of-Record-or-a-System-of-Learning.html",
-      "headline": {
-        "en": "A System of Record, or a System of Learning?",
-        "es": "A System of Record, or a System of Learning?",
-        "zh": "A System of Record, or a System of Learning?",
-        "vi": "A System of Record, or a System of Learning?",
-        "ja": "A System of Record, or a System of Learning?"
-      },
-      "summary": {
-        "en": "Today's guest post comes from Scott Filosi, Chief Commercial Officer at Valeris. Scott explores how patient access organizations can move beyond simply tracking the patient journey to using real-time insights to improve it. He argues that connecting commercial strategy, market access, payer intellig",
-        "es": "Today's guest post comes from Scott Filosi, Chief Commercial Officer at Valeris. Scott explores how patient access organizations can move beyond simply tracking the patient journey to using real-time insights to improve it. He argues that connecting commercial strategy, market access, payer intellig",
-        "zh": "Today's guest post comes from Scott Filosi, Chief Commercial Officer at Valeris. Scott explores how patient access organizations can move beyond simply tracking the patient journey to using real-time insights to improve it. He argues that connecting commercial strategy, market access, payer intellig",
-        "vi": "Today's guest post comes from Scott Filosi, Chief Commercial Officer at Valeris. Scott explores how patient access organizations can move beyond simply tracking the patient journey to using real-time insights to improve it. He argues that connecting commercial strategy, market access, payer intellig",
-        "ja": "Today's guest post comes from Scott Filosi, Chief Commercial Officer at Valeris. Scott explores how patient access organizations can move beyond simply tracking the patient journey to using real-time insights to improve it. He argues that connecting commercial strategy, market access, payer intellig"
-      },
-      "category": "Pharma",
-      "score": 0,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/967219904/0/drugchannels~A-System-of-Record-or-a-System-of-Learning.html",
-      "published": "Fri, 07 Aug 2026 10:30:00 +0000"
     }
   ]
 }
