@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T03:37:10.383827Z",
+  "generatedAt": "2026-10-20T10:59:22.475908Z",
   "count": 25,
   "articles": [
     {
@@ -171,6 +171,34 @@
       "published": "Tue, 18 Aug 2026 10:30:00 +0000"
     },
     {
+      "id": "https://feeds.feedblitz.com/~/971807645/0/drugchannels~Alternative-PBM-Satisfaction-Declined-in-Shrinking-the-Advantage-Over-the-Big-Three-PBMs.html",
+      "headline": {
+        "en": "Alternative PBM Satisfaction Declined in 2026, Shrinking the Advantage Over the Big Three PBMs",
+        "es": "Alternative PBM Satisfaction Declined in 2026, Shrinking the Advantage Over the Big Three PBMs",
+        "zh": "Alternative PBM Satisfaction Declined in 2026, Shrinking the Advantage Over the Big Three PBMs",
+        "vi": "Alternative PBM Satisfaction Declined in 2026, Shrinking the Advantage Over the Big Three PBMs",
+        "ja": "Alternative PBM Satisfaction Declined in 2026, Shrinking the Advantage Over the Big Three PBMs"
+      },
+      "summary": {
+        "en": "By Bryce Platt, PharmD PBMs outside the Big Three still earn higher customer satisfaction ratings, but their lead has nearly disappeared. Meanwhile, plan sponsors are inviting alternatives into their RFPs, and some are changing vendors. Research on 2027 benefits planning suggests the shopping will c",
+        "es": "By Bryce Platt, PharmD PBMs outside the Big Three still earn higher customer satisfaction ratings, but their lead has nearly disappeared. Meanwhile, plan sponsors are inviting alternatives into their RFPs, and some are changing vendors. Research on 2027 benefits planning suggests the shopping will c",
+        "zh": "By Bryce Platt, PharmD PBMs outside the Big Three still earn higher customer satisfaction ratings, but their lead has nearly disappeared. Meanwhile, plan sponsors are inviting alternatives into their RFPs, and some are changing vendors. Research on 2027 benefits planning suggests the shopping will c",
+        "vi": "By Bryce Platt, PharmD PBMs outside the Big Three still earn higher customer satisfaction ratings, but their lead has nearly disappeared. Meanwhile, plan sponsors are inviting alternatives into their RFPs, and some are changing vendors. Research on 2027 benefits planning suggests the shopping will c",
+        "ja": "By Bryce Platt, PharmD PBMs outside the Big Three still earn higher customer satisfaction ratings, but their lead has nearly disappeared. Meanwhile, plan sponsors are inviting alternatives into their RFPs, and some are changing vendors. Research on 2027 benefits planning suggests the shopping will c"
+      },
+      "category": "PBM",
+      "score": 40,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://feeds.feedblitz.com/~/971807645/0/drugchannels~Alternative-PBM-Satisfaction-Declined-in-Shrinking-the-Advantage-Over-the-Big-Three-PBMs.html",
+      "published": "Tue, 20 Oct 2026 10:00:00 +0000"
+    },
+    {
       "id": "https://feeds.feedblitz.com/~/969130838/0/drugchannels~Preorder-DCI%e2%80%99s-New-Economic-Report-on-Pharmaceutical-Wholesalers-and-Specialty-Distributors.html",
       "headline": {
         "en": "Preorder DCI’s New 2026-27 Economic Report on Pharmaceutical Wholesalers and Specialty Distributors",
@@ -309,34 +337,6 @@
       },
       "link": "https://feeds.feedblitz.com/~/968867510/0/drugchannels~Drug-Channels-Leadership-Forum-Antonio-Ciaccia-to-Serve-as-Moderator.html",
       "published": "Wed, 09 Sep 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/967665377/0/drugchannels~The-KShaped-Pharmacy-Shakeout-Consolidation-in-Cities-Lost-Access-in-Rural-America.html",
-      "headline": {
-        "en": "The K-Shaped Pharmacy Shakeout: Consolidation in Cities, Lost Access in Rural America",
-        "es": "The K-Shaped Pharmacy Shakeout: Consolidation in Cities, Lost Access in Rural America",
-        "zh": "The K-Shaped Pharmacy Shakeout: Consolidation in Cities, Lost Access in Rural America",
-        "vi": "The K-Shaped Pharmacy Shakeout: Consolidation in Cities, Lost Access in Rural America",
-        "ja": "The K-Shaped Pharmacy Shakeout: Consolidation in Cities, Lost Access in Rural America"
-      },
-      "summary": {
-        "en": "By Bryce Platt, PharmD The United States has almost 8,000 fewer retail pharmacies than it did in 2018, and more than 2,000 closed in 2025 alone. Rite Aid has liquidated. Walgreens is working through a multi-year plan to shutter hundreds of stores. CVS has trimmed hundreds more. Yet total U.S. prescr",
-        "es": "By Bryce Platt, PharmD The United States has almost 8,000 fewer retail pharmacies than it did in 2018, and more than 2,000 closed in 2025 alone. Rite Aid has liquidated. Walgreens is working through a multi-year plan to shutter hundreds of stores. CVS has trimmed hundreds more. Yet total U.S. prescr",
-        "zh": "By Bryce Platt, PharmD The United States has almost 8,000 fewer retail pharmacies than it did in 2018, and more than 2,000 closed in 2025 alone. Rite Aid has liquidated. Walgreens is working through a multi-year plan to shutter hundreds of stores. CVS has trimmed hundreds more. Yet total U.S. prescr",
-        "vi": "By Bryce Platt, PharmD The United States has almost 8,000 fewer retail pharmacies than it did in 2018, and more than 2,000 closed in 2025 alone. Rite Aid has liquidated. Walgreens is working through a multi-year plan to shutter hundreds of stores. CVS has trimmed hundreds more. Yet total U.S. prescr",
-        "ja": "By Bryce Platt, PharmD The United States has almost 8,000 fewer retail pharmacies than it did in 2018, and more than 2,000 closed in 2025 alone. Rite Aid has liquidated. Walgreens is working through a multi-year plan to shutter hundreds of stores. CVS has trimmed hundreds more. Yet total U.S. prescr"
-      },
-      "category": "Pharma",
-      "score": 10,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/967665377/0/drugchannels~The-KShaped-Pharmacy-Shakeout-Consolidation-in-Cities-Lost-Access-in-Rural-America.html",
-      "published": "Tue, 11 Aug 2026 10:30:00 +0000"
     },
     {
       "id": "https://www.fiercepharma.com/premium/webinar/1384712",
