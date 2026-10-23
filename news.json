@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T03:34:38.971713Z",
+  "generatedAt": "2026-10-23T11:06:11.703541Z",
   "count": 25,
   "articles": [
     {
@@ -281,6 +281,34 @@
       },
       "link": "https://feeds.feedblitz.com/~/971091122/0/drugchannels~GrosstoNet-Realities-at-Eight-Top-Drugmakers-The-Net-Pricing-Drug-Channel-Emerges-rerun.html",
       "published": "Wed, 07 Oct 2026 09:30:00 +0000"
+    },
+    {
+      "id": "https://feeds.feedblitz.com/~/971903309/0/drugchannels~Copay-GTN-Revenue-Protection-Better-Together.html",
+      "headline": {
+        "en": "Copay + GTN Revenue Protection = Better Together",
+        "es": "Copay + GTN Revenue Protection = Better Together",
+        "zh": "Copay + GTN Revenue Protection = Better Together",
+        "vi": "Copay + GTN Revenue Protection = Better Together",
+        "ja": "Copay + GTN Revenue Protection = Better Together"
+      },
+      "summary": {
+        "en": "Today's guest post comes from Gerard Rivera, Co-Founder &amp; CEO at RIS Rx. Gerard Rivera examines how copay programs and real-time gross-to-net (GTN) revenue protection can work together to support patient access and program performance. He highlights how simpler program design, timely data, and r",
+        "es": "Today's guest post comes from Gerard Rivera, Co-Founder &amp; CEO at RIS Rx. Gerard Rivera examines how copay programs and real-time gross-to-net (GTN) revenue protection can work together to support patient access and program performance. He highlights how simpler program design, timely data, and r",
+        "zh": "Today's guest post comes from Gerard Rivera, Co-Founder &amp; CEO at RIS Rx. Gerard Rivera examines how copay programs and real-time gross-to-net (GTN) revenue protection can work together to support patient access and program performance. He highlights how simpler program design, timely data, and r",
+        "vi": "Today's guest post comes from Gerard Rivera, Co-Founder &amp; CEO at RIS Rx. Gerard Rivera examines how copay programs and real-time gross-to-net (GTN) revenue protection can work together to support patient access and program performance. He highlights how simpler program design, timely data, and r",
+        "ja": "Today's guest post comes from Gerard Rivera, Co-Founder &amp; CEO at RIS Rx. Gerard Rivera examines how copay programs and real-time gross-to-net (GTN) revenue protection can work together to support patient access and program performance. He highlights how simpler program design, timely data, and r"
+      },
+      "category": "Access",
+      "score": 20,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://feeds.feedblitz.com/~/971903309/0/drugchannels~Copay-GTN-Revenue-Protection-Better-Together.html",
+      "published": "Fri, 23 Oct 2026 10:00:00 +0000"
     },
     {
       "id": "https://feeds.feedblitz.com/~/970750814/0/drugchannels~Drug-Channels-News-Roundup-September-The-B-Margin-Squeeze-Economics-of-Cutting-List-Price-Patient-Adherence-from-Copay-Cards-Negative-Part-D-Premiums-and-Drug.html",
@@ -645,34 +673,6 @@
       },
       "link": "https://feeds.feedblitz.com/~/968084648/0/drugchannels~Invisible-Work-of-Rare-Pharmacy-Delivers-Highly-Visible-Patient-Outcomes.html",
       "published": "Fri, 21 Aug 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/967828754/0/drugchannels~Hub-Transitions-Need-Proven-Plans-Smart-ScaleUp.html",
-      "headline": {
-        "en": "Hub Transitions Need Proven Plans, Smart Scale-Up",
-        "es": "Hub Transitions Need Proven Plans, Smart Scale-Up",
-        "zh": "Hub Transitions Need Proven Plans, Smart Scale-Up",
-        "vi": "Hub Transitions Need Proven Plans, Smart Scale-Up",
-        "ja": "Hub Transitions Need Proven Plans, Smart Scale-Up"
-      },
-      "summary": {
-        "en": "Today's guest post comes from Josh Marsh, Vice President and General Manager at Cardinal Health Sonexus™ Access and Patient Support. Josh examines the risks manufacturers take when transitioning a patient services hub from one vendor to another. He argues that scaling with a proven, flexible bluepri",
-        "es": "Today's guest post comes from Josh Marsh, Vice President and General Manager at Cardinal Health Sonexus™ Access and Patient Support. Josh examines the risks manufacturers take when transitioning a patient services hub from one vendor to another. He argues that scaling with a proven, flexible bluepri",
-        "zh": "Today's guest post comes from Josh Marsh, Vice President and General Manager at Cardinal Health Sonexus™ Access and Patient Support. Josh examines the risks manufacturers take when transitioning a patient services hub from one vendor to another. He argues that scaling with a proven, flexible bluepri",
-        "vi": "Today's guest post comes from Josh Marsh, Vice President and General Manager at Cardinal Health Sonexus™ Access and Patient Support. Josh examines the risks manufacturers take when transitioning a patient services hub from one vendor to another. He argues that scaling with a proven, flexible bluepri",
-        "ja": "Today's guest post comes from Josh Marsh, Vice President and General Manager at Cardinal Health Sonexus™ Access and Patient Support. Josh examines the risks manufacturers take when transitioning a patient services hub from one vendor to another. He argues that scaling with a proven, flexible bluepri"
-      },
-      "category": "Pharma",
-      "score": 0,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/967828754/0/drugchannels~Hub-Transitions-Need-Proven-Plans-Smart-ScaleUp.html",
-      "published": "Fri, 14 Aug 2026 10:30:00 +0000"
     },
     {
       "id": "https://feeds.feedblitz.com/~/969412136/0/drugchannels~Keep-Your-Patient-Program-at-the-Forefront-of-Innovation-at-Patient-Pathways-The-Copay-and-Patient-Services-Congress.html",
