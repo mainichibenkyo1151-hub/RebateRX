@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T22:15:23.925864Z",
+  "generatedAt": "2026-10-29T04:35:30.004955Z",
   "count": 25,
   "articles": [
     {
@@ -423,34 +423,6 @@
       "published": "Mon, 12 Oct 2026 16:37:07 +0000"
     },
     {
-      "id": "https://www.fiercepharma.com/premium/webinar/1384506",
-      "headline": {
-        "en": "\"The Next Signal\": Where Commercial Pharma Data Is Headed",
-        "es": "\"The Next Signal\": Where Commercial Pharma Data Is Headed",
-        "zh": "\"The Next Signal\": Where Commercial Pharma Data Is Headed",
-        "vi": "\"The Next Signal\": Where Commercial Pharma Data Is Headed",
-        "ja": "\"The Next Signal\": Where Commercial Pharma Data Is Headed"
-      },
-      "summary": {
-        "en": "\"The Next Signal\": Where Commercial Pharma Data Is Headed dwunderlin Mon, 10/05/2026 - 14:28 Thu, 10/22/2026 - 14:00 Resource Type Webinar Amy Crowe Stephan Dunning, MBA, MS Commercial teams have long relied on healthcare claims to understand patient activity, but claims often arrive weeks or even m",
-        "es": "\"The Next Signal\": Where Commercial Pharma Data Is Headed dwunderlin Mon, 10/05/2026 - 14:28 Thu, 10/22/2026 - 14:00 Resource Type Webinar Amy Crowe Stephan Dunning, MBA, MS Commercial teams have long relied on healthcare claims to understand patient activity, but claims often arrive weeks or even m",
-        "zh": "\"The Next Signal\": Where Commercial Pharma Data Is Headed dwunderlin Mon, 10/05/2026 - 14:28 Thu, 10/22/2026 - 14:00 Resource Type Webinar Amy Crowe Stephan Dunning, MBA, MS Commercial teams have long relied on healthcare claims to understand patient activity, but claims often arrive weeks or even m",
-        "vi": "\"The Next Signal\": Where Commercial Pharma Data Is Headed dwunderlin Mon, 10/05/2026 - 14:28 Thu, 10/22/2026 - 14:00 Resource Type Webinar Amy Crowe Stephan Dunning, MBA, MS Commercial teams have long relied on healthcare claims to understand patient activity, but claims often arrive weeks or even m",
-        "ja": "\"The Next Signal\": Where Commercial Pharma Data Is Headed dwunderlin Mon, 10/05/2026 - 14:28 Thu, 10/22/2026 - 14:00 Resource Type Webinar Amy Crowe Stephan Dunning, MBA, MS Commercial teams have long relied on healthcare claims to understand patient activity, but claims often arrive weeks or even m"
-      },
-      "category": "Pharma",
-      "score": 0,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://www.fiercepharma.com/premium/webinar/1384506",
-      "published": "Mon, 05 Oct 2026 18:28:27 +0000"
-    },
-    {
       "id": "https://feeds.feedblitz.com/~/971497205/0/drugchannels~Crucial-Trends-Facing-US-Drug-Wholesalers-in-and-Beyond.html",
       "headline": {
         "en": "10 Crucial Trends Facing U.S. Drug Wholesalers in 2026 and Beyond",
@@ -701,6 +673,34 @@
       },
       "link": "https://feeds.feedblitz.com/~/968084648/0/drugchannels~Invisible-Work-of-Rare-Pharmacy-Delivers-Highly-Visible-Patient-Outcomes.html",
       "published": "Fri, 21 Aug 2026 10:30:00 +0000"
+    },
+    {
+      "id": "https://feeds.feedblitz.com/~/969412136/0/drugchannels~Keep-Your-Patient-Program-at-the-Forefront-of-Innovation-at-Patient-Pathways-The-Copay-and-Patient-Services-Congress.html",
+      "headline": {
+        "en": "Keep Your Patient Program at the Forefront of Innovation at Patient Pathways: The Copay and Patient Services Congress",
+        "es": "Keep Your Patient Program at the Forefront of Innovation at Patient Pathways: The Copay and Patient Services Congress",
+        "zh": "Keep Your Patient Program at the Forefront of Innovation at Patient Pathways: The Copay and Patient Services Congress",
+        "vi": "Keep Your Patient Program at the Forefront of Innovation at Patient Pathways: The Copay and Patient Services Congress",
+        "ja": "Keep Your Patient Program at the Forefront of Innovation at Patient Pathways: The Copay and Patient Services Congress"
+      },
+      "summary": {
+        "en": "Keep Your Patient Program at the Forefront of Innovation at Patient Pathways: The Copay and Patient Services Congress November 17-20, 2026 | Sheraton Downtown Philadelphia Exclusive Offer – Use promo code 26DC10 to save 10% on your registration* Patient need is at an all-time high and the healthcare",
+        "es": "Keep Your Patient Program at the Forefront of Innovation at Patient Pathways: The Copay and Patient Services Congress November 17-20, 2026 | Sheraton Downtown Philadelphia Exclusive Offer – Use promo code 26DC10 to save 10% on your registration* Patient need is at an all-time high and the healthcare",
+        "zh": "Keep Your Patient Program at the Forefront of Innovation at Patient Pathways: The Copay and Patient Services Congress November 17-20, 2026 | Sheraton Downtown Philadelphia Exclusive Offer – Use promo code 26DC10 to save 10% on your registration* Patient need is at an all-time high and the healthcare",
+        "vi": "Keep Your Patient Program at the Forefront of Innovation at Patient Pathways: The Copay and Patient Services Congress November 17-20, 2026 | Sheraton Downtown Philadelphia Exclusive Offer – Use promo code 26DC10 to save 10% on your registration* Patient need is at an all-time high and the healthcare",
+        "ja": "Keep Your Patient Program at the Forefront of Innovation at Patient Pathways: The Copay and Patient Services Congress November 17-20, 2026 | Sheraton Downtown Philadelphia Exclusive Offer – Use promo code 26DC10 to save 10% on your registration* Patient need is at an all-time high and the healthcare"
+      },
+      "category": "Access",
+      "score": -15,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://feeds.feedblitz.com/~/969412136/0/drugchannels~Keep-Your-Patient-Program-at-the-Forefront-of-Innovation-at-Patient-Pathways-The-Copay-and-Patient-Services-Congress.html",
+      "published": "Mon, 21 Sep 2026 10:30:00 +0000"
     }
   ]
 }
