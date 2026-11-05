@@ -1,35 +1,7 @@
 {
-  "generatedAt": "2026-11-05T05:21:49.171982Z",
+  "generatedAt": "2026-11-05T14:04:25.411569Z",
   "count": 25,
   "articles": [
-    {
-      "id": "https://feeds.feedblitz.com/~/968482931/0/drugchannels~The-Private-Label-Biosimilar-Paradox-in-Medicare-Part-D.html",
-      "headline": {
-        "en": "The Private Label Biosimilar Paradox in Medicare Part D",
-        "es": "The Private Label Biosimilar Paradox in Medicare Part D",
-        "zh": "The Private Label Biosimilar Paradox in Medicare Part D",
-        "vi": "The Private Label Biosimilar Paradox in Medicare Part D",
-        "ja": "The Private Label Biosimilar Paradox in Medicare Part D"
-      },
-      "summary": {
-        "en": "By Tyler Novotny and Bryce Platt PBM-affiliated private label biosimilars would seem to have a built-in formulary advantage. But for ustekinumab, that advantage has not carried over to Medicare Part D. A recent JAMA Network Open study identified 12 ustekinumab products available for formulary covera",
-        "es": "By Tyler Novotny and Bryce Platt PBM-affiliated private label biosimilars would seem to have a built-in formulary advantage. But for ustekinumab, that advantage has not carried over to Medicare Part D. A recent JAMA Network Open study identified 12 ustekinumab products available for formulary covera",
-        "zh": "By Tyler Novotny and Bryce Platt PBM-affiliated private label biosimilars would seem to have a built-in formulary advantage. But for ustekinumab, that advantage has not carried over to Medicare Part D. A recent JAMA Network Open study identified 12 ustekinumab products available for formulary covera",
-        "vi": "By Tyler Novotny and Bryce Platt PBM-affiliated private label biosimilars would seem to have a built-in formulary advantage. But for ustekinumab, that advantage has not carried over to Medicare Part D. A recent JAMA Network Open study identified 12 ustekinumab products available for formulary covera",
-        "ja": "By Tyler Novotny and Bryce Platt PBM-affiliated private label biosimilars would seem to have a built-in formulary advantage. But for ustekinumab, that advantage has not carried over to Medicare Part D. A recent JAMA Network Open study identified 12 ustekinumab products available for formulary covera"
-      },
-      "category": "PBM",
-      "score": 100,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/968482931/0/drugchannels~The-Private-Label-Biosimilar-Paradox-in-Medicare-Part-D.html",
-      "published": "Tue, 01 Sep 2026 10:30:00 +0000"
-    },
     {
       "id": "https://feeds.feedblitz.com/~/972270677/0/drugchannels~Drug-Channels-Outlook-Adam%e2%80%99s-Final-Webinar.html",
       "headline": {
@@ -393,6 +365,34 @@
       },
       "link": "https://www.fiercepharma.com/premium/webinar/1385005",
       "published": "Thu, 22 Oct 2026 18:30:54 +0000"
+    },
+    {
+      "id": "https://feeds.feedblitz.com/~/972414218/0/drugchannels~Disintegration-Adam%e2%80%99s-Four-Takeaways-from-the-CVS-Health-Breakup.html",
+      "headline": {
+        "en": "Disintegration: Adam’s Four Takeaways from the CVS Health Breakup",
+        "es": "Disintegration: Adam’s Four Takeaways from the CVS Health Breakup",
+        "zh": "Disintegration: Adam’s Four Takeaways from the CVS Health Breakup",
+        "vi": "Disintegration: Adam’s Four Takeaways from the CVS Health Breakup",
+        "ja": "Disintegration: Adam’s Four Takeaways from the CVS Health Breakup"
+      },
+      "summary": {
+        "en": "By Adam J. Fein, Ph.D. Despite my impending retirement from DCI , I can’t resist sharing a few thoughts on the news that CVS Health plans to split itself up. This split is a belated acknowledgement that the synergies between CVS Pharmacy and Caremark were overblown from the start. As I argue below, ",
+        "es": "By Adam J. Fein, Ph.D. Despite my impending retirement from DCI , I can’t resist sharing a few thoughts on the news that CVS Health plans to split itself up. This split is a belated acknowledgement that the synergies between CVS Pharmacy and Caremark were overblown from the start. As I argue below, ",
+        "zh": "By Adam J. Fein, Ph.D. Despite my impending retirement from DCI , I can’t resist sharing a few thoughts on the news that CVS Health plans to split itself up. This split is a belated acknowledgement that the synergies between CVS Pharmacy and Caremark were overblown from the start. As I argue below, ",
+        "vi": "By Adam J. Fein, Ph.D. Despite my impending retirement from DCI , I can’t resist sharing a few thoughts on the news that CVS Health plans to split itself up. This split is a belated acknowledgement that the synergies between CVS Pharmacy and Caremark were overblown from the start. As I argue below, ",
+        "ja": "By Adam J. Fein, Ph.D. Despite my impending retirement from DCI , I can’t resist sharing a few thoughts on the news that CVS Health plans to split itself up. This split is a belated acknowledgement that the synergies between CVS Pharmacy and Caremark were overblown from the start. As I argue below, "
+      },
+      "category": "Pharma",
+      "score": 0,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://feeds.feedblitz.com/~/972414218/0/drugchannels~Disintegration-Adam%e2%80%99s-Four-Takeaways-from-the-CVS-Health-Breakup.html",
+      "published": "Thu, 05 Nov 2026 12:30:00 +0000"
     },
     {
       "id": "https://feeds.feedblitz.com/~/972201962/0/drugchannels~Biopharma%e2%80%99s-AI-Fork-in-the-Road.html",
