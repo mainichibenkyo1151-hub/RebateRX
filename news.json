@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T04:50:43.662734Z",
+  "generatedAt": "2026-11-07T12:32:16.784494Z",
   "count": 25,
   "articles": [
     {
@@ -395,6 +395,34 @@
       "published": "Thu, 22 Oct 2026 18:30:54 +0000"
     },
     {
+      "id": "https://www.fiercepharma.com/premium/webinar/1384712",
+      "headline": {
+        "en": "Signal or Noise? Building Confidence in Launch Decisions Through Trusted Data",
+        "es": "Signal or Noise? Building Confidence in Launch Decisions Through Trusted Data",
+        "zh": "Signal or Noise? Building Confidence in Launch Decisions Through Trusted Data",
+        "vi": "Signal or Noise? Building Confidence in Launch Decisions Through Trusted Data",
+        "ja": "Signal or Noise? Building Confidence in Launch Decisions Through Trusted Data"
+      },
+      "summary": {
+        "en": "Signal or Noise? Building Confidence in Launch Decisions Through Trusted Data scox Mon, 10/12/2026 - 12:37 Tue, 12/08/2026 - 13:00 Resource Type Webinar Melanie Conboy, PharmD, MPH Even the most carefully developed launch strategy is built on assumptions. As new clinical evidence emerges, market con",
+        "es": "Signal or Noise? Building Confidence in Launch Decisions Through Trusted Data scox Mon, 10/12/2026 - 12:37 Tue, 12/08/2026 - 13:00 Resource Type Webinar Melanie Conboy, PharmD, MPH Even the most carefully developed launch strategy is built on assumptions. As new clinical evidence emerges, market con",
+        "zh": "Signal or Noise? Building Confidence in Launch Decisions Through Trusted Data scox Mon, 10/12/2026 - 12:37 Tue, 12/08/2026 - 13:00 Resource Type Webinar Melanie Conboy, PharmD, MPH Even the most carefully developed launch strategy is built on assumptions. As new clinical evidence emerges, market con",
+        "vi": "Signal or Noise? Building Confidence in Launch Decisions Through Trusted Data scox Mon, 10/12/2026 - 12:37 Tue, 12/08/2026 - 13:00 Resource Type Webinar Melanie Conboy, PharmD, MPH Even the most carefully developed launch strategy is built on assumptions. As new clinical evidence emerges, market con",
+        "ja": "Signal or Noise? Building Confidence in Launch Decisions Through Trusted Data scox Mon, 10/12/2026 - 12:37 Tue, 12/08/2026 - 13:00 Resource Type Webinar Melanie Conboy, PharmD, MPH Even the most carefully developed launch strategy is built on assumptions. As new clinical evidence emerges, market con"
+      },
+      "category": "Pharma",
+      "score": 0,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://www.fiercepharma.com/premium/webinar/1384712",
+      "published": "Mon, 12 Oct 2026 16:37:07 +0000"
+    },
+    {
       "id": "https://feeds.feedblitz.com/~/972414218/0/drugchannels~Disintegration-Adam%e2%80%99s-Four-Takeaways-from-the-CVS-Health-Breakup.html",
       "headline": {
         "en": "Disintegration: Adam’s Four Takeaways from the CVS Health Breakup",
@@ -673,34 +701,6 @@
       },
       "link": "https://feeds.feedblitz.com/~/969412136/0/drugchannels~Keep-Your-Patient-Program-at-the-Forefront-of-Innovation-at-Patient-Pathways-The-Copay-and-Patient-Services-Congress.html",
       "published": "Mon, 21 Sep 2026 10:30:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/971775716/0/drugchannels~Informas-Trade-and-Channel-Strategies.html",
-      "headline": {
-        "en": "Informa's Trade and Channel Strategies",
-        "es": "Informa's Trade and Channel Strategies",
-        "zh": "Informa's Trade and Channel Strategies",
-        "vi": "Informa's Trade and Channel Strategies",
-        "ja": "Informa's Trade and Channel Strategies"
-      },
-      "summary": {
-        "en": "December 8-10, 2026, W Philadelphia Exclusive Offer—Use promo 26DC10 to save 10%* NAVIGATE THE CONVERGENCE: PREPARE, DON'T PREDICT In the next eighteen months, every assumption of pharmaceutical channel strategy breaks all at once. The patent cliff, WAC reductions, loss of exclusivity, medical benef",
-        "es": "December 8-10, 2026, W Philadelphia Exclusive Offer—Use promo 26DC10 to save 10%* NAVIGATE THE CONVERGENCE: PREPARE, DON'T PREDICT In the next eighteen months, every assumption of pharmaceutical channel strategy breaks all at once. The patent cliff, WAC reductions, loss of exclusivity, medical benef",
-        "zh": "December 8-10, 2026, W Philadelphia Exclusive Offer—Use promo 26DC10 to save 10%* NAVIGATE THE CONVERGENCE: PREPARE, DON'T PREDICT In the next eighteen months, every assumption of pharmaceutical channel strategy breaks all at once. The patent cliff, WAC reductions, loss of exclusivity, medical benef",
-        "vi": "December 8-10, 2026, W Philadelphia Exclusive Offer—Use promo 26DC10 to save 10%* NAVIGATE THE CONVERGENCE: PREPARE, DON'T PREDICT In the next eighteen months, every assumption of pharmaceutical channel strategy breaks all at once. The patent cliff, WAC reductions, loss of exclusivity, medical benef",
-        "ja": "December 8-10, 2026, W Philadelphia Exclusive Offer—Use promo 26DC10 to save 10%* NAVIGATE THE CONVERGENCE: PREPARE, DON'T PREDICT In the next eighteen months, every assumption of pharmaceutical channel strategy breaks all at once. The patent cliff, WAC reductions, loss of exclusivity, medical benef"
-      },
-      "category": "Pharma",
-      "score": -40,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/971775716/0/drugchannels~Informas-Trade-and-Channel-Strategies.html",
-      "published": "Mon, 19 Oct 2026 10:30:00 +0000"
     }
   ]
 }
