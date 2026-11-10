@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T01:13:52.948837Z",
+  "generatedAt": "2026-11-10T14:25:44.765886Z",
   "count": 25,
   "articles": [
     {
@@ -339,34 +339,6 @@
       "published": "Tue, 29 Sep 2026 10:30:00 +0000"
     },
     {
-      "id": "https://feeds.feedblitz.com/~/968867510/0/drugchannels~Drug-Channels-Leadership-Forum-Antonio-Ciaccia-to-Serve-as-Moderator.html",
-      "headline": {
-        "en": "Drug Channels Leadership Forum 2027: Antonio Ciaccia to Serve as Moderator",
-        "es": "Drug Channels Leadership Forum 2027: Antonio Ciaccia to Serve as Moderator",
-        "zh": "Drug Channels Leadership Forum 2027: Antonio Ciaccia to Serve as Moderator",
-        "vi": "Drug Channels Leadership Forum 2027: Antonio Ciaccia to Serve as Moderator",
-        "ja": "Drug Channels Leadership Forum 2027: Antonio Ciaccia to Serve as Moderator"
-      },
-      "summary": {
-        "en": "By Tyler Novotny We’re excited to announce the return of the Drug Channels Leadership Forum (DCLF), taking place March 15–17, 2027, at the JW Marriott Miami Turnberry Resort &amp; Spa in Miami. Drug Channels Institute (DCI) will once again host this invitation-only gathering of senior leaders and de",
-        "es": "By Tyler Novotny We’re excited to announce the return of the Drug Channels Leadership Forum (DCLF), taking place March 15–17, 2027, at the JW Marriott Miami Turnberry Resort &amp; Spa in Miami. Drug Channels Institute (DCI) will once again host this invitation-only gathering of senior leaders and de",
-        "zh": "By Tyler Novotny We’re excited to announce the return of the Drug Channels Leadership Forum (DCLF), taking place March 15–17, 2027, at the JW Marriott Miami Turnberry Resort &amp; Spa in Miami. Drug Channels Institute (DCI) will once again host this invitation-only gathering of senior leaders and de",
-        "vi": "By Tyler Novotny We’re excited to announce the return of the Drug Channels Leadership Forum (DCLF), taking place March 15–17, 2027, at the JW Marriott Miami Turnberry Resort &amp; Spa in Miami. Drug Channels Institute (DCI) will once again host this invitation-only gathering of senior leaders and de",
-        "ja": "By Tyler Novotny We’re excited to announce the return of the Drug Channels Leadership Forum (DCLF), taking place March 15–17, 2027, at the JW Marriott Miami Turnberry Resort &amp; Spa in Miami. Drug Channels Institute (DCI) will once again host this invitation-only gathering of senior leaders and de"
-      },
-      "category": "Pharma",
-      "score": 10,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/968867510/0/drugchannels~Drug-Channels-Leadership-Forum-Antonio-Ciaccia-to-Serve-as-Moderator.html",
-      "published": "Wed, 09 Sep 2026 10:30:00 +0000"
-    },
-    {
       "id": "https://www.fiercepharma.com/premium/webinar/1385005",
       "headline": {
         "en": "Beyond Reimbursements: Uniting Patient Payments & Travel Logistics to Drive Trial Performance",
@@ -673,6 +645,34 @@
       },
       "link": "https://feeds.feedblitz.com/~/969412136/0/drugchannels~Keep-Your-Patient-Program-at-the-Forefront-of-Innovation-at-Patient-Pathways-The-Copay-and-Patient-Services-Congress.html",
       "published": "Mon, 21 Sep 2026 10:30:00 +0000"
+    },
+    {
+      "id": "https://feeds.feedblitz.com/~/972752654/0/drugchannels~The-State-of-Employer-Pharmacy-Benefits-in-When-Plan-Savings-Come-From-Higher-Patient-Costs.html",
+      "headline": {
+        "en": "The State of Employer Pharmacy Benefits in 2026: When Plan Savings Come From Higher Patient Costs",
+        "es": "The State of Employer Pharmacy Benefits in 2026: When Plan Savings Come From Higher Patient Costs",
+        "zh": "The State of Employer Pharmacy Benefits in 2026: When Plan Savings Come From Higher Patient Costs",
+        "vi": "The State of Employer Pharmacy Benefits in 2026: When Plan Savings Come From Higher Patient Costs",
+        "ja": "The State of Employer Pharmacy Benefits in 2026: When Plan Savings Come From Higher Patient Costs"
+      },
+      "summary": {
+        "en": "By Bryce Platt, PharmD Employers pharmacy benefit design changes determine who pays for a prescription and who gets the savings. Lower net plan liability on a prescription can reflect a lower drug price, a larger patient contribution, or more manufacturer funding. Those outcomes have different impac",
+        "es": "By Bryce Platt, PharmD Employers pharmacy benefit design changes determine who pays for a prescription and who gets the savings. Lower net plan liability on a prescription can reflect a lower drug price, a larger patient contribution, or more manufacturer funding. Those outcomes have different impac",
+        "zh": "By Bryce Platt, PharmD Employers pharmacy benefit design changes determine who pays for a prescription and who gets the savings. Lower net plan liability on a prescription can reflect a lower drug price, a larger patient contribution, or more manufacturer funding. Those outcomes have different impac",
+        "vi": "By Bryce Platt, PharmD Employers pharmacy benefit design changes determine who pays for a prescription and who gets the savings. Lower net plan liability on a prescription can reflect a lower drug price, a larger patient contribution, or more manufacturer funding. Those outcomes have different impac",
+        "ja": "By Bryce Platt, PharmD Employers pharmacy benefit design changes determine who pays for a prescription and who gets the savings. Lower net plan liability on a prescription can reflect a lower drug price, a larger patient contribution, or more manufacturer funding. Those outcomes have different impac"
+      },
+      "category": "Pricing",
+      "score": -20,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://feeds.feedblitz.com/~/972752654/0/drugchannels~The-State-of-Employer-Pharmacy-Benefits-in-When-Plan-Savings-Come-From-Higher-Patient-Costs.html",
+      "published": "Tue, 10 Nov 2026 11:00:00 +0000"
     },
     {
       "id": "https://feeds.feedblitz.com/~/971775716/0/drugchannels~Informas-Trade-and-Channel-Strategies.html",
