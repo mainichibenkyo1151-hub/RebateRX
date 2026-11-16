@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T04:58:49.418736Z",
+  "generatedAt": "2026-11-16T14:56:45.517527Z",
   "count": 25,
   "articles": [
     {
@@ -141,34 +141,6 @@
       },
       "link": "https://feeds.feedblitz.com/~/971807645/0/drugchannels~Alternative-PBM-Satisfaction-Declined-in-Shrinking-the-Advantage-Over-the-Big-Three-PBMs.html",
       "published": "Tue, 20 Oct 2026 10:00:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/969130838/0/drugchannels~Preorder-DCI%e2%80%99s-New-Economic-Report-on-Pharmaceutical-Wholesalers-and-Specialty-Distributors.html",
-      "headline": {
-        "en": "Preorder DCI’s New 2026-27 Economic Report on Pharmaceutical Wholesalers and Specialty Distributors",
-        "es": "Preorder DCI’s New 2026-27 Economic Report on Pharmaceutical Wholesalers and Specialty Distributors",
-        "zh": "Preorder DCI’s New 2026-27 Economic Report on Pharmaceutical Wholesalers and Specialty Distributors",
-        "vi": "Preorder DCI’s New 2026-27 Economic Report on Pharmaceutical Wholesalers and Specialty Distributors",
-        "ja": "Preorder DCI’s New 2026-27 Economic Report on Pharmaceutical Wholesalers and Specialty Distributors"
-      },
-      "summary": {
-        "en": "On October 12, 2026, Drug Channels Institute will release our 2026-27 Economic Report on Pharmaceutical Wholesalers and Specialty Distributors . The U.S. prescription drug market continues to expand, but the foundations of the drug channel are shifting. Legislative intervention, pricing realignment,",
-        "es": "On October 12, 2026, Drug Channels Institute will release our 2026-27 Economic Report on Pharmaceutical Wholesalers and Specialty Distributors . The U.S. prescription drug market continues to expand, but the foundations of the drug channel are shifting. Legislative intervention, pricing realignment,",
-        "zh": "On October 12, 2026, Drug Channels Institute will release our 2026-27 Economic Report on Pharmaceutical Wholesalers and Specialty Distributors . The U.S. prescription drug market continues to expand, but the foundations of the drug channel are shifting. Legislative intervention, pricing realignment,",
-        "vi": "On October 12, 2026, Drug Channels Institute will release our 2026-27 Economic Report on Pharmaceutical Wholesalers and Specialty Distributors . The U.S. prescription drug market continues to expand, but the foundations of the drug channel are shifting. Legislative intervention, pricing realignment,",
-        "ja": "On October 12, 2026, Drug Channels Institute will release our 2026-27 Economic Report on Pharmaceutical Wholesalers and Specialty Distributors . The U.S. prescription drug market continues to expand, but the foundations of the drug channel are shifting. Legislative intervention, pricing realignment,"
-      },
-      "category": "Pricing",
-      "score": 40,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/969130838/0/drugchannels~Preorder-DCI%e2%80%99s-New-Economic-Report-on-Pharmaceutical-Wholesalers-and-Specialty-Distributors.html",
-      "published": "Tue, 15 Sep 2026 10:00:00 +0000"
     },
     {
       "id": "https://feeds.feedblitz.com/~/971003609/0/drugchannels~Informa%e2%80%99s-PBM-Contracting-Summit.html",
@@ -337,6 +309,62 @@
       },
       "link": "https://feeds.feedblitz.com/~/970750814/0/drugchannels~Drug-Channels-News-Roundup-September-The-B-Margin-Squeeze-Economics-of-Cutting-List-Price-Patient-Adherence-from-Copay-Cards-Negative-Part-D-Premiums-and-Drug.html",
       "published": "Tue, 29 Sep 2026 10:30:00 +0000"
+    },
+    {
+      "id": "https://www.fiercepharma.com/premium/webinar/1385005",
+      "headline": {
+        "en": "Beyond Reimbursements: Uniting Patient Payments & Travel Logistics to Drive Trial Performance",
+        "es": "Beyond Reimbursements: Uniting Patient Payments & Travel Logistics to Drive Trial Performance",
+        "zh": "Beyond Reimbursements: Uniting Patient Payments & Travel Logistics to Drive Trial Performance",
+        "vi": "Beyond Reimbursements: Uniting Patient Payments & Travel Logistics to Drive Trial Performance",
+        "ja": "Beyond Reimbursements: Uniting Patient Payments & Travel Logistics to Drive Trial Performance"
+      },
+      "summary": {
+        "en": "Beyond Reimbursements: Uniting Patient Payments &amp; Travel Logistics to Drive Trial Performance scox Thu, 10/22/2026 - 14:30 Wed, 12/09/2026 - 11:00 Resource Type Webinar Michael Tucker - Moderator Dave Bjork Ashley Hopkins Chelsey Ryan What if you could increase patient screening rates by up to 5",
+        "es": "Beyond Reimbursements: Uniting Patient Payments &amp; Travel Logistics to Drive Trial Performance scox Thu, 10/22/2026 - 14:30 Wed, 12/09/2026 - 11:00 Resource Type Webinar Michael Tucker - Moderator Dave Bjork Ashley Hopkins Chelsey Ryan What if you could increase patient screening rates by up to 5",
+        "zh": "Beyond Reimbursements: Uniting Patient Payments &amp; Travel Logistics to Drive Trial Performance scox Thu, 10/22/2026 - 14:30 Wed, 12/09/2026 - 11:00 Resource Type Webinar Michael Tucker - Moderator Dave Bjork Ashley Hopkins Chelsey Ryan What if you could increase patient screening rates by up to 5",
+        "vi": "Beyond Reimbursements: Uniting Patient Payments &amp; Travel Logistics to Drive Trial Performance scox Thu, 10/22/2026 - 14:30 Wed, 12/09/2026 - 11:00 Resource Type Webinar Michael Tucker - Moderator Dave Bjork Ashley Hopkins Chelsey Ryan What if you could increase patient screening rates by up to 5",
+        "ja": "Beyond Reimbursements: Uniting Patient Payments &amp; Travel Logistics to Drive Trial Performance scox Thu, 10/22/2026 - 14:30 Wed, 12/09/2026 - 11:00 Resource Type Webinar Michael Tucker - Moderator Dave Bjork Ashley Hopkins Chelsey Ryan What if you could increase patient screening rates by up to 5"
+      },
+      "category": "Pharma",
+      "score": 0,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://www.fiercepharma.com/premium/webinar/1385005",
+      "published": "Thu, 22 Oct 2026 18:30:54 +0000"
+    },
+    {
+      "id": "https://feeds.feedblitz.com/~/973063139/0/drugchannels~The-DirecttoPatient-Opportunity-Evolving-Pharma%e2%80%99s-DTP-Strategy-for-Lasting-Patient-Engagement.html",
+      "headline": {
+        "en": "The Direct-to-Patient Opportunity: Evolving Pharma’s DTP Strategy for Lasting Patient Engagement",
+        "es": "The Direct-to-Patient Opportunity: Evolving Pharma’s DTP Strategy for Lasting Patient Engagement",
+        "zh": "The Direct-to-Patient Opportunity: Evolving Pharma’s DTP Strategy for Lasting Patient Engagement",
+        "vi": "The Direct-to-Patient Opportunity: Evolving Pharma’s DTP Strategy for Lasting Patient Engagement",
+        "ja": "The Direct-to-Patient Opportunity: Evolving Pharma’s DTP Strategy for Lasting Patient Engagement"
+      },
+      "summary": {
+        "en": "Today's guest post comes from Sahil Naik, Chief Growth Officer at PHIL Inc. Sahil examines how direct-to-patient programs may be able to support affordability and patient engagement throughout the treatment journey. He highlights integrated access pathways and targeted patient engagement as opportun",
+        "es": "Today's guest post comes from Sahil Naik, Chief Growth Officer at PHIL Inc. Sahil examines how direct-to-patient programs may be able to support affordability and patient engagement throughout the treatment journey. He highlights integrated access pathways and targeted patient engagement as opportun",
+        "zh": "Today's guest post comes from Sahil Naik, Chief Growth Officer at PHIL Inc. Sahil examines how direct-to-patient programs may be able to support affordability and patient engagement throughout the treatment journey. He highlights integrated access pathways and targeted patient engagement as opportun",
+        "vi": "Today's guest post comes from Sahil Naik, Chief Growth Officer at PHIL Inc. Sahil examines how direct-to-patient programs may be able to support affordability and patient engagement throughout the treatment journey. He highlights integrated access pathways and targeted patient engagement as opportun",
+        "ja": "Today's guest post comes from Sahil Naik, Chief Growth Officer at PHIL Inc. Sahil examines how direct-to-patient programs may be able to support affordability and patient engagement throughout the treatment journey. He highlights integrated access pathways and targeted patient engagement as opportun"
+      },
+      "category": "Pharma",
+      "score": 0,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://feeds.feedblitz.com/~/973063139/0/drugchannels~The-DirecttoPatient-Opportunity-Evolving-Pharma%e2%80%99s-DTP-Strategy-for-Lasting-Patient-Engagement.html",
+      "published": "Mon, 16 Nov 2026 11:00:00 +0000"
     },
     {
       "id": "https://feeds.feedblitz.com/~/972938120/0/drugchannels~Your-Hub-May-Be-Working-Your-Provider-Still-May-Be-Drowning.html",
@@ -673,34 +701,6 @@
       },
       "link": "https://feeds.feedblitz.com/~/972752654/0/drugchannels~The-State-of-Employer-Pharmacy-Benefits-in-When-Plan-Savings-Come-From-Higher-Patient-Costs.html",
       "published": "Tue, 10 Nov 2026 11:00:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/971775716/0/drugchannels~Informas-Trade-and-Channel-Strategies.html",
-      "headline": {
-        "en": "Informa's Trade and Channel Strategies",
-        "es": "Informa's Trade and Channel Strategies",
-        "zh": "Informa's Trade and Channel Strategies",
-        "vi": "Informa's Trade and Channel Strategies",
-        "ja": "Informa's Trade and Channel Strategies"
-      },
-      "summary": {
-        "en": "December 8-10, 2026, W Philadelphia Exclusive Offer—Use promo 26DC10 to save 10%* NAVIGATE THE CONVERGENCE: PREPARE, DON'T PREDICT In the next eighteen months, every assumption of pharmaceutical channel strategy breaks all at once. The patent cliff, WAC reductions, loss of exclusivity, medical benef",
-        "es": "December 8-10, 2026, W Philadelphia Exclusive Offer—Use promo 26DC10 to save 10%* NAVIGATE THE CONVERGENCE: PREPARE, DON'T PREDICT In the next eighteen months, every assumption of pharmaceutical channel strategy breaks all at once. The patent cliff, WAC reductions, loss of exclusivity, medical benef",
-        "zh": "December 8-10, 2026, W Philadelphia Exclusive Offer—Use promo 26DC10 to save 10%* NAVIGATE THE CONVERGENCE: PREPARE, DON'T PREDICT In the next eighteen months, every assumption of pharmaceutical channel strategy breaks all at once. The patent cliff, WAC reductions, loss of exclusivity, medical benef",
-        "vi": "December 8-10, 2026, W Philadelphia Exclusive Offer—Use promo 26DC10 to save 10%* NAVIGATE THE CONVERGENCE: PREPARE, DON'T PREDICT In the next eighteen months, every assumption of pharmaceutical channel strategy breaks all at once. The patent cliff, WAC reductions, loss of exclusivity, medical benef",
-        "ja": "December 8-10, 2026, W Philadelphia Exclusive Offer—Use promo 26DC10 to save 10%* NAVIGATE THE CONVERGENCE: PREPARE, DON'T PREDICT In the next eighteen months, every assumption of pharmaceutical channel strategy breaks all at once. The patent cliff, WAC reductions, loss of exclusivity, medical benef"
-      },
-      "category": "Pharma",
-      "score": -40,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/971775716/0/drugchannels~Informas-Trade-and-Channel-Strategies.html",
-      "published": "Mon, 19 Oct 2026 10:30:00 +0000"
     }
   ]
 }
