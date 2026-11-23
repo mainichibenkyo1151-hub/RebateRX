@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T05:57:57.548562Z",
+  "generatedAt": "2026-11-23T17:45:47.915564Z",
   "count": 25,
   "articles": [
     {
@@ -647,6 +647,34 @@
       "published": "Tue, 22 Sep 2026 10:00:00 +0000"
     },
     {
+      "id": "https://www.fiercepharma.com/resource/glp-1-paradox-strong-clinical-evidence-weak-persistence-rates",
+      "headline": {
+        "en": "The GLP-1 Paradox: Strong Clinical Evidence, Weak Persistence Rates",
+        "es": "The GLP-1 Paradox: Strong Clinical Evidence, Weak Persistence Rates",
+        "zh": "The GLP-1 Paradox: Strong Clinical Evidence, Weak Persistence Rates",
+        "vi": "The GLP-1 Paradox: Strong Clinical Evidence, Weak Persistence Rates",
+        "ja": "The GLP-1 Paradox: Strong Clinical Evidence, Weak Persistence Rates"
+      },
+      "summary": {
+        "en": "The GLP-1 Paradox: Strong Clinical Evidence, Weak Persistence Rates Explore the factors impacting GLP-1 patient adherence and persistence, including access and affordability barriers. This infographic highlights key intervention opportunities for pharma teams to help patients stay on therapy. mcotta",
+        "es": "The GLP-1 Paradox: Strong Clinical Evidence, Weak Persistence Rates Explore the factors impacting GLP-1 patient adherence and persistence, including access and affordability barriers. This infographic highlights key intervention opportunities for pharma teams to help patients stay on therapy. mcotta",
+        "zh": "The GLP-1 Paradox: Strong Clinical Evidence, Weak Persistence Rates Explore the factors impacting GLP-1 patient adherence and persistence, including access and affordability barriers. This infographic highlights key intervention opportunities for pharma teams to help patients stay on therapy. mcotta",
+        "vi": "The GLP-1 Paradox: Strong Clinical Evidence, Weak Persistence Rates Explore the factors impacting GLP-1 patient adherence and persistence, including access and affordability barriers. This infographic highlights key intervention opportunities for pharma teams to help patients stay on therapy. mcotta",
+        "ja": "The GLP-1 Paradox: Strong Clinical Evidence, Weak Persistence Rates Explore the factors impacting GLP-1 patient adherence and persistence, including access and affordability barriers. This infographic highlights key intervention opportunities for pharma teams to help patients stay on therapy. mcotta"
+      },
+      "category": "Pharma",
+      "score": -20,
+      "patientImpact": {
+        "en": "May affect drug access, coverage, or cost.",
+        "es": "May affect drug access, coverage, or cost.",
+        "zh": "May affect drug access, coverage, or cost.",
+        "vi": "May affect drug access, coverage, or cost.",
+        "ja": "May affect drug access, coverage, or cost."
+      },
+      "link": "https://www.fiercepharma.com/resource/glp-1-paradox-strong-clinical-evidence-weak-persistence-rates",
+      "published": "Tue, 17 Nov 2026 14:40:10 +0000"
+    },
+    {
       "id": "https://feeds.feedblitz.com/~/972752654/0/drugchannels~The-State-of-Employer-Pharmacy-Benefits-in-When-Plan-Savings-Come-From-Higher-Patient-Costs.html",
       "headline": {
         "en": "The State of Employer Pharmacy Benefits in 2026: When Plan Savings Come From Higher Patient Costs",
@@ -673,34 +701,6 @@
       },
       "link": "https://feeds.feedblitz.com/~/972752654/0/drugchannels~The-State-of-Employer-Pharmacy-Benefits-in-When-Plan-Savings-Come-From-Higher-Patient-Costs.html",
       "published": "Tue, 10 Nov 2026 11:00:00 +0000"
-    },
-    {
-      "id": "https://feeds.feedblitz.com/~/971775716/0/drugchannels~Informas-Trade-and-Channel-Strategies.html",
-      "headline": {
-        "en": "Informa's Trade and Channel Strategies",
-        "es": "Informa's Trade and Channel Strategies",
-        "zh": "Informa's Trade and Channel Strategies",
-        "vi": "Informa's Trade and Channel Strategies",
-        "ja": "Informa's Trade and Channel Strategies"
-      },
-      "summary": {
-        "en": "December 8-10, 2026, W Philadelphia Exclusive Offer—Use promo 26DC10 to save 10%* NAVIGATE THE CONVERGENCE: PREPARE, DON'T PREDICT In the next eighteen months, every assumption of pharmaceutical channel strategy breaks all at once. The patent cliff, WAC reductions, loss of exclusivity, medical benef",
-        "es": "December 8-10, 2026, W Philadelphia Exclusive Offer—Use promo 26DC10 to save 10%* NAVIGATE THE CONVERGENCE: PREPARE, DON'T PREDICT In the next eighteen months, every assumption of pharmaceutical channel strategy breaks all at once. The patent cliff, WAC reductions, loss of exclusivity, medical benef",
-        "zh": "December 8-10, 2026, W Philadelphia Exclusive Offer—Use promo 26DC10 to save 10%* NAVIGATE THE CONVERGENCE: PREPARE, DON'T PREDICT In the next eighteen months, every assumption of pharmaceutical channel strategy breaks all at once. The patent cliff, WAC reductions, loss of exclusivity, medical benef",
-        "vi": "December 8-10, 2026, W Philadelphia Exclusive Offer—Use promo 26DC10 to save 10%* NAVIGATE THE CONVERGENCE: PREPARE, DON'T PREDICT In the next eighteen months, every assumption of pharmaceutical channel strategy breaks all at once. The patent cliff, WAC reductions, loss of exclusivity, medical benef",
-        "ja": "December 8-10, 2026, W Philadelphia Exclusive Offer—Use promo 26DC10 to save 10%* NAVIGATE THE CONVERGENCE: PREPARE, DON'T PREDICT In the next eighteen months, every assumption of pharmaceutical channel strategy breaks all at once. The patent cliff, WAC reductions, loss of exclusivity, medical benef"
-      },
-      "category": "Pharma",
-      "score": -40,
-      "patientImpact": {
-        "en": "May affect drug access, coverage, or cost.",
-        "es": "May affect drug access, coverage, or cost.",
-        "zh": "May affect drug access, coverage, or cost.",
-        "vi": "May affect drug access, coverage, or cost.",
-        "ja": "May affect drug access, coverage, or cost."
-      },
-      "link": "https://feeds.feedblitz.com/~/971775716/0/drugchannels~Informas-Trade-and-Channel-Strategies.html",
-      "published": "Mon, 19 Oct 2026 10:30:00 +0000"
     }
   ]
 }
